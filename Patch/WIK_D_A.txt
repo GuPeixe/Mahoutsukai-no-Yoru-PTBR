@@ -1,0 +1,230 @@
+[sha:cf3a2ee6b9848b2765dd99c0b1160294f4852dee]{
+-- Page 1, Offset 21832.
+-- "Brrr. It feels colder here than it does outside."
+"Brrr. Parece que tá mais frio aqui do que lá fora"
+}
+[sha:89abf5b5909b60d1e74cfb4e4c22185c7dd69873]{
+-- Page 1, Offset 21833.
+-- "Yeah. Let's move to the drawing room."
+"Sim. Vamos pra sala de estar."
+}
+[sha:fe2d8c6dfca0bc1191001102e686de452d2989fe]{
+-- Page 1, Offset 21834.
+-- "I agree, but...
+"Eu concordo, mas..."
+}
+[sha:8ace75db482dfc91cd0359c26cbd21d4cdc10e9e]{
+-- Page 1, Offset 21835. Glued. Mods: @x.
+-- ...Ah well, Soujyuro's business is Soujyuro's business. I was going to wait for him, but there's probably no need."
+"...Ah bem, o problema do Soujyuro é o problema do Soujyuro. Eu ia esperar por ele, mas provavelmente não precisa."
+}
+[sha:d5ac383d832139de0c50ad9c0f05b79ab8eddc2d]{
+-- Page 2, Offset 21836.
+-- "Sizuki was outside?"
+"Sizuki estava lá fora?"
+}
+[sha:6251e9e27e248f71b57ba7316cbc14601bda9011]{
+-- Page 2, Offset 21837.
+-- "Yeah, cutting the grass near the road. He was going at it hard, like he's expecting royalty."
+"Sim, cortando a grama perto da estrada. Ele estava dando duro, como se estivesse esperando a realeza."
+}
+[sha:cc8c8ea3b152673fe2dffad8f713542bbeeae86b]{
+-- Page 3, Offset 21838.
+-- "..."
+"..."
+}
+[sha:205a12efa3b0e8fc3012c27743b823be9f46e592]{
+-- Page 3, Offset 21839.
+-- I could never figure out what made that guy tick.
+Nunca consegui entender o que fazia aquele cara vibrar.
+}
+[sha:0f1902f7e05e7640e962bebce1a449e9853120a0]{
+-- Page 3, Offset 21840.
+-- It was too tiring to even try.
+Era cansativo só de tentar.
+}
+[sha:d874f1547c1bde175e4dad3aec85df0815dc3370]{
+-- Page 3, Offset 21841.
+-- We moved to the drawing room in search of warmth.
+Nos dirigimos para a sala de estar em busca de calor.
+}
+[sha:0bfe39b2107a1614e5cdd54141d5963752a3ea5e]{
+-- Page 4, Offset 21842.
+-- The rain showed no sign of stopping.
+A chuva não mostrava sinais de que iria parar.
+}
+[sha:4faebaf8c14b0be6cd8a56dc2eb56d9086f6f008]{
+-- Page 4, Offset 21843.
+-- In fact, it seemed to be getting stronger. The sun hadn't set yet, but it was already as dark as night outside.
+Na verdade, parecia ficar mais forte. O sol ainda não havia se posto, mas já estava escuro como a noite lá fora.
+}
+[sha:04efa908134f43bc988d3174056d1e988cdaba20]{
+-- Page 5, Offset 21844.
+-- The party had yet to begin.
+A festa ainda estava para começar.
+}
+[sha:b19eedcffaab330ae8fda12484243673ded49590]{
+-- Page 5, Offset 21845.
+-- Looking over the drawing room and the sunroom,
+Olhando para a sala de estar e o solário,
+}
+[sha:dc5f7b5e4b4353aa1d60af002154d9127c08ff81]{
+-- Page 5, Offset 21846.
+-- I saw everyone engaged in conversation.
+eu vi todo mundo conversando.
+}
+[sha:b5bf5172b1d5b9e75b2469da460124182956354d]{
+-- Page 5, Offset 21847.
+-- The card game Housuke brought had caused a stir in the drawing room.
+O jogo de cartas que Housuke trouxe havia causado agitação na sala de estar.
+}
+[sha:17d7bdda84814c82668952d123db4fc8b42a9717]{
+-- Page 5, Offset 21848.
+-- It was getting competitive, mainly.
+Estava ficando competitivo, principalmente.
+}
+[sha:5bd525f8ca6fd674f9ea8531afa4e420213671da]{
+-- Page 6, Offset 21849.
+-- Apparently they were playing a fantasy-themed construction game from Germany, called Puppet Pass.
+Aparentemente eles estavam jogando um jogo Alemão de construção com tema de fantasia, chamado Puppet Pass.
+}
+[sha:af99d03ea286a228f84f8124d7aedc19244825ec]{
+-- Page 6, Offset 21850.
+-- It was basically the kind of game where players try to sabotage their opponents, so everyone was putting on forced smiles while they schemed against each other.
+Era basicamente o tipo de jogo aonde participantes tentavam sabotar seus oponentes, então todos estavam forçando sorrisos enquanto tramavam um contra o outro.
+}
+[sha:00b212f1f9deae80531c938fcad8eeb8156e8e86]{
+-- Page 6, Offset 21851.
+-- In contrast, the older people in the sunroom were drinking wine and watching the students intently.
+Em contraste, as pessoas mais velhas no solário estavam bebendo vinho e observando os alunos atentamente.
+}
+[sha:9db88b527f6373d2d55413bef5e0da97a64aeaef]{
+-- Page 7, Offset 21852.
+-- "I'm surprised you're allowing people to roam around before the birthday party, Alice. Had a change of heart?"
+"Estou surpreso por você permitir que as pessoas andem por aí antes da festa de aniversário, Alice. Mudou de idéia?"
+}
+[sha:ed3fb1275f4307cf69deba7b39bab19908184340]{
+-- Page 7, Offset 21853.
+-- "...Not particularly. I made walls where I didn't want people to go. It's only for today, so no one should get lost."
+"...Não particularmente. Eu fiz paredes aonde não queria que as pessoas fossem. É apenas por hoje, então ninguém deve se perder."
+}
+[sha:5e90682fd31815309eea510e727f2da1c6c2703b]{
+-- Page 8, Offset 21854.
+-- "You made walls? From what?
+"Você fez paredes? Do quê?
+}
+[sha:006182a6703332dce2c44dcfd8086cec3f1224e5]{
+-- Page 8, Offset 21855. Glued. Mods: @x.
+-- And what do you mean about people getting lost? I know the mansion's big, but it's not that big."
+E o que você quer dizer com pessoas se perderem? Eu sei que a mansão é grande, mas não tão grande assim."
+}
+[sha:af427accbe5fe737754ec2d7227ab646cfd1229c]{
+-- Page 9, Offset 21856.
+-- "Thank you for preparing guest rooms for us, by the way. I plan to leave this evening, but I appreciate the gesture!
+"A propósito, obrigada por preparar quartos para nós. Eu pretendo sair esta noite, mas aprecio o gesto!
+}
+[sha:2da28e31bfaec4572e337d6558f1157d30d31aa6]{
+-- Page 9, Offset 21857.
+-- Since we're here, Yui, why don't you go change?
+Já que estamos aqui, Yui, por que não vai se trocar?
+}
+[sha:14ffd3bde017f020cca2b2ddc9332392b59ad1ed]{
+-- Page 9, Offset 21858.
+-- I'll lend you my qipao. Even a nun shouldn't attend a party in her habit."
+Eu te empresto o meu qipao. Mesmo uma freira não deve ir a uma festa de hábito."
+}
+[sha:57d48d9453c19c190edb01c93313081f8679dd35]{
+-- Page 10, Offset 21859.
+-- "I'm fine, thank you. Taking off my Mystic Code in a witch's house would be tantamount to suicide. Unlike you, I'm not here for fun."
+"Eu estou bem, obrigada. Tirar meu Código Místico na casa de uma bruxa seria equivalente ao suicídio. Diferente de você, eu não estou aqui para me diverso"
+}
+[sha:96e8c1ef1b315529c38fc1d5c97ce33b91484e26]{
+-- Page 11, Offset 21860.
+-- "We *are* here for fun, actually. Even I came unarmed, but Sister Yuika insisted...
+"Na verdade, nós *estamos* aqui para nós divertir. Até mesmo eu vim desarmado, mas Irmã Yuika insistiu...
+}
+[sha:0bce2b041a99bbdaf77f0ca1a7cfceceb4d01f05]{
+-- Page 11, Offset 21861.
+-- Why do you always have to be so on edge, like you're ready to fight at a moment's notice?"
+Por que você sempre tem que estar tão nervosa, como se estivesse pronta para lutar a qualquer momento?" 
+}
+[sha:d7354ee9a92b143905faedebd290839dd40186ea]{
+-- Page 11, Offset 21862.
+-- "Someone has to be serious out of the three of us."
+"Alguém tem que ser sério entre nós três."
+}
+[sha:a1c4d4bd1a21cd40885c7ee98b234a10e0dbdb32]{
+-- Page 12, Offset 21863.
+-- The clock struck six.
+O relógio atingiu as seis.
+}
+[sha:b2427db8a57972907c8ab7ed0dc944e6d953e76c]{
+-- Page 12, Offset 21864.
+-- Outside, it was completely dark.
+Lá fora, estava completamente escuro.
+}
+[sha:0e834e94681714eefca9a7a88f0ec361d32771fb]{
+-- Page 12, Offset 21865.
+-- With Mr. Yamasiro and the church staff here, it would probably be safe to go home tonight, but the rain gave me pause.
+Com Sr. Yamasiro e o pessoal da igreja aqui, provavelmente seria seguro voltar para casa hoje, mas a chuva me fez parar.
+}
+[sha:47d59f72da6bbd4dbed6e99492e82ca66d535bd3]{
+-- Page 13, Offset 21866.
+-- "...I think it's about time we got ready.
+"...Acho que está na hora de nos prepararmos.
+}
+[sha:05b17158264de2c59451acc8f9a3d823495f28db]{
+-- Page 13, Offset 21867.
+-- Has anyone seen Tokie?"
+Alguém viu o Tokie?"
+}
+[sha:228c5580b4437d3a473c7053da7c68b11f96914c]{
+-- Page 13, Offset 21868.
+-- Miss Kuonji declared the end to the card games with an unexpected question.
+A Senhorita Kuonji declarou o fim dos jogos de cartas com uma pergunta inesperada.
+}
+[sha:12522fe6156c683e71a60bcf76850e1f7f483793]{
+-- Page 14, Offset 21869.
+-- "Tokie? Who's Tokie?"
+"Tokie? Quem é Tokie?"
+}
+[sha:b40c6cb2126642babfb583e200fd484de783f57c]{
+-- Page 14, Offset 21870.
+-- "You mean Mr. Tokitsu? He's... huh?
+"Você quer dizer Sr. Tokitsu? Ele... huh?
+}
+[sha:da750b0db39aee93e1abfcba8169c1be4b81ee53]{
+-- Page 14, Offset 21871.
+-- Wait, Kojika, you haven't spoken to the old man yet?"
+Espera, Kojika, você ainda não falou com o velho?"
+}
+[sha:64a6eaa75c2f398d14e479ba6834a5aabec3b693]{
+-- Page 14, Offset 21872.
+-- "What old man? Are there even more people coming? How many guests are going to be at this party, anyway?"
+"Que velho? Tem mais gente chegando? Quantos convidados vão estar nesta festa, afinal?"
+}
+[sha:efcda94a62661ac036e99e08463662072b65b234]{
+-- Page 15, Offset 21873.
+-- "Me, Aoko, Sizuki, Tsukiji, Kinomi, you, Tokie, and a few others. Thirteen in all.
+"Eu, Aoko, Sizuki, Tsukiji, Kinomi, você, Tokie, e mais alguns outros. Treze ao total.
+}
+[sha:d545ec953634e8b63540a474c4019fad44788bba]{
+-- Page 15, Offset 21874.
+-- We haven't been able to get everyone in the same room yet, though."
+Contudo, ainda não conseguimos colocar todos na mesma sala."
+}
+[sha:4d5b7feeb1b2f182e812ad854f80146b48e962f9]{
+-- Page 15, Offset 21875.
+-- "Thirteen..."
+"Treze..."
+}
+[sha:213f651159b2df7bb233bfba9389fac6397a28a4]{
+-- Page 15, Offset 21876.
+-- One, two, three...
+Um, dois, três...
+}
+[sha:6fedaeb66cb79fed63920021a98d7faab7e7d775]{
+-- Page 15, Offset 21877.
+-- I counted the people in the room.
+Eu contei as pessoas na sala.
+}

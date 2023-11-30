@@ -1,0 +1,10 @@
+[sha:34f33add225a4d75b5318ace380ede43367e4d9c]{
+-- Page 0, Offset 22153.
+-- As crazy as it sounds, maybe he was eaten by a dog or something.
+Por mais louco que pareça, talvez ele tenha sido comido por um cachorro ou algo assim.
+}
+[sha:dd1dc9facba09c026d5b588862423a879884fd87]{
+-- Page 0, Offset 22154.
+-- ...But why?
+...Mas por que?
+}

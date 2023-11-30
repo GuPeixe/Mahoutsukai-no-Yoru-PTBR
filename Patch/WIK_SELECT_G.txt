@@ -1,0 +1,20 @@
+[sha:0d0af2a7d1ad0466fa1717b0fec4fb2845ae441a]{
+-- Page 31, Offset 22081. Mods: @e.
+-- -Decision G-
+-Decisão G-
+}
+[sha:7ddee9a76958921017e44fe0b7438be9576afaa1]{
+-- Page 31, Offset 24032. Choice.
+-- It was some kind of bread.
+Era algum tipo de pão.
+}
+[sha:bfe8d4070084e76e659b73bd91b562c7811fa29b]{
+-- Page 31, Offset 24033. Choice.
+-- Realistically, a small explosive.
+Realisticamente, um explosivo pequeno.
+}
+[sha:bbc19fc1963b59716123082dc0ea323246fcee98]{
+-- Page 31, Offset 24034. Choice.
+-- A dog or something chewed him up.
+Um cachorro ou algo do tipo mastigou ele.
+}

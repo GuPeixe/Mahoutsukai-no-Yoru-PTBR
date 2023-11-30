@@ -1,0 +1,5 @@
+[sha:63467c48ee6230e8a405764fe61a8b34d1159152]{
+-- Page 0, Offset 22152.
+-- I think it was a small explosive, practically speaking.
+Eu acho que foi um pequeno explosivo, em termos práticos.
+}

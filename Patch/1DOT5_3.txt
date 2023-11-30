@@ -1,0 +1,1555 @@
+[sha:38aa8bf294981c085f4ff85ce541d6df6bb8b952]{
+-- Page 0, Offset 1337.
+-- GOOD MORNING.
+BOM DIA.
+}
+[sha:a59586f0458f2ce4f21c396f5fdbf040011c787a]{
+-- Page 0, Offset 1338.
+-- TIME CHECK: 00:00
+VERIFICAÇÃO DE HORÁRIO: 00:00
+}
+[sha:18ddadbfb321e64b6593d31a6be20991ab18d1b8]{
+-- Page 1, Offset 1339.
+-- 24 HOURS SINCE LAST UPDATE.
+24 HORAS DESDA ÚLTIMA ATUALIZAÇÃO.
+}
+[sha:a1e5c1992681dd9ba80a8db8823ecfe9feae3556]{
+-- Page 1, Offset 1340.
+-- RUNNING BACKUP... TRANSMITTING LOG...
+EXECUTANDO BACKUP... TRANSMITINDO O REGISTRO...
+}
+[sha:36dce00bfd3f20ff9a2ea16d890126581ce21cb2]{
+-- Page 1, Offset 1341.
+-- COMMENCING LOCAL SCAN...
+INICIANDO O ESCANEAMENTO DO LOCAL...
+}
+[sha:fc652a26210f7b782fcfe41b15cd0b6d692b45fa]{
+-- Page 2, Offset 1342. Mods: @k, @e.
+-- ATMOSPHERIC ANALYSIS-
+ANÁLISE ATMOSFÉRICA-
+}
+[sha:71a09aac8931d4af19e2ec181f3fada8191eadee]{
+-- Page 2, Offset 1343. Mods: @k, @e.
+-- NITROGEN: NOMINAL.
+NITROGÊNIO: NORMAL.
+}
+[sha:ebd2599c5210691e24cca66250bfb4bfc1aaf9e8]{
+-- Page 2, Offset 1344. Mods: @k, @e.
+-- OXYGEN: NOMINAL.
+OXIGÊNIO: NORMAL.
+}
+[sha:af8b69f1aa070efe331d1381b51e2f23e050a41b]{
+-- Page 2, Offset 1345. Mods: @k, @e.
+-- ARGON: NOMINAL.
+ARGÔNIO: NORMAL.
+}
+[sha:f50cc6ac6231c6ae014709c672e83d44a2395a0e]{
+-- Page 2, Offset 1346.
+-- CARBON DIOXIDE: NOMINAL.
+DIÓXIDO DE CARBONO: NORMAL.
+}
+[sha:23f6cb6bcbf4c6cb959e3035bd50ebefe8a80aa5]{
+-- Page 2, Offset 1347.
+-- THEORETICAL FIFTH ELEMENT: MULTIPLE ANOMALIES DETECTED.
+QUINTO ELEMENTO TEÓRICO: MULTIPLAS ANOMALIAS DETECTADAS.
+}
+[sha:8523581ec2de65efb6050844cebdad5e33eba6c4]{
+-- Page 3, Offset 1348.
+-- LOCAL SPACE-TIME DISCREPANCY DETECTED.
+DISCREPÂNCIA ESPAÇO-TEMPORAL DETECTADA.
+}
+[sha:4bb98073562861ceff04b0e8a6c80c2eb1c2a233]{
+-- Page 3, Offset 1349.
+-- CONCLUSION: CONTACT, CLASS 1 THREAT.
+CONCLUSÃO: CONTATO, AMEAÇA DE CLASSE 1.
+}
+[sha:92c911c4de5487203e6127d6fce3002b1a71e73a]{
+-- Page 4, Offset 1350.
+-- SHIFTING PERCEPTION RANGE FROM SUBJECTIVE TO OBJECTIVE...
+ALTERANDO ESCALA DE PERCEPÇÃO DE SUBJETIVA PARA OBJETIVA...
+}
+[sha:c75ff98ce8140f73059db4d8268d3e5689b6106c]{
+-- Page 4, Offset 1351. Mods: @n.
+-- SHIFTING AUTONOMOUS CIRCUIT TO RESERVE POWER...
+ALTERANDO OS CIRCUITOS AUTÔNOMOS PARA A ENERGIA RESERVA...
+}
+[sha:5a4b42a05a4d91303e137b8563ab109fb2d6a9c0]{
+-- Page 4, Offset 1352. Glued.
+-- SHIFTING DIAGNOSTIC CIRCUIT TO MAIN POWER...
+ALTERANDO O CIRCUITO DE DIAGNOSTICOS PARA A ENERGIA PRINCIPAL...
+}
+[sha:d8cb5bf1ba3b6995b16d4c246f39c9c4ae032827]{
+-- Page 4, Offset 1353. Mods: @n.
+-- SHIFTING VIEW MODE...
+ALTERANDO O MODO DE VISUALIZAÇÃO...
+}
+[sha:a223301839f546bf258dbb53b7d4bec460c4b990]{
+-- Page 4, Offset 1354. Glued.
+-- I.R. FILTER INACTIVE. i FILTER ACTIVE.
+FILTRO I.R. INATIVO. FILTRO i ATIVO.
+}
+[sha:4194fbb571c95155f92513ac29310fa32d2bbcbb]{
+-- Page 5, Offset 1355.
+-- NOW, IT BEGINS.
+E AGORA, SE COMEÇA.
+}
+[sha:a85139f7b01f0c66c0d574113e0e36cdbdbc952c]{
+-- Page 5, Offset 1356.
+-- INITIATING COMBAT LOG...
+INICIANDO REGISTRO DE COMBATE...
+}
+[sha:d2ed50dcdc9e62ce253fe8befbc83316a77b0235]{
+-- Page 5, Offset 1357. Mods: @n.
+-- OH, MASTER.
+OH, MESTRE.
+}
+[sha:92a72f7020f9cee45088fdd62069a537330b04d2]{
+-- Page 5, Offset 1358. Glued.
+-- PRESERVE ME FROM HARM.
+ME PROTEJA DO MAL.
+}
+[sha:0bef3b2697e207645ad26f2722afe54e1f5010e3]{
+-- Page 6, Offset 1359.
+-- Misaki City was a thickly wooded area.
+A cidade de Misaki era uma área densamente florestada.
+}
+[sha:bdd1f5c02e5e4e686e30f64c92b30b08f43229a7]{
+-- Page 6, Offset 1360.
+-- Urban development continued unabated, but Mother Nature still drew breath in its outskirts.
+O desenvolvimento urbano continuava inabalado, mas a Mãe Natureza ainda respirava em seus arredores.
+}
+[sha:4e6536aefa671636e5daaf1473655ba65d960560]{
+-- Page 7, Offset 1361.
+-- Wise old trees had been turned to lumber.
+Arvores anciãs se tornaram lenha.
+}
+[sha:d9ec88d909e554e49aa86eafb5770c3a02dbc664]{
+-- Page 7, Offset 1362.
+-- The leaves had begun to turn to mulch.
+As folhas começaram a se transformar em adubo.
+}
+[sha:e9daa9d7be1fcca8e13e59ef50340ef41c65b1e3]{
+-- Page 7, Offset 1363.
+-- Even though the birds who curiously tilted their heads had moved on, the verdure lived on, a testament to its enduring strength.
+Apesar dos pássaros que inclinaram suas cabeças curiosamente seguirem em frente, o verdor ainda vivia, um testamento para sua força duradoura.
+}
+[sha:d5a4fd834d2fdf92902e0fc812bf3ba65bf07914]{
+-- Page 7, Offset 1364.
+-- Until the time came that the devouring light of civilization became powerful enough to encroach upon nature's mysterious domain.
+Até que veio o tempo em que a devoradora luz da civilização se tornou poderosa o suficiente para interferir no dóminio dos mistérios da natureza.
+}
+[sha:45d40dd1e297125051615479b8d52dc15974429b]{
+-- Page 8, Offset 1365.
+-- These woods were no exception.
+Esses bosques não eram exceção.
+}
+[sha:bcadd6c852a56b8c8ea2700af4d23b811ea82235]{
+-- Page 8, Offset 1366.
+-- The outlying border between Misaki City and Misaki Hills had been left untouched.
+A fronteira entre a Cidade e as Colinas de Misaki não havia sido tocada.
+}
+[sha:fb126c4e6f54fecb3e0a06bb62364ae3f853226f]{
+-- Page 8, Offset 1367.
+-- Though driven from their nests and dens here, wildlife continued to subsist even today. No longer able to return to the days before man, this was just like any other forest situated next to a town.
+Apesar de serem tirados de seus ninhos e tocas aqui, a vida selvagem continuava a sobreviver até mesmo hoje. Incapaz de retornar para os dias antes do homem, essa era como qualquer outra floresta situada próxima a uma cidade.
+}
+[sha:0df976da91f6196bb2313176f9e10e3ac0fae364]{
+-- Page 9, Offset 1368. Mods: @c, @i, @a, @r.
+-- 
+
+}
+[sha:5ee22f4abf57fc12831816b004405d97ab1ed325]{
+-- Page 9, Offset 1369. Mods: @c, @i, @a, @r.
+-- Hey diddle diddle,
+Hey diddle diddle,
+}
+[sha:5f95e73106a0a63fe99ab892a51308dea324daaf]{
+-- Page 9, Offset 1370. Mods: @c, @i, @a, @r.
+-- The cat and the fiddle...
+The cat and the fiddle...
+}
+[sha:ac3d1fdcc5f0b8979668946bb3e849396f3a95e2]{
+-- Page 10, Offset 1371.
+-- Winter had arrived in the woods.
+O inverno havia chegado ao bosque.
+}
+[sha:5de4d16fc109ac5812df4ae0a04b47d1411bf037]{
+-- Page 10, Offset 1372.
+-- The chill cut like a razor,
+O frio cortava como uma navalha,
+}
+[sha:a9654cfa5bb0a7b77dba79e792f2a45348ebdc4c]{
+-- Page 10, Offset 1373.
+-- the icy air so thick it could reached one's bones.
+O ar gelado era tão espesso que podia atingir os ossos de uma pessoa.
+}
+[sha:231c9a4cd2ecf070170a842308fa0c62d01f4694]{
+-- Page 10, Offset 1374.
+-- Exposed cheeks stiffened, and wisps of breath formed swirls in the air before disappearing.
+Bochechas expostas se endureciam, e resquícios de respiração formavam redemoinhos no ar antes de desaparecer.
+}
+[sha:32ef3fc846766d3d0db792c6fd2988ba8bcda812]{
+-- Page 10, Offset 1375.
+-- It was one degree above freezing.
+Estava um grau acima do zero.
+}
+[sha:cf1bc38261636567796bcafed6e37a252479a213]{
+-- Page 10, Offset 1376.
+-- The cold snap penetrated every nook and cranny of the woods, from the ground, to the trees, to the wildlife.
+A onda de frio penetrou em todos os cantos e recantos do bosque, do chão para as arvores, até a vida selvagem.
+}
+[sha:de5d9e181d616b536b92d28c4bd5c42daa9d1c34]{
+-- Page 11, Offset 1377. Mods: @c, @i, @a, @r.
+-- 
+-- TRANSLATION HERE
+}
+[sha:6cf4bdbd74e6be4921e62adef77c1af36d70dbab]{
+-- Page 11, Offset 1378. Mods: @c, @i, @a, @r.
+-- The cow jump'd over the moon,
+The cow jump'd over the moon,
+}
+[sha:706b58cbd126e26a222cd902859a6178b2b5881e]{
+-- Page 11, Offset 1379. Mods: @c, @i, @a, @r.
+-- The little dog laugh'd...
+ The little dog laugh'd...
+}
+[sha:775a21ed531fc94456e82fd188f17c9def19b12f]{
+-- Page 12, Offset 1380.
+-- The forest allowed nobody entry during the day.
+A floresta não permitia que ninguém entrasse durante o dia.
+}
+[sha:0776b5c014b765bf88c038449fdf5b4fd847428b]{
+-- Page 12, Offset 1381.
+-- During the winter, it willed the animals to slumber.
+Durante o inverno, ela fazia com que os animais durmissem.
+}
+[sha:28eb2838a9597998a7f75e41628957ad4e704744]{
+-- Page 12, Offset 1382.
+-- The still evening air felt like the stagnant breath of the lingering dead.
+O ar da noite parecia o respirar estagnante dos mortos.
+}
+[sha:f22c126c3b84c0de7df1183aa7dbae551b26f64b]{
+-- Page 12, Offset 1383.
+-- The forest consumed the moonlight, obscuring the sight of even the closest of precipices, and hastening the untimely doom of any soul unfortunate enough to become lost within.
+A floresta consumia a luz da lua, obscurecendo a visão de até mesmo o mais próximo dos precipícios, e apressando o fim prematuro de qualquer alma que tenha a infelicidade de se perder em seu interior.
+}
+[sha:45227fde63a822279badb8a760466f650a1298d3]{
+-- Page 13, Offset 1384.
+-- The only noises to be heard were the whisperings of the wind and the murmurings of the stream.
+Os únicos barulhos que se podiam ouvir eram os sussurros do vento e o murmúrios dos córregos.
+}
+[sha:d828f437f49ec7b05b044e8afb25ac6aa977aac3]{
+-- Page 13, Offset 1385.
+-- The immortal darkness stifled any sense of life.
+A escuridão imortal abafava qualquer noção de vida.
+}
+[sha:ef6479787fb591398f575a429c91851f7497f318]{
+-- Page 13, Offset 1386.
+-- Not the breath of an animal, much less that of a person, was drawn in this place.
+Nem a respiração de uma animal, muito menos a de uma pessoa, foi sentido nesse lugar.
+}
+[sha:ba2c7516706109891e9585ad4a6ca76e4631e68a]{
+-- Page 13, Offset 1387.
+-- However...
+Entretanto...
+}
+[sha:9a5230002eaf0b15900d696429213358f08c44a5]{
+-- Page 14, Offset 1388.
+-- A figure in black, not of this place, skulked within.
+Uma figura de preto, que não pertencia a este lugar, se escondia em seu interior.
+}
+[sha:429549db90aae6c48afc3d336d2c46f0623a1e74]{
+-- Page 14, Offset 1389.
+-- It cast the tiniest, frailest of silhouettes, like a small boat lost in a sea of fog.
+Ele lançava a mais minúscula e frágil das silhuetas, como um pequeno barco perdido em um mar de neblina.
+}
+[sha:4e922ba40b2d5b2f7439817473056d8357c8bcd0]{
+-- Page 14, Offset 1390.
+-- Its trepidatious footsteps echoed through the woods.
+Seus passos trepidantes ecoavam pelo bosque.
+}
+[sha:b61ee16e55777cd95172b526456ce5a2feb26357]{
+-- Page 14, Offset 1391.
+-- There, exiting the veil of trees, was the unmistakable likeness of a young girl.
+Lá, saindo do véu de árvores, estava a inconfundível figura de uma jovem garota.
+}
+[sha:dba51993bed2b34204cb2d059211c328da9a2f04]{
+-- Page 15, Offset 1392. Mods: @c, @i, @a, @r.
+-- 
+-- TRANSLATION HERE
+}
+[sha:8f3765c2f44fb0bcc99a1a5c28b7f392fba34636]{
+-- Page 15, Offset 1393. Mods: @c, @i, @a, @r.
+-- To see such craft,
+To see such craft,
+}
+[sha:fec2e1c75671a72ed84f3103d0d24268918caaac]{
+-- Page 15, Offset 1394. Mods: @c, @i, @a, @r.
+-- And the dish ran away with the spoon.
+And the dish ran away with the spoon.
+}
+[sha:83f920dc6540bf787407aedc7b7cb7eceefd93ca]{
+-- Page 16, Offset 1395. Mods: @k, @e.
+-- "Someone's here, someone's here!"
+"Tem alguém aqui, tem alguém aqui!"
+}
+[sha:1d52d63a8f7dc4d2aeba9b7f4cdf97644c9f3c88]{
+-- Page 16, Offset 1396.
+-- "There they are, there they are!"
+"Lá está ela, lá está ela!"
+}
+[sha:ee85405aa2a8e8d42ea6d82f76572b84ed6edfe1]{
+-- Page 16, Offset 1397. Mods: @k, @e.
+-- "Who can they be, who can they be?"
+"Quem pode ser, quem pode ser?"
+}
+[sha:54e630dc1dd8dccd4f776fa1cbad4fa4080789fb]{
+-- Page 16, Offset 1398.
+-- "Someone and someone!"
+"Alguém e alguém!"
+}
+[sha:d52e4cdd8e08bddd9c51ed6b968b541d71cc2df7]{
+-- Page 16, Offset 1399. Mods: @k, @e.
+-- "Are you hungry?"
+"Você está com fome?"
+}
+[sha:757159f57e5015bcd2c6e4a8e2b11a4cf77356d0]{
+-- Page 16, Offset 1400.
+-- "I'm starving!"
+"Eu estou morrendo de fome!"
+}
+[sha:6a7164f28087ec403633e543bd3e5398acf6bf8c]{
+-- Page 17, Offset 1401. Mods: @k, @e.
+-- "Which one should we eat?"
+"Qual nós deveriamos comer?"
+}
+[sha:7c2997d59adb200355144cc66e3de89429527891]{
+-- Page 17, Offset 1402.
+-- "Let's eat them both!"
+"Vamos comer os dois!"
+}
+[sha:47d7507d1415c753b1ad238fccd2b6fe6a633c33]{
+-- Page 17, Offset 1403. Mods: @k, @e.
+-- "You take the left!"
+"Você com o da esquerda!"
+}
+[sha:2f94a81ca5bd597d80820f3cd4a8ed98deed904b]{
+-- Page 17, Offset 1404.
+-- "You take the right!"
+"Você fica com o da direita!"
+}
+[sha:106fa742130ad31c841936ca6fdc1d7f4e0dcdfb]{
+-- Page 17, Offset 1405. Mods: @k, @e.
+-- "We must welcome them!"
+"Nós devemos dar boas-vidas a eles!"
+}
+[sha:f9556b93eab1049fb0631f372bd689404c36163c]{
+-- Page 17, Offset 1406.
+-- "We must entertain them!"
+"Nós devemos entreter eles!"
+}
+[sha:a537cefebccdaeea29ebc339fabc22aaa8094153]{
+-- Page 18, Offset 1407.
+-- ""After all, we don't often have guests!""
+""Afinal, nem sempre temos visitantes!""
+}
+[sha:60c6a79876a262dd42b30b4b5b11bf813c6d40ca]{
+-- Page 19, Offset 1408. Mods: @k, @e.
+-- "While we're at it, the stomach and the tibia."
+"Já que estamos falando disso, o estômago e a tíbia."
+}
+[sha:39b316610e2f1fa76b74fcc2a9a7b8ff9d60dd05]{
+-- Page 19, Offset 1409.
+-- "It's not often we get to chew the fat!"
+"Não é sempre que comemos gordura!"
+}
+[sha:cc8c8ea3b152673fe2dffad8f713542bbeeae86b]{
+-- Page 20, Offset 1410.
+-- "..."
+"..."
+}
+[sha:ed2ad797c7a46be0c4c93bcdfb76fac95e923947]{
+-- Page 20, Offset 1411.
+-- The shadows in the trees laughed ominously.
+As sombras nas árvores riram sinistramente.
+}
+[sha:c235105d86e0c9410a5730be278bf48a26c5ca29]{
+-- Page 20, Offset 1412.
+-- A hallucination? An illusion? Or perhaps... Something real?
+Uma alucinação? Uma ilusão? Ou talvez... Algo real?
+}
+[sha:fec50df1d68efb87dccd6e0445e3b95493e912a8]{
+-- Page 20, Offset 1413.
+-- The shadows frolicked in time to the girl's pace.
+As sombras se movimentavam no mesmo ritmo da garota.
+}
+[sha:4317c5ec9189ece47a95d948e2f0730ed6714304]{
+-- Page 21, Offset 1414. Mods: @k, @e.
+-- "Come, come!"
+"Venha, venha!"
+}
+[sha:09574376ef7995a5b6f09258c8369756dd49276d]{
+-- Page 21, Offset 1415. Glued. Mods: @x.
+-- "Deeper and deeper!"
+"Mais e mais fundo!"
+}
+[sha:8378b53c62dff0eabd26511541b14cd0e21b5ca3]{
+-- Page 21, Offset 1416.
+-- "Did you remember to rig the dice?"
+"Você se lembrou de manipular os dados?"
+}
+[sha:43abd14787583305d4ef3d63a9ef9d0729249292]{
+-- Page 21, Offset 1417.
+-- "Loaded innards, they have."
+"Ela têm vísceras carregadas."
+}
+[sha:e3bcdb08a040d20b5d258fa6fb37b684922ff760]{
+-- Page 21, Offset 1418.
+-- "Nibbled around the edges, they be!"
+"Mordicada pelas bordas, ela será!"
+}
+[sha:2e9fc022cda77b1497f8ec5f9524680fe2d5a6f4]{
+-- Page 21, Offset 1419.
+-- "Just remember, don't roll that vital six!"
+"Apenas se lembre, não role aquele seis vital!"
+}
+[sha:cc8c8ea3b152673fe2dffad8f713542bbeeae86b]{
+-- Page 22, Offset 1420.
+-- "..."
+"..."
+}
+[sha:f70fdd7c6c4eb3c87ae50013bc6d46f237747d92]{
+-- Page 22, Offset 1421.
+-- The girl knitted her eyebrows.
+A garota fechou os olhos em concentração.
+}
+[sha:a9b79ac378e05f58c9dd82c030adbf7b64f3e2b6]{
+-- Page 22, Offset 1422.
+-- She heard voices and felt the presence of things that should not be.
+Ela ouviu vozes e sentiu a presença de coisas que não deveriam estar ali.
+}
+[sha:f3091e8ace5c1a921d45c614de963b21a8ecb2d8]{
+-- Page 22, Offset 1423.
+-- Scary enough to frighten this particular girl?
+Assustador o suficiente para assustar esta garota em particular.
+}
+[sha:76a6125a647b7fc40e930e4adff4e0f4689063da]{
+-- Page 22, Offset 1424.
+-- As if.
+Até parece.
+}
+[sha:ff25e8eaa49b79c76393b32425b2ac5b7fd4cea5]{
+-- Page 22, Offset 1425.
+-- Her tightly pursed lips betrayed not a hint of fear.
+Seus lábios cerrados não demonstravam o menor sinal de medo.
+}
+[sha:101edc1c4d2f516ebdd0aa87ce91a56192b46bed]{
+-- Page 23, Offset 1426.
+-- The girl walked of her own volition.
+A garota seguiu em frente por sua própria vontade.
+}
+[sha:29d023c8b0163c32d4b57f4a5aae4f0780594927]{
+-- Page 23, Offset 1427.
+-- If she had truly felt fear, her legs would be frozen.
+Se ela realmente estivesse com medo, suas pernas estariam congeladas.
+}
+[sha:283a026e34d4da91c7d75b42df7fd679931c136b]{
+-- Page 23, Offset 1428.
+-- Deep within the trees...
+Nas profundezas da floresta...
+}
+[sha:53916f32522951c4e9b37fcb0f09313d30622d81]{
+-- Page 23, Offset 1429.
+-- She was perfectly aware of the two humanoid figures stalking her through the still, night air.
+Ela estava perfeitamente ciente das duas figuras humanoides perseguindo ela pelo silencioso ar noturno.
+}
+[sha:430db2fe1efff71bf1b2ac2df8e95a4ced8eed2f]{
+-- Page 24, Offset 1430.
+-- "I saw them, I saw them!"
+"Eu vi ela, eu vi ela!"
+}
+[sha:ea8bc465d8beca2e93531c6bb00a890b01dc1f80]{
+-- Page 24, Offset 1431.
+-- "They're coming, they're coming!"
+"Ela está vindo, ela está vindo!"
+}
+[sha:7d2df4d1205534043de6048135a9e7bb56402311]{
+-- Page 24, Offset 1432.
+-- "Give up!"
+"Desista!"
+}
+[sha:6c4314710ca4be62452f0acf58b760e8463a7672]{
+-- Page 24, Offset 1433.
+-- "There's no going back!"
+Não há como voltar atrás!"
+}
+[sha:54e8db0ccee8dac4bcb4cdaaba33d05fc597f4a4]{
+-- Page 25, Offset 1434. Mods: @k, @e.
+-- "We warned you!"
+"Nós te avisamos!"
+}
+[sha:aa5a22743ecce5f701d2d6147974740932b6af0a]{
+-- Page 25, Offset 1435.
+-- "It's your fault for staying!"
+"É sua culpa por decidir ficar!"
+}
+[sha:6ac8c628ccfde063995ea32d93f63bd95cce25f3]{
+-- Page 26, Offset 1436.
+-- The girl halted her steps.
+A garota parou seus passos.
+}
+[sha:89fec0fe52bcc6fe96a544c52db4d238a5c489e6]{
+-- Page 26, Offset 1437.
+-- Racket from the accompanying voices died in turn.
+Por sua vez, o barulho das vozes que a acompanhavam morrerram.
+}
+[sha:8edca6ad536bdd86ce7e10a42409a168fd0b4a82]{
+-- Page 26, Offset 1438.
+-- The babbling brook suddenly sounded like a crackling fire.
+O riacho murmurante de repente começou a soar como um fogo ardente.
+}
+[sha:772bf9314ab1e96fd262410ea000c8b15116a2ed]{
+-- Page 26, Offset 1439.
+-- And then...
+E então...
+}
+[sha:480eaaa242cb7a33156ea9e0cb0016082e89e2cd]{
+-- Page 26, Offset 1440.
+-- Across the shallow stream, something appeared that should not exist in the city, much less these woods.
+Atráves do riacho raso, apareceu algo que não deveria existir nessa cidade e ainda menos nesse bosque.
+}
+[sha:ed71a0b7c8bdb94f9c91b8809e09fab5950df64e]{
+-- Page 27, Offset 1441.
+-- "Good evening. I don't suppose I could speak to your master?"
+"Boa noite. Suponho que não possa falar com seu mestre?"
+}
+[sha:2e9904bc181f97ebab617f9c2418bebac512e019]{
+-- Page 27, Offset 1442.
+-- The girl addressed them calmly.
+A garota se dirigiu a eles calmamente.
+}
+[sha:fbe9d3d092ad8eddcc0c65eb8ff96a785194acfb]{
+-- Page 27, Offset 1443.
+-- These men with their Glasgow grins creeped toward her like two slugs.
+Os homens sorridentes se aproximaram dela como duas lesmas.
+}
+[sha:82afabcdb9066cdbe3712b70c89cbae5ca0fed58]{
+-- Page 28, Offset 1444.
+-- "...I see. Simple graveyard wards, sent to be lookouts.
+"...Entendo. Simples sentinelas de cemitério, enviados para serem vigias.
+}
+[sha:9736aa2e7bd4909cf54a7501875ab4aeba42df08]{
+-- Page 28, Offset 1445.
+-- My mistake. I should have entrusted this to Aoko.
+Erro meu. Eu deveria ter confiado isso a Aoko.
+}
+[sha:a0d7a02ec1dcf8b91b20a72b3a8b5e5640715219]{
+-- Page 28, Offset 1446.
+-- However..."
+Entretanto..."
+}
+[sha:aa0ce03ba9ff55106bd02a24bc3e66745e57012e]{
+-- Page 28, Offset 1447.
+-- The one grinning man stood still.
+O homem sorridente ficou parado.
+}
+[sha:ff25d70b9c80f68532cda519e79bf808bcfd4ec5]{
+-- Page 28, Offset 1448.
+-- The other, shaking violently as if unable to contain himself any longer, turned toward the girl.
+O outro, tremendo violentamente como se não pudesse se conter mais, se virou para a garota.
+}
+[sha:de505fac6cb97358d87eff3268f90b8c2ed10e22]{
+-- Page 29, Offset 1449.
+-- "Aoko still has a lot on her plate.
+"A Aoko ainda tem muito a fazer.
+}
+[sha:093516c601eb49092e6c1c5024e28967771ca6e1]{
+-- Page 29, Offset 1450.
+-- Although you far from look the part, you seem to be on the level of a fully-fledged mage."
+Embora vocêm estejam longe de ser o que aparentam, vocês aparentem estar no nível de um mago completo."
+}
+[sha:3ea9741ff508b1819ecda1073ea2112fa88cbe70]{
+-- Page 29, Offset 1451.
+-- Her black outfit stirred.
+Sua roupa preta se agitou.
+}
+[sha:386e7939ee102666e8044208fa08fbb42042b8a8]{
+-- Page 29, Offset 1452.
+-- In her right hand she held a vitreous cat, darker than the deepest night.
+Em sua mão direita ela segurava um gato de vidro, mais escuro do que a noite mais escuro.
+}
+[sha:2652905e83c07f030b7a1d49a3b17d8fa4628cd8]{
+-- Page 30, Offset 1453.
+-- "...?"
+"...?"
+}
+[sha:649f348d0965ef6b8b7c04b6cde3d1d8d4b6a1c0]{
+-- Page 30, Offset 1454.
+-- The two Glasgow men let out a yelp of caution and incoherent fear.
+Os dois homens sorridentes soltaram grito de cautela e medo incoerente.
+}
+[sha:2afeb456421ef3f4e7b7b088221dc5e998b84a7b]{
+-- Page 30, Offset 1455.
+-- It was at this moment that they finally bared their intent and emotion.
+Foi nesse momento que eles finalmente expuseram suas intenções e emoções.
+}
+[sha:e91be9a2da1ce4f9270433ae5d40bec480cbd804]{
+-- Page 31, Offset 1456.
+-- "Farewell, my guests.
+"Adeus, meus convidados.
+}
+[sha:5616decd7e7e855dfd773b09b77c8832a1a49abf]{
+-- Page 31, Offset 1457.
+-- Since this will take but a moment, I offer only a good-bye."
+Já que isso só vai levar instante, eu ofereço apenas um adeus."
+}
+[sha:63e973fdabb987bf11e8ad43815b29108b5acb73]{
+-- Page 32, Offset 1458.
+-- The two shuddered at her words.
+Ambos se estremeceram com as palavras dela.
+}
+[sha:d8c903ba3fb06950954bbb1b3081d58c7728dd4e]{
+-- Page 33, Offset 1459.
+-- They had no mouths, nor ears or brains to begin with. For creatures like these, words were redundant.
+Eles não tinham bocas, orelhas ou cérebros para início de conversa. Para criaturas como essas, palavras eram redundantes.
+}
+[sha:20d5ef905465032ee8785eada995eb8155da9a4d]{
+-- Page 33, Offset 1460.
+-- All that existed was the present.
+Tudo que existia era o presente.
+}
+[sha:13f6655e3e521623e434669704f47f75f516c139]{
+-- Page 33, Offset 1461.
+-- For these soulless creatures, fears and hopes were nothing more than an unimaginable future.
+Para essas criaturas, medos e esperanças não era nada mais que um futuro inimaginável.
+}
+[sha:7377f2f4918dadb0829e0d808eaccc6eb7848902]{
+-- Page 34, Offset 1462.
+-- Then what could be this feeling of foreboding they felt?
+Então o que era esse mau pressentimento que eles sentiram?
+}
+[sha:e3dd6064e185217fb0bafc9f94b3035d7227b1d5]{
+-- Page 34, Offset 1463.
+-- ...The spine-chilling miracle that would rip them to pieces not moments from now.
+...O milagre arrepiante que os despedaçaria em questão de instantes.
+}
+[sha:ec930e4f445b933335280792624338d7acdabbde]{
+-- Page 35, Offset 1464.
+-- "Come then, puppets, let us play make-believe."
+"Venham, fantoches, vamos brincar de faz de conta."
+}
+[sha:b1f76a65ff827aaf12c583642dbc2f90a944917c]{
+-- Page 35, Offset 1465.
+-- Her song sounded like a bell, echoing through the white woods.
+Sua canção soou como um sino, ecoando atráves dos bosques brancos.
+}
+[sha:e9c8377af590ebd6702d97b044fc0a1c45934d68]{
+-- Page 35, Offset 1466.
+-- The girl's voice vanquished the frost that had gripped the trees.
+A voz da garota venceu a geada que havia tomado conta das árvores.
+}
+[sha:dadbdc28169d4b965f83d8be78e9f8d15a5d3d62]{
+-- Page 35, Offset 1467.
+-- Then...
+Então...
+}
+[sha:0ee2545164e378bc0908af90a642f2b377258deb]{
+-- Page 36, Offset 1468.
+-- "Come on, don't keep us waiting!"
+"Vamos, não nós deixe esperando!"
+}
+[sha:e867eef0fcbf6c797397a39d8f5b7d55f9d17e6a]{
+-- Page 36, Offset 1469.
+-- "Come on, it's time for Little Red Riding Hood!"
+"Vamos, está na hora da Chapeuzinho Vermelho!"
+}
+[sha:924221023f6b11f091c02bf8b0ec6b24ac549473]{
+-- Page 37, Offset 1470.
+-- The curtains opened on Diddle Diddle, the Banquet of the Night.
+As cortinas se abriram para o Diddle Diddle, o Banquete da Noite.
+}
+[sha:aa81c44f06bc5dd3908063e5f600d8538afb212d]{
+-- Page 37, Offset 1471.
+-- In confusion, one slit-mouthed man swooped toward the girl.
+Confuso, um dos homens com a boca cortada voou em direção a garota.
+}
+[sha:f95a4ff1410212755aa221c3e1dabd759551c654]{
+-- Page 37, Offset 1472.
+-- In fear, the other fled into the woods behind him.
+Com medo, o outro fugiu para o bosque atrás dele.
+}
+[sha:41e468642ccf8d56d8528254775fd3bf4a0212a2]{
+-- Page 38, Offset 1473.
+-- The deformed humanoid darted forth, kicking up water as it rushed the girl.
+O humanoide deformado se lançou a frente, chutando a água ao correr em direção a garota.
+}
+[sha:07a3530a5e48dafa2d4d8eddd6d3ada2736d3a8b]{
+-- Page 38, Offset 1474.
+-- She already knew what this fiend was.
+Ela já sabia o que esse inimigo era.
+}
+[sha:43d42b2f4f92d03fe9b9c58b6972eb705fb2c8e5]{
+-- Page 38, Offset 1475.
+-- The grinning figure had scissors for hands and a demon's heart.
+A figura sorridente tinha tesouras no lugar das mãos e um coração de demônio.
+}
+[sha:f51116249b0e4a397150faeb525c12c286807072]{
+-- Page 38, Offset 1476.
+-- It was a wretch who kidnapped children, mercilessly rendering them into pieces.
+Era um miserável que sequestrava crianças, impiedosamente as deixando em pedaços.
+}
+[sha:dac276a74c56c3c6b3638db6eae696663656b06c]{
+-- Page 39, Offset 1477.
+-- "Tweedle."
+"Tweedle."
+}
+[sha:94352b3c30c8b5c962cfcbde8f88d74411538ded]{
+-- Page 39, Offset 1478. Mods: @k, @e.
+-- "Leave it to us!"
+"Deixe conosco!"
+}
+[sha:c060674eeec062026ca6f339426327cb2555356b]{
+-- Page 39, Offset 1479.
+-- "It's finally our turn!"
+"Finalmente é a nossa vez!"
+}
+[sha:cf71de3efb4ccae74e85bc539dbd624f2c708d9f]{
+-- Page 40, Offset 1480.
+-- The piglets bounded and rebounded, like paddle balls.
+Os porquinhos pulavam e pulavam e saltitavam, como bolas de tênis.
+}
+[sha:6c377986a6b17f0956d5a6063d35cfad6aa92d3a]{
+-- Page 40, Offset 1481.
+-- The stuffed animals, over three feet in length, jumped and weaved their way between the trees.
+Os animais de pelúcia, com mais de noventa centímetros de largura, pulavam e se estrelaçavam entre as arvores.
+}
+[sha:c2c901e32c6f6bb5c07727f55e040df25bfb97a0]{
+-- Page 41, Offset 1482.
+-- Even with these strange creatures before him, the grinning man did not so much as blink.
+Mesmo com essas estranhas criaturas perante a ele, o homem sorridente sequer piscou.
+}
+[sha:992ece15a7d0803275d0c1dbe0fb20863b363397]{
+-- Page 41, Offset 1483.
+-- He raised his arms, but what emerged from his coat sleeves were not the human appendages you would expect.
+Ao levantar os braços, o que emergiu das mangas de seu casaco não eram os apêndices humanos que se esperaria.
+}
+[sha:a167ab78ff5d66a507a6ff84432dd949a3a98b10]{
+-- Page 41, Offset 1484.
+-- In their place, fiendish cleavers, more than a foot and a half in length.
+Ao invés disso, cutelos diabólicos, com mais de trinta centímetros de comprimento.
+}
+[sha:069c14ca428c4d6e3558e379fe596e75c69692af]{
+-- Page 41, Offset 1485.
+-- These appendages, which had torn so much of their prey to pieces, sliced cleanly through the flying pigs' skulls.
+Esses apêndices, que haviam despedaçado tantas de suas presa, atravessaram facilmente o crânio dos porcos voadores.
+}
+[sha:2aa062dbf001a4a7e29be027b19b241e3ebfb002]{
+-- Page 42, Offset 1486.
+-- "-?!"
+"-?!"
+}
+[sha:85b001fa9655760e4da4f7afa67cf2c8809c7380]{
+-- Page 42, Offset 1487.
+-- His limbs froze in place.
+Seus membros congelaram.
+}
+[sha:dc711d1f33c7630c86518c5ab311ef24146f6790]{
+-- Page 42, Offset 1488.
+-- The pigs' bodies were sliced perfectly in half.
+Os corpos dos porcos foram cortados perfeitamente em dois pedaços.
+}
+[sha:772bf9314ab1e96fd262410ea000c8b15116a2ed]{
+-- Page 42, Offset 1489.
+-- And then...
+E então...
+}
+[sha:7d054103e212123eb717537d8bdcc689b2014c65]{
+-- Page 42, Offset 1490.
+-- Bisected from head to tail, the pigs' innards became as alligator jaws and clamped down upon the grinning man's arms.
+Cortados da cabeça à cauda, as vísceras dos porcos se transformaram em mandíbulas de jacaré e se agarraram aos braços do homem sorridente.
+}
+[sha:e0944eb638532107ef8c3ec503d1f87294522a77]{
+-- Page 43, Offset 1491.
+-- From fingertips to shoulders, they were swallowed whole.
+Da ponta dos dedos até os ombros, eles foram engolidos inteiros.
+}
+[sha:be353ad50c819948d91fb7eef81eada1260677f8]{
+-- Page 43, Offset 1492.
+-- It was all it took to rob the man of control over his entire body.
+Isso foi tudo que foi necessário para fazer o homem perder o controle de todo seu corpo.
+}
+[sha:17212fd457735f3be31f5b5d5123bbfc8a968b76]{
+-- Page 43, Offset 1493.
+-- "-, -!"
+"-, -!"
+}
+[sha:714a65db5d2e84e553f13ece30671e3ffdccd62d]{
+-- Page 43, Offset 1494.
+-- Another shiver of fear.
+Outro arrepio de medo.
+}
+[sha:3931b4c5741df8965e2101efcc98e57ceae95a2a]{
+-- Page 43, Offset 1495.
+-- These were no mere pig familiars.
+Esses não eram meros porcos familiares.
+}
+[sha:404656cf479fe68d09fc4e640793d48c52e6bcde]{
+-- Page 43, Offset 1496.
+-- Immediately he realized that these were stapler monsters disguised as mere pigs.
+Ele percebeu imediatamente que esses eram monstros grampeadores desfarçados como meros porcos.
+}
+[sha:6484208e7725224fc8743af507bc527770d27c97]{
+-- Page 44, Offset 1497.
+-- "I got him!"
+"Eu peguei ele!"
+}
+[sha:a702b7e6bde7f96335c7358a4c742e3ce442d6b6]{
+-- Page 44, Offset 1498.
+-- "No, I got him!"
+"Não, eu peguei ele!"
+}
+[sha:bb2881d5f9bd96e6b911792947c022a41b15cb69]{
+-- Page 44, Offset 1499.
+-- "Oh, but too bad Master has no words, no emotion, no interest!"
+"Ah, mas é um pena que a Mestra não tenha palavras, nem emoções, nem interesse!"
+}
+[sha:e468718c76caeb78c2310ed580b345c4e58b5411]{
+-- Page 44, Offset 1500.
+-- "In the end, it doesn't really matter who did it!"
+"No fim das contas, não importa de verdade quem pegou ele!"
+}
+[sha:ece7143a09a8603e271f06b6849c2f2178c2745a]{
+-- Page 45, Offset 1501. Mods: @c, @i, @a, @r.
+-- 
+
+}
+[sha:92bd199260ad5ea5ab128745644a4c315d1b4f8c]{
+-- Page 45, Offset 1502. Mods: @c, @i, @a, @r.
+-- London Bridge is broken down,
+London Bridge is broken down,
+}
+[sha:6303613f57454dc97c02a2f64aabbf43254724a4]{
+-- Page 45, Offset 1503. Mods: @c, @i, @a, @r.
+-- Broken down, broken down...
+Broken down, broken down...
+}
+[sha:e4a617d2f10ed97d106331711e8fa6ff6e421e4d]{
+-- Page 46, Offset 1504.
+-- "-, Ghh!"
+"-, Ghh!"
+}
+[sha:4aabc11bf538d52fcfa2a696ca0d5c6a906d9e9e]{
+-- Page 46, Offset 1505.
+-- "Impossible!" its presence murmured three times.
+"Impossível!", sua consciência murmurou três vezes.
+}
+[sha:f067a39de8fcb2459383b34339d35b14826c4daa]{
+-- Page 46, Offset 1506. Mods: @n.
+-- Not possible.
+Não é possível.
+}
+[sha:6008f66dc3b2e4b1f2e6913362035fd5202d7170]{
+-- Page 46, Offset 1507. Glued. Mods: @n.
+-- Not possible.
+Não é possível.
+}
+[sha:a9763254658a563adaab52bdf13e535cb3c2ca06]{
+-- Page 46, Offset 1508. Glued.
+-- Not... possible?
+Não é... possível?
+}
+[sha:e56e7e76ccf35652c081954a172a431974afd0e4]{
+-- Page 47, Offset 1509.
+-- Talking pigs were one thing.
+Porcos falantes eram uma coisa.
+}
+[sha:fafb67ea239321de2ecf9d38097cc44ec9cbb90c]{
+-- Page 47, Offset 1510.
+-- Even having one's arms chomped off was in the realm of occupational hazard.
+Até mesmo ter os braços arrancados era um risco ocupacional.
+}
+[sha:b667224c6bd7ed3c1634621ea2e563c42e97ee7c]{
+-- Page 47, Offset 1511. Mods: @n.
+-- In an instant, the wood was enveloped in a dense wave of magical energy.
+Num instante, o bosque estava coberto por uma densa onda de energia mágica. 
+}
+[sha:4c1837277d14a64831318b35ab8da8e3d3aa3274]{
+-- Page 47, Offset 1512. Glued.
+-- Though vexing, it was still impressive.
+Embora incômoda, ainda era impressionante.
+}
+[sha:ef1e4adb526cebed49770f6abcc7e52631b2ff7b]{
+-- Page 48, Offset 1513.
+-- None of these facts were particularly extraordinary.
+Nenhum desses fatos eram particularmente impressionantes.
+}
+[sha:e6154dd2013860bc9ab6929e8c8c69aa861c7d22]{
+-- Page 48, Offset 1514.
+-- These rare familiars, their bizarre attack, the sheer innate magical energy to overwhelm others...
+Aqueles familiares raros, seus ataques bizarros, a pura energia mágica inata para dominar os outros...
+}
+[sha:177608b4ad6232e3e23fcaf8782fe57fac04ff87]{
+-- Page 48, Offset 1515.
+-- He had experience with all these things.
+Ele tinha experiência com todas essas coisas.
+}
+[sha:125ead3e0e88334dc4e21ef243cde2063340efb4]{
+-- Page 48, Offset 1516.
+-- His employer was skilled enough to achieve all of this as well.
+Seu empregador era habilidoso o suficiente para alcançar tudo isso também.
+}
+[sha:ba2c7516706109891e9585ad4a6ca76e4631e68a]{
+-- Page 48, Offset 1517.
+-- However...
+Entretanto...
+}
+[sha:6c6f0cce3627d09d8636247d438e83c878e33988]{
+-- Page 49, Offset 1518.
+-- "What now? What now? How long should we hold him like this?"
+"E agora? E agora? Por quanto tempo temos que segurar ele assim?"
+}
+[sha:07f0df61dbd6c6361685cea69fafc1c25b411e2f]{
+-- Page 49, Offset 1519.
+-- "Even a blink of an eye is too long! Let's take an arm. "
+"Até mesmo um piscar de olhos iria demorar demais! Vamos arrancar um braço."
+}
+[sha:e638aa61233591fef0612e8aa9c460e738582dde]{
+-- Page 49, Offset 1520.
+-- "I'll give you a good price if you'll pay me in pounds!"
+"Eu faço um bom preço pra você se você me pagar em libras!"
+}
+[sha:7c771d60e83fc80a5834400495189596b879d5cd]{
+-- Page 50, Offset 1521.
+-- What... were they?
+O que... eram eles?
+}
+[sha:fc692e6992dab1cf16067b835428070c8907f270]{
+-- Page 50, Offset 1522.
+-- Not vessels.
+Não são receptáculos.
+}
+[sha:f14d75a17f46b25e9733675befffb87f6adefc7d]{
+-- Page 50, Offset 1523.
+-- Not living creatures.
+Nem criaturas vivas.
+}
+[sha:913784f654c74a86658fd5da52b67ea3d55d255a]{
+-- Page 50, Offset 1524.
+-- Not beings powered by Magic Circuits.
+Nem seres alimentados por energia mágica.
+}
+[sha:c47d0cbcf630b93c881ff481da4787fa6987037f]{
+-- Page 50, Offset 1525.
+-- Even though only his arms had been bitten, none of his body would move.
+Apesar de que apenas os seus braços haviam sido mordidos, seu corpo não consegui se mover.
+}
+[sha:f9564db34a653c84b4677f5cbfbdfd55a4614548]{
+-- Page 50, Offset 1526.
+-- It was nothing like being bound or weakened.
+Não era nada parecido com estar preso ou enfraquecido.
+}
+[sha:51bc00e8b6e3983f5ac0aa83dda6950aa5780595]{
+-- Page 50, Offset 1527.
+-- This felt more like he had become words written in a book, fated to keep to their page.
+Era como se ele tivesse se tornado palavras escritas em um livro, destinado a se manter na mesma página.
+}
+[sha:6df5bbf248215aeda958a7cc05a854d73787245b]{
+-- Page 51, Offset 1528.
+-- As the grinning figure's deformities indicated, he had overcome numerous curiosities and monstrosities.
+Como indicavam as deformidades da figura sorridente, ele havia superado diversas curiosidades e monstruosidades.
+}
+[sha:b5d33bba0201bc1cbe488ee1d6a89c84d1aff71a]{
+-- Page 51, Offset 1529.
+-- Illusions, enthrallment, compulsions...
+Ilusões, encatamentos, compulsões...
+}
+[sha:052aa615b09d528bcbbcb455c24a877d535ab1ce]{
+-- Page 51, Offset 1530.
+-- Freezings, putrefactions, and even petrifications-a power granted to only the pinnacle of Mystic Eyes...
+Congelamentos, putrefações e até petrificações, um poder garantido apenas ao pináculo do Olhos Místicos...
+}
+[sha:13417a20e30bff8231b180f4edbcbc87853daa50]{
+-- Page 51, Offset 1531.
+-- From poisons to magecraft, he had weathered a great deal.
+De venenos a taumaturgias, ele já havia passado por muitas dificuldades.
+}
+[sha:bdebcf5ad94c631eb6d277c9e0e74851c788f338]{
+-- Page 51, Offset 1532.
+-- But this was something different altogether.
+Mas isso era algo completamente diferente.
+}
+[sha:1e2efda980f7265e9bbc5f8d53852429f5bf8f0c]{
+-- Page 52, Offset 1533. Mods: @n.
+-- The penalty that bound him now
+A penalidade que o prendia agora
+}
+[sha:4e43e0788a8c2462116094c1c7e0ee991364d070]{
+-- Page 52, Offset 1534. Glued.
+-- was based on different principles from blood, flesh, oxygen, or heat.
+era baseado em princípios diferentes do sangue, carne, oxigênio ou calor.
+}
+[sha:a74020d802057077a3de8f213805bb91cc62041e]{
+-- Page 52, Offset 1535.
+-- It was an unknown restraint that followed no rules he knew.
+Era uma restrição desconhecida que não seguia nenhuma regra que ele conhecia.
+}
+[sha:ba1932c158080a08ce035b5d916ff859d481459a]{
+-- Page 52, Offset 1536.
+-- Indeed, though it was terrifying to admit...
+De fato, apesar de assustador de se admitir...
+}
+[sha:9730303e103e954fdd2c3b89008e4f383bc38714]{
+-- Page 52, Offset 1537.
+-- It was as if he'd encountered something alien to everything in this world.
+Era como se ele tivesse se deparado com algo estranho a tudo neste mundo.
+}
+[sha:de5d9e181d616b536b92d28c4bd5c42daa9d1c34]{
+-- Page 53, Offset 1538. Mods: @c, @i, @a, @r.
+-- 
+
+}
+[sha:92bd199260ad5ea5ab128745644a4c315d1b4f8c]{
+-- Page 53, Offset 1539. Mods: @c, @i, @a, @r.
+-- London Bridge is broken down,
+London Bridge is broken down,
+}
+[sha:3913c9ab57e98399169990c272cea7907f93dd04]{
+-- Page 53, Offset 1540. Mods: @c, @i, @a, @r.
+-- Broken down, broken down.
+Broken down, broken down.
+}
+[sha:d813ea3898dccb3deb4f40ca63468b3911877611]{
+-- Page 53, Offset 1541. Mods: @c, @i, @a, @r.
+-- London Bridge is broken down,
+London Bridge is broken down,
+}
+[sha:3593f9ac5dc39bafecab15b295613d231aac9316]{
+-- Page 53, Offset 1542. Mods: @c, @i, @a, @r.
+-- My fair lady.
+My fair lady.
+}
+[sha:a1b2f5e9f22ccf727b04eaa8004726abe81b5f22]{
+-- Page 54, Offset 1543.
+-- "Gh―"
+"Gh―"
+}
+[sha:c02a06515c81f645f364db5503c4279fb406ffef]{
+-- Page 54, Offset 1544.
+-- Fangs sank into his left and right shoulders.
+Presas se afundaram em seu ombro esquerdo e direito.
+}
+[sha:e544a1edcf12ac4210b17cdb0057178c835e08dd]{
+-- Page 54, Offset 1545.
+-- For the first time in this form, he felt rage seethe up inside him.
+Pela primeira vez, nessa forma, ele sentiu a raiva se inflamar dentro dele.
+}
+[sha:bb22c36f943306ce82ab445b332c27782e8add08]{
+-- Page 55, Offset 1546.
+-- ...The basis of all things had to be absolute.
+...A base de todas as coisas haviam de ser absolutas.
+}
+[sha:ec061123ee5822c7675777cf0127cf41a04d5daf]{
+-- Page 55, Offset 1547.
+-- All Mystics, all things bizarre obeyed some set of laws.
+Todos os misticismos, todas as coisas bizarras obedeciam um conjunto de leis.
+}
+[sha:87810c2c742e994d5179bbe227b5076cba380a35]{
+-- Page 55, Offset 1548.
+-- But these pigs ignored this, along with his dignity.
+Mas esses porcos ignoravam isso, junto com a dignidade dele.
+}
+[sha:7ca5dd960a8847dea6367d4329b10c641c83b586]{
+-- Page 56, Offset 1549.
+-- "After three days you weaken!"
+"Depois de três dias, você irá enfraquecer!"
+}
+[sha:3ea69f88798262241d9782403d0519a2aa27b6f7]{
+-- Page 56, Offset 1550.
+-- "After six, you drown!"
+"Depois de seis, você irá se afogar!"
+}
+[sha:8f8c66ce8a9c191b3c4c6a9e0025d63ebcd7cc04]{
+-- Page 56, Offset 1551.
+-- "After half a year, you'll be a wretched skeleton!"
+"Depois de meio ano, você será um esqueleto deplorável!"
+}
+[sha:bc83753512f907ee78f7e3759b475ed4cff96406]{
+-- Page 56, Offset 1552.
+-- ""Sorry to be rude, but we'll just kill you now!""
+""Desculpe-nos pela grosseria, mas nós vamos te matar agora!""
+}
+[sha:8663815a30fea8c4211093a2bdb8045c679e7eb1]{
+-- Page 57, Offset 1553.
+-- "SSSSHHHHHHHHHHH!!!"
+"SSSSHHHHHHHHHHH!!!"
+}
+[sha:27b1b545959599f7edf9f80e3db9dbc3fff7163d]{
+-- Page 57, Offset 1554.
+-- A howl.
+Um uivo.
+}
+[sha:c2f234d94bf6f89cbc340dcf09dc25e7abb6089e]{
+-- Page 57, Offset 1555.
+-- Though he had no voice, he let out an exasperated scream.
+Apesar de não ter voz, ele soltou um grito de desespero.
+}
+[sha:7f90bbcdd81725f82c7ccf12d1658f37f26a55ec]{
+-- Page 58, Offset 1556.
+-- "Huh?"
+"Huh?"
+}
+[sha:6e8326cab9d24fb520a36a14e3ba1876334dfe2e]{
+-- Page 58, Offset 1557.
+-- "Huh?!"
+"Huh?!"
+}
+[sha:0387ff3bace08fad5104112b017a3905523210d8]{
+-- Page 58, Offset 1558.
+-- "What a convenient function, to be able to detach your arms!"
+"Que função conveniente, ser capaz de remover seus braços!"
+}
+[sha:c6d8c294585c97aa2f5da079ca18ed76cd40aec7]{
+-- Page 58, Offset 1559.
+-- "What an unparalleled warrior!"
+"Um guerreiro sem igual!"
+}
+[sha:aa00fda76123bdca54c81aec8ebab98bad3e9d59]{
+-- Page 59, Offset 1560.
+-- The talkative pigs fell into the stream.
+Os porcos falantes caíram na correnteza.
+}
+[sha:986d12cf927075768d5b602a05d40f61ebe71c90]{
+-- Page 59, Offset 1561.
+-- That exasperated scream was the sound of the figure tearing his arms from their sockets.
+Aquele grito desesperado era o som da figura arrancando seus de suas articulações.
+}
+[sha:5a1f3e1d7d92224c3533166c92781e231d65badd]{
+-- Page 59, Offset 1562.
+-- Armless, he rushed the girl.
+Sem braços, ele correu em direção a garota.
+}
+[sha:795aa5b3a7f1476c7890e20158b1e51dab690002]{
+-- Page 59, Offset 1563.
+-- "...Useless swine. I'll see you be punished later."
+"...Suínos inúteis. Eu irei punir vocês depois.!
+}
+[sha:f823bbbe3a32432b5723cadd07b42d9dafd26b23]{
+-- Page 60, Offset 1564.
+-- He may have lost his mangled arms, but not the object of his malice.
+Ele pode ter perdido os seus braços mutilados, mas não o objeto de sua malícia.
+}
+[sha:eee9d09c7da0a483b2f8b96b6ef9d369f675b484]{
+-- Page 60, Offset 1565.
+-- A Mystic Eye to pierce the heart of its victim.
+Olhos Místicos que perfuram o coração de suas vítimas.
+}
+[sha:70fc5234f6a72192bf27d7b7c0459e04e9e9d5ea]{
+-- Page 60, Offset 1566.
+-- A Magic Circuit designed to stop a beating heart.
+Um circuito mágico projetado para parar os batimentos de um coração.
+}
+[sha:842405fd41e4943c48ce990911878d1579366cae]{
+-- Page 60, Offset 1567.
+-- It was beautiful in its simplicity. At point blank-range, it was the equivalent of an unavoidable shotgun blast.
+Era bonito em sua simplicidade. A queima-roupa, era equivalente a um tiro inevitável de uma espingarda.
+}
+[sha:2652905e83c07f030b7a1d49a3b17d8fa4628cd8]{
+-- Page 61, Offset 1568.
+-- "...?"
+"...?"
+}
+[sha:849e70f0d7c733ad6497163b556443eb56fc1c19]{
+-- Page 61, Offset 1569.
+-- But...
+Mas...
+}
+[sha:c91e1abb6023174c79bedba65f2945a5e2d0bbe4]{
+-- Page 61, Offset 1570.
+-- Tragically, that eye was all he had.
+Tragicamente, aquele olho era tudo que ele tinha.
+}
+[sha:dba51993bed2b34204cb2d059211c328da9a2f04]{
+-- Page 62, Offset 1571. Mods: @c, @i, @a, @r.
+-- 
+
+}
+[sha:f7602718c4748da3a5e9f9b45062f24c52bd69e5]{
+-- Page 62, Offset 1572. Mods: @c, @i, @a, @r.
+-- Build it up with wood and clay,
+Build it up with wood and clay,
+}
+[sha:f79558a89c344a16bdbeb97adf9a69855e9ae5a5]{
+-- Page 62, Offset 1573. Mods: @c, @i, @a, @r.
+-- Wood and clay, Wood and clay,
+Wood and clay, Wood and clay,
+}
+[sha:656734580292a27165b3538f933ad9a0f670daba]{
+-- Page 62, Offset 1574. Mods: @c, @i, @a, @r.
+-- Build it up with wood and clay,
+Build it up with wood and clay,
+}
+[sha:bc561619f96578e51f111624174c7a84cbd468d9]{
+-- Page 62, Offset 1575. Mods: @c, @i, @a, @r.
+-- My fair lady.
+My fair lady.
+}
+[sha:dd4962c98f261768ac2a087cd7685ed8dbe32d63]{
+-- Page 63, Offset 1576.
+-- He failed to realize that her song had changed.
+Ele falhou em percerber que a cantiga dela havia mudado.
+}
+[sha:5e5f66f8d680d042d64e2b5f12e6866f6e353cf7]{
+-- Page 64, Offset 1577.
+-- For the giant, the earth-shattering strike was akin to the act of shooing away an insect.
+Para o gigante, o golpe devastador era algo equivalente a espantar um inseto.
+}
+[sha:654cbb5162eb75dda3c83a1dd5c790578152e250]{
+-- Page 65, Offset 1578.
+-- Its green, verdant veins pulsed.
+Suas veias verdejantes pulsavam.
+}
+[sha:e3b9e966bd8559f3f3ffdab5f822e153fd2f6602]{
+-- Page 65, Offset 1579.
+-- Oaken bark covered its body, hardened sufficiently over centuries to repel even a chainsaw.
+Cascas de carvalho cobriam seu corpo, endurecidas o suficiente durante os séculos para repelir até mesmo uma motosserra.
+}
+[sha:053679471a9e6833dc5fc091ed5058072171541c]{
+-- Page 65, Offset 1580.
+-- On its forehead, inscribed in all manner of colors, was the word "emeth," though judging from its misspelling the inscription was purely decorative.
+Em sua testa, inscrito em todos os tipos de cores, estava a palavra "emeth", embora, a julgar por sua grafia incorreta, a inscrição era puramente decorativa.
+}
+[sha:219e0347dd970db29b6e852c937b092ba6099fdd]{
+-- Page 66, Offset 1581.
+-- The Thames Troll.
+The Thames Troll.
+}
+[sha:b3932c79b6a5ebabaa4028a732f15ff70357cbdc]{
+-- Page 66, Offset 1582.
+-- It also went by the moniker Falling Down.
+Ele também era conhecido como Falling Down.
+}
+[sha:8ffe66d5c3719353cc5676cd9a2c7bc8c2c461b7]{
+-- Page 66, Offset 1583.
+-- Or alternatively the Great Bridge.
+Ou alternativamente, the Great Bridge.
+}
+[sha:48df14ade2a697fd499d2986a912019a7eb8cfed]{
+-- Page 66, Offset 1584.
+-- Admired in different forms, it was the first of four miracles.
+Admirado em diferentes formas, era o primeiro de quatro milegres.
+}
+[sha:2f76e99a489b7d63bb44c71a549864c6ee6551bf]{
+-- Page 67, Offset 1585.
+-- "Thames, please take care of the other one."
+"Thames, por favor, tome conta do outro."
+}
+[sha:075a619bfbd937396c979c6303f9a4047bb8e479]{
+-- Page 67, Offset 1586.
+-- The giant responded to the girl's words.
+O gigante respondeu às palavras da garota.
+}
+[sha:7fe07aeb70bb2c2ee150bc3de5fb6ec660d80d3b]{
+-- Page 67, Offset 1587.
+-- With roots rent deep into the earth, it raised its left arm to the heavens without moving a step.
+Com raízes fincadas profundamente na terra, ele ergueu o braço esquerdo para os céus sem dar um passo sequer.
+}
+[sha:ba0fdeba2dfd75b50c6245e49d7397d4d728a47f]{
+-- Page 68, Offset 1588.
+-- "-, -"
+"-, -"
+}
+[sha:6efdd9067902be12aaaebe262f4bc7653971979b]{
+-- Page 68, Offset 1589.
+-- Elsewhere in the forest...
+Em outro lugar da floresta...
+}
+[sha:47d576f28a36244467283aaab67428685bfb9ffe]{
+-- Page 68, Offset 1590.
+-- The grinning figure who had chosen to flee the battle was running through the night forest at full speed.
+A figura sorridente que havia escolhido fugir da batalha estava correndo atráves da floresta noturna a velocidade total.
+}
+[sha:766437ccefc61044dbb4dc968c377b623e7af6fe]{
+-- Page 68, Offset 1591.
+-- Record and provide a detailed description of the enemy.
+Registre e forneça uma descrição detalhado do inimigo.
+}
+[sha:4e63331c1af4cede4eb20886f18a6c011c4a44a9]{
+-- Page 68, Offset 1592.
+-- Those were the orders assigned to him.
+Essas foram as ordens dadas a ele.
+}
+[sha:424ce649c106db9a9b167165d44d8abb7426f399]{
+-- Page 69, Offset 1593.
+-- He poured all of his energy into escaping this forest with which he had become so familiar.
+Ele focou toda a sua energia em escapar da floresta com a qual ele se tornou tão familiar.
+}
+[sha:73a3c9d2e40720b8c96d197ece0d6c279d27f099]{
+-- Page 69, Offset 1594.
+-- In case of emergency, the plan was for one to challenge the enemy while the other made a tactical retreat in order to report to their master.
+Em caso de emergência, o plano era que um desafiasse o inimigo enquanto o outro faria um recuo tático para reportar ao seu mestre.
+}
+[sha:4b46a5913188f148a4cf3d23e02d16f97bff1113]{
+-- Page 69, Offset 1595.
+-- He dashed through the forest.
+Ele correu pela floresta.
+}
+[sha:8060e3e3d910b11b69d897676cf402c28f4a2b0a]{
+-- Page 69, Offset 1596.
+-- Though gripped by fear, he was confident in his ability to perform the mission he was designed for.
+Apesar de tomado pelo medo, ele estava confiante em suas habilidades para terminar a missão a qual foi designado.
+}
+[sha:7fdc473be21c7be4a4a8e4efd4863ec9719dd925]{
+-- Page 70, Offset 1597.
+-- Nothing could catch him in these woods.
+Nada conseguiria pegar ele nessas bosques.
+}
+[sha:5a68ecc289f406892ee067834109d3f659a9ddfd]{
+-- Page 70, Offset 1598.
+-- Even the wolves could not track him.
+Até mesmo os lobos não conseguiam acompanhar ele.
+}
+[sha:d95cdc35b17f40a5821bd334369f8a79bdef2d4b]{
+-- Page 70, Offset 1599.
+-- His bird-like legs thumped as they kicked the ground.
+Suas pernas parecidas com as de um pássaro ressoavam ao chutar o chão.
+}
+[sha:42a12a8a82b0fde5f66114e7659b2af059eed1dc]{
+-- Page 70, Offset 1600.
+-- Perhaps it was his creator's eccentric tastes that dictated their form when optimizing them for running.
+Talvez tenha sido o gosto excêntrico de seu criador que ditou sua forma ao otimizá-los para a corrida.
+}
+[sha:0a525c2b1c1975aaf9ca9e17a16b145b8370aa88]{
+-- Page 71, Offset 1601.
+-- The grinning man could reach a maximum speed of 45 miles per hour,
+O homem sorridente conseguia alcançar uma velocidade maxima de 70 quilômetros por hora,
+}
+[sha:e6043381c6ba540411a83a0bea794a61dbe6656c]{
+-- Page 71, Offset 1602.
+-- well past the limit of any bipedal creature.
+o que ultrapassava muito o limite de qualquer criatura bípede.
+}
+[sha:bc0e7232abf9598a2d2ac40132e19dbd88ab7391]{
+-- Page 71, Offset 1603.
+-- After securing a distance of several miles, he turned around to confirm his safety.
+Após garantir uma distância de vários quilômetros, ele se virou para confirmar sua segurança.
+}
+[sha:52422b7831c20a8d5c24f5adf029880df24cdc30]{
+-- Page 71, Offset 1604.
+-- ...There was no sign of pursuit.
+...Não havia nenhum sinal de perseguição.
+}
+[sha:485c8a28d93da67a01eb26db13ca60280d3d25a0]{
+-- Page 71, Offset 1605.
+-- His crescent-shaped mouth-nay, eye-slackened in relief.
+ Sua boca em forma de meia-lua-ou melhor, seus olhos-afrouxaram em alívio.
+}
+[sha:772bf9314ab1e96fd262410ea000c8b15116a2ed]{
+-- Page 72, Offset 1606.
+-- And then...
+E então...
+}
+[sha:f61668658f8954a60996d656d4a179cabf5f9fb0]{
+-- Page 72, Offset 1607.
+-- "-?"
+"-?"
+}
+[sha:6b396b4ae7c421c37597983206fc08c8fbb6aabc]{
+-- Page 72, Offset 1608.
+-- After facing forward once more, he looked up to lock eyes with his doom.
+Após olhar para frente mais uma vez, ele olhou para cima para cuzar os olhos com sua perdição.
+}
+[sha:de5d9e181d616b536b92d28c4bd5c42daa9d1c34]{
+-- Page 73, Offset 1609. Mods: @c, @i, @a, @r.
+-- 
+
+}
+[sha:92bd199260ad5ea5ab128745644a4c315d1b4f8c]{
+-- Page 73, Offset 1610. Mods: @c, @i, @a, @r.
+-- London Bridge is broken down,
+London Bridge is broken down,
+}
+[sha:5c275d1fc422f0120d3f82d994b9a18f1213be46]{
+-- Page 73, Offset 1611. Mods: @c, @i, @a, @r.
+-- Broken down,broken down...
+Broken down,broken down...
+}
+[sha:f3c812d8ceca3de14649c86ee6b5d89b694011c5]{
+-- Page 74, Offset 1612.
+-- In the distance he could hear the dark rhymes of Mother Goose.
+Na distância ele conseguia ouvir as rimas sombrias de Mother Goose.
+}
+[sha:abf21a85bf54601bd9b512ec8a02b5353771cb8b]{
+-- Page 74, Offset 1613.
+-- Countless vines extended from the ground.
+Incontaveis vinhas se extenderam do chão.
+}
+[sha:8bffadde6aca03f1896d5b140235b539d30a1d04]{
+-- Page 74, Offset 1614.
+-- They formed into a monstrosity that conjured up images of an arched bridge, something resembling a giant arm.
+Elas formaram uma monstruosidade que lembrava imagens de uma ponte em arco, algo que lembrava um braço gigante.
+}
+[sha:de5d9e181d616b536b92d28c4bd5c42daa9d1c34]{
+-- Page 75, Offset 1615. Mods: @c, @n.
+-- 
+
+}
+[sha:92bd199260ad5ea5ab128745644a4c315d1b4f8c]{
+-- Page 75, Offset 1616. Glued. Mods: @c, @i, @r.
+-- London Bridge is broken down,
+London Bridge is broken down,
+}
+[sha:3593f9ac5dc39bafecab15b295613d231aac9316]{
+-- Page 75, Offset 1617. Mods: @c, @i, @r.
+-- My fair lady.
+My fair lady.
+}
+[sha:cc4eadfe1e72ddd3a29595cad691d48db80a46ed]{
+-- Page 76, Offset 1618.
+-- FINAL REPORT.
+RELATÓRIO FINAL.
+}
+[sha:a28c996ff15eef25a008ac5157ba77b2c1b79bd7]{
+-- Page 76, Offset 1619.
+-- SURVIVAL: UNABLE TO COMPLETE.
+SOBREVIVÊNCIA: INCAPAZ DE COMPLETAR
+}
+[sha:1c1d8341a5bbeca557a69cfb0136468a67d1eb65]{
+-- Page 76, Offset 1620.
+-- ANALYSIS: UNABLE TO COMPLETE.
+ANÁLISE: INCAPAZ DE COMPLETAR.
+}
+[sha:e9311486edd0e5a25fcd44007ad3f38dd1a92f53]{
+-- Page 76, Offset 1621.
+-- TRANSMISSION: UNABLE TO COMPLETE.
+TRANSMISSÃO: INCAPAZ DE COMPLETAR.
+}
+[sha:85cc93f6e08beb9976ca00e24762ec51208e51af]{
+-- Page 76, Offset 1622.
+-- ENDING SESSION...
+FINALIZANDO SESSÃO...
+}
+[sha:9ddeed680fe657840571d29eb68272db39c80861]{
+-- Page 76, Offset 1623.
+-- AAAH. OH, MASTER. PRESERVE ME FROM-
+AAH. OH, MESTRE. ME PROTEJA D-
+}
+[sha:d8e6679a9a92ca4dcfbf3e75dd66fb97ffab7f27]{
+-- Page 77, Offset 1624.
+-- "...I think we're about done here. Well done, Thames. You can return now.
+"...Eu acho que nós finalizamos aqui. Muito bem, Thames. Você pode retornar agora.
+}
+[sha:8bf1b1c7ea9328eb66068edc6c534b320e66c18e]{
+-- Page 77, Offset 1625.
+-- Hopefully our next encounter will be more worth our time."
+Espero que nosso próximo encontro valha mais a pena."
+}
+[sha:58b286e8e71513c48f40eb668ff0bdd9aea046e2]{
+-- Page 78, Offset 1626.
+-- The girl turned on her heel.
+A garota se virou em seu salto.
+}
+[sha:f12b6e9be1544ac1a6feca31408be5b9fbea90a9]{
+-- Page 78, Offset 1627.
+-- The invaders who had set up shop in the woods were eliminated.
+Os invasores que haviam se instalado na floresta foram eliminados.
+}
+[sha:0cc708951f19cb764e80e14daf7766682310fcbb]{
+-- Page 78, Offset 1628.
+-- She had no interest in whether they had been good or evil, nor how many victims they had claimed.
+Ela não interesse em caso eles fossem bons ou maus, nem em quantas vítimas eles haviam feito.
+}
+[sha:92c6bfe4d6b93cb9a1d6f393a24a5810eef9e4e7]{
+-- Page 78, Offset 1629.
+-- The shackles of civic society held no sway over her.
+Os grilhões da sociedade civil não a governavam.
+}
+[sha:6cac6873f5eed6503990b37a1be7e033abd71584]{
+-- Page 78, Offset 1630.
+-- This was the way of a pure-blooded witch, the way of a Meinster.
+Esse era o caminho de uma bruxa de sangue puro, o cominho de uma Meinster.
+}
+[sha:b4c8e9b67c0226c9297b0f31889e816e33b1d5a4]{
+-- Page 79, Offset 1631.
+-- "Hey, what about us?! What about us?!"
+"Ei, e quanto a nós?! Quanto a nós?!"
+}
+[sha:029458c8a5b0fd3a109f38fa55e33ee4176f3b36]{
+-- Page 79, Offset 1632.
+-- "Help me get this arm outta my teeth!"
+"Me ajude a tirar esse braço do meu dente!"
+}
+[sha:b3121eb1ec4c9c627be3b32cd7640c5540735c4d]{
+-- Page 79, Offset 1633.
+-- "We really shouldn't move while we're eating."
+"Nós realmente não deveriamos nos mover enquanto estamos comendo."
+}
+[sha:9708736efe753d840322325d60b891d30c28ea0f]{
+-- Page 79, Offset 1634.
+-- "Don't tell us you don't need pigs that can't fly!"
+"Não nós diga que você não precisa de porcos que não conseguem voar!"
+}
+[sha:36f1f6544d8c118ab9c235e34fdb7c7563dc3662]{
+-- Page 79, Offset 1635.
+-- "W-We'll do a better job next time, though we're nothing but screw-ups!"
+"N-Nós vamor fazer um trabalho melhor na próxima, apesar de não sermos nada além de trapalhões!"
+}
+[sha:ed32ab35d47a57cd7549b70d103159206c8354b6]{
+-- Page 79, Offset 1636.
+-- "Yeah, you owe us at least one compliment before the end!"
+"É, você nós deve pelo menos um elogio antes do fim!"
+}
+[sha:cc8c8ea3b152673fe2dffad8f713542bbeeae86b]{
+-- Page 80, Offset 1637.
+-- "..."
+"..."
+}
+[sha:ae823584654f90b57762eb46a1a62dda5aaa275a]{
+-- Page 80, Offset 1638.
+-- The girl let out a sigh and stepped into the stream. She removed her gloves and dipped her slender fingers into the ice water.
+A garota soltou um suspiro e pisou na correnteza. Ela removou suas luvas e mergulhou seus dedos elegantes na água congelante.
+}
+[sha:b352e27b3a904e68f61b29639723c89f2c82170f]{
+-- Page 81, Offset 1639.
+-- "I told you not to roll sixes.
+"Eu falei pra vocês não rolarem seis.
+}
+[sha:b5979f1ed943263787ac97530ec21cb30bb4d567]{
+-- Page 81, Offset 1640. Glued. Mods: @x.
+-- But I suppose it is the only number you can roll."
+Mas suponho que esse seja o único número que vocês consigam rolar."
+}
+[sha:5a8775ccd40aea6bd4eac5b8cdb59939545a3101]{
+-- Page 81, Offset 1641.
+-- There was no response to her melancholy tone.
+Não houve resposta ao seu tom melancólico.
+}
+[sha:5c01fcffd7c2764285fcd10dd6840a462d28aed8]{
+-- Page 81, Offset 1642.
+-- In place of the once-boisterous pigs were two black dice, now sitting in the palm of her hand.
+No lugar dos porcos outrora barulhentos estavam dois dados pretos, agora reunidos na palma de sua mão.
+}
+[sha:283e3ad384ae5295f0374279ff67d6a8007fbf47]{
+-- Page 81, Offset 1643.
+-- As the girl was about to say something to the scattered remains around her, she realized something that made her put a hand to her mouth.
+Quando a garota estava prestes a dizer algo para os restos espalhados ao seu redor, ela percebeu algo que a fez colocar a mão na boca.
+}
+[sha:cf5e0ae417a162f1464f037979e754a9c534ac38]{
+-- Page 82, Offset 1644.
+-- "...The farewell is over.
+"...O adeus acabou.
+}
+[sha:60f6fffe612bd63a830b8ce3bf69447874ff9747]{
+-- Page 82, Offset 1645.
+-- Should I have asked them if they had any last words?"
+Eu deveria ter perguntado se eles tinham últimas palavras?"
+}
+[sha:9dda32f66469171dd57247e18a79ac01274a77db]{
+-- Page 82, Offset 1646.
+-- Her slender, pale fingers traced her lips, as if reluctant to part from them.
+Seus dedos elegantes e pálidos traçaram seu lábio, como se estivessem relutantes de se afastar dele.
+}
+[sha:14eb01836fbf017f3a6941b2b01b13a22f30f2f3]{
+-- Page 82, Offset 1647.
+-- Sighing again, she calmly left the dark woods the same way she had entered.
+Suspirando novamente, ela calmamente saiu dos bosques sombrios do mesmo modo que entrou.
+}

@@ -1,0 +1,5 @@
+[sha:0857ef93f74f1a88bfd13f22a103a77c83f866c8]{
+-- Page 2, Offset 23948. Mods: @e.
+-- -Decision Y-
+-Decisão Y-
+}

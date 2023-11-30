@@ -1,0 +1,35 @@
+[sha:5760817a321936516a508db54c1580c6cbd2e26d]{
+-- Page 41, Offset 21671. Mods: @e.
+-- -Decision I-
+-Decisão I-
+}
+[sha:b679d6dcfbf24c195afb2314d5300ae9f2736ddc]{
+-- Page 41, Offset 24038. Choice.
+-- Tsukiji's story doesn't add up.
+A história de Tsukiji não bate.
+}
+[sha:494c32a63ce79e0e39114b690ffe538b3b9cd5ae]{
+-- Page 41, Offset 24039. Choice.
+-- Aozaki's story doesn't add up.
+A história de Aozaki não bate.
+}
+[sha:f916ac98c942a7cfe1d5f82d3afe4a86f6c4369b]{
+-- Page 41, Offset 24040. Choice.
+-- Beo's annoying.
+O Beo é irritante.
+}
+[sha:56ed49771eb56c18884b06647f0b3dce706b9202]{
+-- Page 41, Offset 24041. Choice.
+-- Tsukiji and Aozaki's stories don't add up.
+A história de Tsukiji e Aozaki não batem.
+}
+[sha:1e2e6fef25cc49fd7c61baa0d0548e94de0f95f4]{
+-- Page 41, Offset 24042. Choice.
+-- Tsukiji and Beo's stories don't add up.
+A história de Tsukiji e Beo não batem.
+}
+[sha:a225717900c2ae4b645767bb0faaad9cbc6dcbb8]{
+-- Page 41, Offset 24043. Choice.
+-- Aozaki and Beo's stories don't add up.
+A história de Aozaki e Beo não batem.
+}

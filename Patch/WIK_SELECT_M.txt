@@ -1,0 +1,15 @@
+[sha:3183efd7c4fd296928d01755bb5e2adeaeaf6e16]{
+-- Page 31, Offset 22594. Mods: @e.
+-- -Decision M-
+-Decisão M-
+}
+[sha:9386002cdf1629adee7abc2281e611e5c5fa8df0]{
+-- Page 31, Offset 24055. Choice.
+-- I'll go peek into the hallway.
+Eu vou espiar o corredor.
+}
+[sha:55a4ce1968c9539fa9610bd8dee73b2fa4e94684]{
+-- Page 31, Offset 24056. Choice.
+-- I think I'll just leave it alone.
+Eu acho que eu vou deixar por isso.
+}

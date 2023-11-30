@@ -1,0 +1,655 @@
+[sha:7673bdfb04847a4e9da8b03ce7bc2abc231d4ab9]{
+-- Page 0, Offset 707.
+-- Aoko did not stop by the faculty room before heading home.
+A Aoko não passou na sala dos professores antes de ir para casa.
+}
+[sha:b5eb03454c8b9f37b5fd66ee16ae27958a64e4f7]{
+-- Page 0, Offset 708.
+-- While Mr. Yamasiro's offer to drive her home was tempting, she decided it would ultimately be far more satisfying to ruin his day just as he had hers.
+Embora a oferta do Sr. Yamasiro de leva-la de carro até em casa fosse tentadora, ela decidiu que seria muito melhor aruinar o dia dele, assim como ele havia feito com o dela.
+}
+[sha:405ddf8f6d814f28b38fe31469c9466ed3f8740d]{
+-- Page 1, Offset 709.
+-- She walked as quietly as she could toward the entrance and opened her bright red umbrella.
+Ela caminhou o mais silenciosamente possível em direção a entrada e abriu seu brilhante guarda-chuva vermelho.
+}
+[sha:7af627dbbf08567039710e6a0ecb9f113e6c0bbf]{
+-- Page 1, Offset 710.
+-- As she had predicted that morning, the rain was waning in the afternoon.
+Assim como havia previsto essa manhã, a chuva estava diminuindo durante a tarde.
+}
+[sha:cf64419debac2f3a492ca3c95bbb750a3fedf2d9]{
+-- Page 1, Offset 711.
+-- At this rate, it would probably cease completely in an hour or so.
+Nesse ritmo, provavelmente iria cessar completamente em uma hora ou menos.
+}
+[sha:b55f5952434aa7b3362be3e0b44faec471c01421]{
+-- Page 1, Offset 712.
+-- The distant sunshine would likely have reached her by the time she arrived home.
+Os distantes raios do sol provavelmente já a teriam alcançado quando ela chegasse em casa.
+}
+[sha:49c41f540b48559b0b2197d0b1a0ad06d7794cb8]{
+-- Page 2, Offset 713.
+-- "Well, I suppose it could be worse."
+"Bem, acho que poderia ter sido pior." 
+}
+[sha:397a05d50baaa3f26803c9cc08d13214e847a689]{
+-- Page 2, Offset 714.
+-- She shrugged her shoulders in resignation.
+Ela encolheu os ombros em sinal de resignação.
+}
+[sha:a7fdf21eaf3832024295a127ac901e396bd4b971]{
+-- Page 2, Offset 715.
+-- She neither liked nor disliked rain, but she found herself enjoying her walk home with her red umbrella in hand.
+Ela não gostava nem desgostava da chuva, mas ela se viu aproveitando a caminhada para casa com seu guarda-chuva vermelho na mão.
+}
+[sha:baac1c45b304fddf2dece8367aab2499e9e91a38]{
+-- Page 3, Offset 716.
+-- The teachers at Misaki High School weren't fond of bright colors, so Aoko's red umbrella was an unusual sight.
+Os professores da Escola Misaki não eram muito fãs de cores brilhantes, então, o guarda chuva vermelho de Aoko era uma vista incomum.
+}
+[sha:c03aafbc03847e99a9884778b6ca58ee9e8d418c]{
+-- Page 3, Offset 717.
+-- A ghost story about how the umbrella was once pure white had been making the rounds, but it featured Aoko instead of a ghost.
+Uma história de fantasmas sobre como o guarda-chuva costumava ser completamente branco estava circulando, mas constava Aoko ao invés de um fantasma.
+}
+[sha:1815363d49a7e0ec888bacf808f365cab713a718]{
+-- Page 3, Offset 718.
+-- It was with that umbrella that she made her way toward Misaki Station.
+E foi com esse guarda-chuva que ela fez seu caminho até a Estação de Misaki.
+}
+[sha:17de8c8a6f7a6a9fd6ec2e0f1b8d69972fcb971e]{
+-- Page 4, Offset 719.
+-- The private Misaki High School got its name from the town of the same name.
+A Escola particular Misaki recebeu o mesmo nome da cidade.
+}
+[sha:3ed8955dd2aa313bd6ac9e661e34a173c256a6a2]{
+-- Page 4, Offset 720.
+-- The area was once a sprawl of farmland and woodland, but rapid growth over the last ten years had led to unprecedented modernization.
+A área costumava ser uma grande extensão de terras agrícolas e florestas, mas o rápido crescimento nos últimos 10 anos a levou a modernização sem precedentes.
+}
+[sha:44582ddb8a30cd18a67df34e651e8c3987eab761]{
+-- Page 5, Offset 721.
+-- There were some who fought to preserve Misaki's natural treasures.
+Houveram aqueles que lutaram para preservar os tesouros naturais de Misaki.
+}
+[sha:ac1c4ce98af139e14af25f96e634ff8b5a078c41]{
+-- Page 5, Offset 722.
+-- "I agree in principle to preserving the land, but not at the expense of our prosperity."
+"A princípio, eu concordo com a preservação da terra, mas que não as custas da nossa prosperidade."
+}
+[sha:ba34a31a8736482852688f452afbacd5bf21778d]{
+-- Page 5, Offset 723.
+-- With those words, the mayor snuffed out the voices of the minority and ushered in a long-term plan for new urban development.
+Com essas palavras, o prefeito calou as vozes das minorias  e deu início a um plano de longo prazo para um novo desenvolvimento urbano.
+}
+[sha:a28eae652515fe97c1c7822d5ba49d533de15fbb]{
+-- Page 6, Offset 724.
+-- More than enough funds for the urban development were collected,
+Fundos mais do que o suficiente foram arrecadados,
+}
+[sha:31bff35d258fe0ec8de5576645be481f86a09177]{
+-- Page 6, Offset 725.
+-- and the unassuming town of Misaki became the largest municipality of Misaki City in merely ten years.
+e o modesto vilarejo de Misaki se tornou a grandiosa Cidade de Misaki em apenas dez anos.
+}
+[sha:17b00d3bf420724eb317539d1856fb9aba334c0a]{
+-- Page 6, Offset 726.
+-- Even though it lacked the modernity of neighboring Yashirogi
+Mesmo que lhe faltasse a modernidade de sua vizinha, Yashirogi
+}
+[sha:f8a99d31b0e9385dfb18df61d9c56575ccadcbd8]{
+-- Page 6, Offset 727.
+-- or the elegance of Misaki Hills...
+ou a elegância das Colinas de Misaki...
+}
+[sha:91960b584ebcd7f42c971d9e69b3653fedd9eec0]{
+-- Page 7, Offset 728.
+-- "What did people expect? To keep the town hidden atop the mountain forever? It's not like they were gonna flatten the mountain or something."
+"O que as pessoas esperavam? Manter a cidade escondida no topo da montanha para sempre? Não é como se fossem nivelar a montanha ou algo assim."
+}
+[sha:810e14c54b52b4a24e947bbe71b3f738b23f969a]{
+-- Page 7, Offset 729.
+-- Urbanization had been contained to the lowlands around the station, with most of the hills and mountains still standing as they did ten years prior.
+A urbanização havia se limitado às terras baixas ao redor da estação, com a maioria das colinas e montanhas ainda de pé, como dez anos antes.
+}
+[sha:92c8f259a1cab994eac03e51ffb830eb080e8e46]{
+-- Page 7, Offset 730.
+-- The exhaustion of funds succeeded in protecting the old Misaki where the citizens could not.
+O esgotamento de fundos sucedeu em proteger a antiga Misaki onde os cidadãos não puderam.
+}
+[sha:c58cb5ef1161324426ad4fe8b77b443498e488b0]{
+-- Page 8, Offset 731.
+-- It became a truly odd suburban town, welcoming an increasingly urban population with its vestiges of old country charm.
+Ela se tornou uma cidade suburbana realmente estranha, acolhendo uma população cada vez mais urbana com seus vestígios de charme do velho país.
+}
+[sha:b2f5edf3fff637d686c4e349256fa49de8682dc6]{
+-- Page 9, Offset 732.
+-- Misaki High School was a private school established long before the town's current state.
+O Colégio Misaki era uma escola particular fundada muito antes do estado atual da cidade.
+}
+[sha:0de83c458bdb57d92c077bcfb4b271654ce04225]{
+-- Page 9, Offset 733.
+-- The original campus, built fifty years ago, was located high up in the mountains, making its current location its second incarnation.
+O campus original, contruído há cinquenta anos atrás, estava localizado no alto das montanhas, tornandol sua localização atual sua segunda encarnação.
+}
+[sha:84c10d2cec4e9b5b85427c662118acb485714b2f]{
+-- Page 10, Offset 734. Mods: @k, @e.
+-- The path to the old grounds was remote, steep,
+O caminho para o antigo terreno era remoto, íngreme,
+}
+[sha:e4594aa68232d6be36b27790c66818e43491297e]{
+-- Page 10, Offset 735. Mods: @k, @e.
+-- and also well-trodden by animals.
+e também bastante percorrido por animais.
+}
+[sha:82581389d47c6b3a75a074ae7973aa736bc99202]{
+-- Page 10, Offset 736.
+-- For these reasons, among others, Misaki High School had been shuttered until almost 20 years ago, when it received a donation from a department store chain that allowed for the construction of a new campus in the city.
+Por essas e outras razões, o Colégio Misaki havia sido fechado há quase 20 anos atrás, quando recebeu uma doação de uma rede de lojas de departamento que possibilitou a construção de um novo campus na cidade.
+}
+[sha:e9f6495962a54e94b93a5e8d9234f52c0377dbce]{
+-- Page 10, Offset 737.
+-- And thus, Misaki High School reopened its doors, the old woodland campus forgotten.
+E assim, o Colégio Misaki reabriu suas portas, esquecendo o antigo campus da floresta.
+}
+[sha:26b016a4b8ee76dd8dc0a8fe936e5f868122ef0c]{
+-- Page 11, Offset 738.
+-- In fact, most of the students attending Misaki High School were not from Misaki at all.
+Na verdade, a maioria dos estudantes que frequentavam o Colégio Misaki não eram sequer de Misaki.
+}
+[sha:0fdc692a4e8e7ccb2c7563aba81fa0291f6019e9]{
+-- Page 11, Offset 739.
+-- The hearty rustic people of this country town preferred prefectural schools to private ones.
+As pessoas rústicas e robustas desta cidade do interior preferiam escolas estaduais às particulares.
+}
+[sha:23a0f92fc3477c9cc6ee3587223b2a2f3ec7fe04]{
+-- Page 12, Offset 740.
+-- Truth be told, Aoko herself was one of them.
+Verdade seja dita, Aoko em sí era um deles.
+}
+[sha:d4d302c83347bcd127dede1682e298c64ee40fcf]{
+-- Page 12, Offset 741.
+-- All she had wanted after junior high was to move to Tokyo, where she hoped to spend her days enjoying live music on her way to entering a public university.
+Tudo o que ela queria depois do ensino fundamental era se mudar para Tóquio, onde esperava passar seus dias curtindo música ao vivo à caminho de entrar em uma universidade pública.
+}
+[sha:ceb5ba4557b3417d9c7472cc30c08132f1d82467]{
+-- Page 12, Offset 742.
+-- But her hopes were dashed with her sister's departure, so here she was, walking alone in town with only a red umbrella to keep her company on what should have been a day off.
+Mas suas esperanças foram frustradas com a partida de sua irmã, então aqui estava ela, caminhando sozinha na cidade com apenas um guarda-chuva vermelho para lhe fazer companhia em um dia que deveria ser de folga.
+}
+[sha:201ba5974e3e5af5fdf0cabc48abc91feb819473]{
+-- Page 13, Offset 743. Mods: @n.
+-- "...Looking back on it now...
+"...Olhando pra trás agora...
+}
+[sha:d688c95990a55da5575c47267f16c7b16e85cf8f]{
+-- Page 13, Offset 744. Glued.
+-- It's like my whole life has been one disaster after another."
+É como se toda a minha vida tivesse sido um desastre atrás do outro".
+}
+[sha:7cc66e802c9460f8d010856cc17b5d6caa0c0980]{
+-- Page 13, Offset 745.
+-- Her frustration evaporated into the cold December air.
+Sua frustração evaporou em meio ao gélido ar de dezembro.
+}
+[sha:bd786246aaaf740b5b8bc9502c630e4815b531fb]{
+-- Page 14, Offset 746.
+-- "Oh well. At least it's not boring."
+"Ah, bem, pelo menos não é entediante."
+}
+[sha:7eb5eb07916fd88b95f7a07188f38780497ee0fe]{
+-- Page 14, Offset 747.
+-- With those words, her mood brightened a bit as she left the school in her wake.
+Com essas palavras, seu humor melhorou um pouco enquanto ela deixava a escola para trás.
+}
+[sha:df680fb5e30310ec13831e52de093cc81ba30868]{
+-- Page 14, Offset 748.
+-- The busier part of town met her at the bottom of the gently sloping road.
+A parte mais movimentada da cidade a encontrou no fim da estrada levemente inclinada.
+}
+[sha:12ee37b60184bc85ff16f11b51916cd608f3e7c6]{
+-- Page 15, Offset 749.
+-- Misaki's train station was brand new.
+A estação de trem de Misaki era nova em folha.
+}
+[sha:b2b9c7f27598d639d911bbec5edae3e92f69e015]{
+-- Page 15, Offset 750.
+-- Once looking no prettier than an abandoned factory, it had been renovated into a multi-purpose structure with huge department stores on its east and west sides.
+Já que antes não era mais bonita que uma fábrica abandonada, ela foi renovada em uma estrutura multifuncional com enormes lojas de departamentos em seus lados leste e oeste.
+}
+[sha:5d9fd2d8089ab5f8f9091badbf65d4250cde1096]{
+-- Page 16, Offset 751.
+-- When the department stores first opened, Aoko and her friends had been impressed with their modern feel, but in time, the stores, too, became dated.
+Quando as lojas de departamento se abriram pela primeira vez, Aoko e seus amigos ficaram impressionados com sua aparência moderna, mas com o tempo, as lojas também ficaram ultrapassadas.
+}
+[sha:cbf1c3086aa2e6ca7f195f87ed59ab497c7a4d7f]{
+-- Page 17, Offset 752.
+-- She had no shopping to do today, so she passed them by.
+Ela não tinha compras para fazer hoje, então ela as ignorou.
+}
+[sha:36c8f758368292b925ba63f2ef57754415e82387]{
+-- Page 17, Offset 753.
+-- What she really wanted to do was rest at a café, but she fought the urge, knowing her roommate would never let her hear the end of it if she frittered away her money―
+O que ela realmente queria era descansar em um café, mas ela resistiu ao impulso, sabendo que sua colega de quarto nunca a deixaria em paz se ela desperdiçasse seu dinheiro-
+}
+[sha:cc8c8ea3b152673fe2dffad8f713542bbeeae86b]{
+-- Page 18, Offset 754.
+-- "..."
+"..."
+}
+[sha:a417099189000521f82b7f240d45ec587d9438fe]{
+-- Page 18, Offset 755.
+-- She looked back and blinked.
+Ela olhou para trás e piscou.
+}
+[sha:e5fbe9f85f4b58c554849ca36d708193233a230d]{
+-- Page 18, Offset 756.
+-- For just a moment, she could have sworn she had seen someone suspicious in a red dress out of the corner of her eye.
+Por um breve momento, ela poderia jurar que tinha visto alguém suspeito em um vestido vermelho pelo canto do olho.
+}
+[sha:0fa94f6783fd1e1ccb7c0cd48596127b69d42d30]{
+-- Page 19, Offset 757. Mods: @n.
+-- "...
+"...
+}
+[sha:20ba55bf227d402e5194e980da341b565de45146]{
+-- Page 19, Offset 758. Glued.
+-- Heh."
+Heh."
+}
+[sha:71948ac4aa7520e98393f9854e47078f37448181]{
+-- Page 19, Offset 759.
+-- It must have been her imagination.
+Deve ter sido sua imaginação.
+}
+[sha:803a8e51fab29a6ab3d4b7f8653d7466901830c2]{
+-- Page 19, Offset 760.
+-- The sixth-sense chill she was experiencing down her spine was a familiar one at this point.
+O calafrio do sexto sentido que ela estava sentindo na espinha era familiar a esse ponto.
+}
+[sha:e8a83665660e75109183a3f184a110e16b34cfde]{
+-- Page 19, Offset 761.
+-- She continued her walk home, brushing off the event as if it had never happened.
+Ela continuou seu caminhada para casa, fingindo que aquilo nunca havia acontecido.
+}
+[sha:c35defd345906259881f8d32320e3f4fcf8830b2]{
+-- Page 19, Offset 762.
+-- In time, the chill faded and all that was left was the sounds of the town.
+Com o tempo, o calafrio desapareceu e restaram apenas os sons da cidade.
+}
+[sha:2d621337743a1c70a00ef64ba9047bb71354c24b]{
+-- Page 20, Offset 763.
+-- "...Ugh..."
+"...Ugh..."
+}
+[sha:0e881c7a3f2bcd780b6d31375b8b012eca1346e0]{
+-- Page 20, Offset 764.
+-- She sighed heavily.
+Ela suspirou profundamente.
+}
+[sha:48c7e8adeb3336523a43c451b4b4483dbef12bf6]{
+-- Page 20, Offset 765.
+-- Had she imagined it?
+Será que ela tinha imaginado aquilo?
+}
+[sha:9d1c5229fe26c7cb6196c6fcdf59ecdce97ee142]{
+-- Page 20, Offset 766.
+-- Even if it had all been in her head, she was far from comfortable with the feeling that still lingered.
+Mesmo que tudo tivesse sido apenas coisa de sua cabeça, ela estava longe de se sentir confortável com a sensação que ainda persistia.
+}
+[sha:b6de55ba4aaaf12dcb650026f0df48939fd7843a]{
+-- Page 21, Offset 767.
+-- "...Even mosquitoes have the grace to buzz off eventually."
+"...Até mesmo os mosquitos têm a graça de acabar desaparecendo."
+}
+[sha:db0b8148cc10236c4fabd794076f2926cb6052b2]{
+-- Page 21, Offset 768.
+-- She grumbled under her breath.
+Ela resmungou baixinho.
+}
+[sha:35b48fed9f7446e72f51e3c6612db8fcfcc130c3]{
+-- Page 22, Offset 769.
+-- "...Whether good or bad, this too shall pass, so the saying goes.
+"...Como diz o ditado, seja bom ou mal, isso também irá passar.
+}
+[sha:b0929e8cac7b3b889ca0049773cd203140cfdfbe]{
+-- Page 22, Offset 770.
+-- Yeah. I've got enough on my plate as it is."
+É, Já tenho problemas o suficiente pra lidar."
+}
+[sha:1c5084cb1e004445f3e21575decbbbeabcf87cff]{
+-- Page 22, Offset 771.
+-- Unfortunately, summer and bugs go hand-in-hand.
+Infelizmente, verão e insetos andam de mãos dadas.
+}
+[sha:2562c9dfd8b847e146dce7bbbc23f4fa727e1c1b]{
+-- Page 22, Offset 772.
+-- She could see how bugs could be drawn to all the sweet fruit.
+Ela conseguia entender que insetos podiam ser atraídos por todas as frutas doces.
+}
+[sha:cd2e54ec6c0b00989457117196650c1b906ba62d]{
+-- Page 23, Offset 773.
+-- Rank with grease and heat, the kitchen was closed for the time being.
+Cheia de gordura e calor, a cozinha estava fechada por enquanto.
+}
+[sha:601b20f9c6c71de49a59db89c5ac6a4b7a9eadda]{
+-- Page 23, Offset 774.
+-- The lunch rush had come and gone.
+A correria do almoço havia passado.
+}
+[sha:ecb229214a8d44aea1c0a3d290651a453c864813]{
+-- Page 23, Offset 775.
+-- But one last battle remained: dinner time. Only after the evening chaos could the kitchen crew remove their white armor and call it a day.
+Mas uma última batalha restava: a hora do jantar. Somente após o caos da noite a equipe da cozinha podia remover sua armadura branca e encerrar o dia.
+}
+[sha:23f3eee8417649bdda12df79d49afbfe701911cd]{
+-- Page 23, Offset 776.
+-- In the midst of the warzone was a lone newcomer.
+Em meio a zona de guerra estava um solitário recém-chegado.
+}
+[sha:15e5b5eb9f681fe8a109995212be4097b5166d56]{
+-- Page 24, Offset 777.
+-- "Umm, do I have to wear this?"
+"Hmm, eu tenho que vestir isso?"
+}
+[sha:5306ba7178b9cf775e1ef9b20291bbd2fd3de9fb]{
+-- Page 24, Offset 778.
+-- His voice was uneasy, betraying how new he was.
+Sua voz soava insegura, mostrando o quão novato era.
+}
+[sha:372d106579954714eb8068e50f594413c322a70d]{
+-- Page 25, Offset 779.
+-- "I know how you feel, man. I feel the same. Unfortunately, it's the boss's orders, so you'll have to suck it up, okay? 'The future of this shopping arcade is at stake'... apparently. I really hate to ask, but the rain has stopped, so would you mind going out for me? Get back in one piece, and I'll buy you dinner."
+"Cara, eu sei como se sente. Me sinto da mesma forma. Infelizmente, são ordens do chefe, então você cai ter que aguentar, beleza? '"O futuro desta galeria comercial está em jogo'... aparentemente. Eu odeio perguntar, mas a chuva parou, então, você se importaria de dar uma saída pra mim? Volte inteiro e te pago uma janta."
+}
+[sha:3a764c5e89849efd9e1894f6abe5527d9df1d719]{
+-- Page 25, Offset 780.
+-- His bright orange co-worker clasped his hands together as if to beg for forgiveness as he saddled him with this unreasonable task.
+Seu colega de trabalho vestindo um brilhante uniforme laranja, juntou as mãos como se tivesse pedindo perdão enquanto o confiava essa tarefa irracional.
+}
+[sha:f5b0aeea918bf6daa2425075895bc7c448c03c92]{
+-- Page 26, Offset 781.
+-- Ten years ago, Misaki City was a town of farm and woodland.
+Dez anos atrás a cidade de Misaki era uma cidade de fazendas e florestas.
+}
+[sha:0278f0f4b9682794c1c83e219e3d6425aaf8774d]{
+-- Page 26, Offset 782.
+-- But everything had changed. The front of the station was now lined with tall multi-story buildings, and the residential areas were similarly full of apartment complexes. The once rustic scenery around the station had long become a thing of the past.
+Mas tudo havia mudado. A frente da estação agora estava alinhada com prédios altos de vários andares, e as áreas residenciais estavam igualmente cheias de complexos de apartamentos. A paisagem antes rústica ao redor da estação já era coisa do passado.
+}
+[sha:efdeaa24314c194c29e97dff025e0670dfef58c8]{
+-- Page 26, Offset 783.
+-- Shiroinuzuka was the only place in the city that still contained vestiges of the old town. A pocket of the past inside an urban jungle.
+Shiroinuzuka era o único lugar na cidade que ainda continha vestígios da antiga cidade. Um pedaço do passado dentro de uma selva urbana.
+}
+[sha:7cc6173c81f84c0304d4f9e1af79cc83271228d6]{
+-- Page 27, Offset 784.
+-- The road extended up a conspicuously high hill,
+A estrada se estendia subindo uma colina notavelmente alta,
+}
+[sha:561d255090634948d9b72e5a910c8f211e232160]{
+-- Page 27, Offset 785.
+-- to an old residential district far from the hustle and bustle of the train station.
+em um antigo distrito residencial, longe da agitação da estação de trem.
+}
+[sha:14e8855520f384b580139010c6dc20840b387250]{
+-- Page 27, Offset 786.
+-- Long ago, it had been considered unwise to build on high ground, so nobody lived above a certain elevation.
+Há muito tempo, era considerado imprudente construir em terrenos elevados, então ninguém vivia acima de uma certa altitude.
+}
+[sha:da7936845834a0d20d6fb9b23c63fb208262d9a8]{
+-- Page 27, Offset 787.
+-- Shiroinuzuka, sitting as it did atop a hill in the middle of town, was no exception to that convention and had no residences to speak of.
+Shiroinuzuka, estando do jeito que estava no topo de uma colina no meio da cidade, não era exceção a essa convenção e não possuía residências.
+}
+[sha:b2e9a7aa0cbf76482d1a02563d7449699b0af419]{
+-- Page 28, Offset 788.
+-- The asphalt continued for some time, eventually giving way to a mountain road that was swallowed into the cover of trees.
+O asfalto continuou por um tempo, eventualmente dando lugar a uma estrada de montanha que foi engolida pelas sombra das árvores.
+}
+[sha:f6ab154c46d088617819ffacb3b2b86f18da3fde]{
+-- Page 28, Offset 789.
+-- A lone vending machine stood to mark the boundary between town and beyond.
+Uma única máquina de venda automática estava lá para marcar a fronteira entre a cidade e o além.
+}
+[sha:308671747846c86cbe0861fd626b767f7b46aff4]{
+-- Page 28, Offset 790.
+-- Even the children knew that there was nothing beyond the new playground in development that so enthralled them.
+Até mesmo as crianças sabiam que não havia nada além do novo parque em desenvolvimento que tanto as entusiasmava.
+}
+[sha:35c98a377faa72ccc317836898a150d6294685f7]{
+-- Page 28, Offset 791.
+-- Well, that was not entirely true.
+Bom, isso não era completamente verdade.
+}
+[sha:260d588c6f2b5120b0ce8b05e3ea9fbca517e5de]{
+-- Page 28, Offset 792.
+-- There was nothing... besides the haunted house.
+Não havia nada... além da casa mal-assombrada.
+}
+[sha:5adbe35ae3929132c5303647ec04e2d848a42f3c]{
+-- Page 29, Offset 793.
+-- Aoko Aozaki traversed the long slope.
+Aoko Aozaki percorreu a longa encosta.
+}
+[sha:146a0b38c18cbbe794b740e6172021799ddec195]{
+-- Page 29, Offset 794.
+-- Below her, she could see the whole of Misaki.
+Abaixo, ela podia ver toda Misaki.
+}
+[sha:3c1110a884bb3028cf0b86099e5b2eb0f08b45cf]{
+-- Page 29, Offset 795.
+-- The symmetrical town looked like a miniature set from this height.
+A simétrica cidade se parecia com um set em miniatura daquela altura.
+}
+[sha:2e4815a3442b697d4c2752729b666c58d31fcd21]{
+-- Page 29, Offset 796.
+-- It would look like a painting if there had been a sea next to it, but unfortunately, Misaki City was very much landlocked.
+Pareceria uma pintura se houvesse um mar próximo dela, mas infelizmente, a cidade de Misaki estava completamente distante do mar.
+}
+[sha:f6bbc244423194825098499daf2917d4af594373]{
+-- Page 30, Offset 797.
+-- While it was overcast at the moment, the scene was quite breathtaking on clear evenings.
+Embora estivesse nublado no momento, a cena era bastante deslumbrante em noites claras.
+}
+[sha:bda934ff1736f3137a0b5ff285c01a2544af39ae]{
+-- Page 30, Offset 798.
+-- The view was the one thing that made the arduous climb worthwhile, and today, she had been denied even that.
+A vista era a única coisa que tornava a árdua subida válida, e hoje, ela tinha sido privada até mesmo disso.
+}
+[sha:55e92e9f12d820e9187abecac5c6765210ffdb30]{
+-- Page 31, Offset 799.
+-- "...Ugh. I'd cycle home if it wasn't for this rain. Even a bus route would be a fine thing."
+"..Ugh. Eu iria de bicicleta pra casa se não fosse essa chuva, até um ônibus seria uma boa."
+}
+[sha:1bca041caa46fcfd56b328f887fdf2632b0846e1]{
+-- Page 31, Offset 800.
+-- Aoko had been using this road to get to school for almost two years now, but the journey had never gotten easier.
+Aoko esteve usando essa estrada para ir à escola há quase dois anos, mas a jornada nunca era fácil.
+}
+[sha:8da4929cb976970bca12ee7037d2f93e6b854e24]{
+-- Page 32, Offset 801.
+-- "Oh, it's locked?
+"Oh, está trancada?
+}
+[sha:693d5c1eb2fcc4d88f8d45753289526a5ff6a0dd]{
+-- Page 32, Offset 802.
+-- I guess Alice isn't back yet."
+Eu acho que a Alice ainda não voltou."
+}
+[sha:f798f3932d874763433438eb82f3044a022dfacf]{
+-- Page 32, Offset 803.
+-- With a weary shrug, she put her hand on the rusty iron fence.
+Com um encolher de ombros cansados, ela colocou a mão na cerca de ferro enferrujada.
+}
+[sha:958b6e335de4d895b78f73dcb620e9f6f4b15bdc]{
+-- Page 32, Offset 804.
+-- Quietly, the heavy gate swung open as if to welcome her home.
+Silenciosamente, o pesado portão se abriu como se fosse recebê-la em casa.
+}
+[sha:7f5844e42c8b69ce16c04391da6385ae2aa9b50a]{
+-- Page 33, Offset 805.
+-- "...There sits atop that hill a haunted house."
+"...No topo daquela colina fica uma casa mal-assombrada."
+}
+[sha:b9caa2e840d3fd995998d8131e152d741bbfc34e]{
+-- Page 33, Offset 806.
+-- That is how the story much shared around town used to begin.
+Era assim que a história muito compartilhada pela cidade costumava começar.
+}
+[sha:26ea551efd5134d21dd5afeb5db8af6b47359637]{
+-- Page 33, Offset 807.
+-- But fresh rumors about the house had sprung to life almost as fast as the town's modernization:
+Mas novos rumores sobre a casa haviam surgido quase tão rápido quanto a modernização da cidade:
+}
+[sha:14066ebb492c1512dbd209d7e0b6d30737d44f93]{
+-- Page 34, Offset 808.
+-- Despite being dilapidated and abandoned for many years, lights can be seen inside the house at night...
+Apesar de estar em um estado deplorável e abandonada por muitos anos, luzes podem ser vistas dentro da casa à noite...
+}
+[sha:6227ae51ef93b55899ae1aff4269a159aa63998e]{
+-- Page 34, Offset 809.
+-- An angry murder of crows often gathers atop the hill before mysteriously vanishing...
+Um grupo furioso de corvos frequentemente se reúne no topo da colina antes de misteriosamente desaparecer...
+}
+[sha:8668e69d4fb416dc1e2ec4e06bd19e7946c2b201]{
+-- Page 34, Offset 810.
+-- Children get lost in the fog, never to be seen again...
+Crianças se perdem na névoa, nunca mais sendo vistas...
+}
+[sha:330065226ba4cca736c97520e862aaccd59f72d3]{
+-- Page 35, Offset 811.
+-- Late at night, a shrieking sound can be heard all the way to town-this particular piece of slander was the one Aoko wished to discredit the most.
+Tarde da noite, um som estridente pode ser ouvido até na cidade-essa calúnia em particular era a que Aoko desejava mais desacreditar.
+}
+[sha:bcd5e320ab484d5e4b1195f0182d921225c6b1f0]{
+-- Page 35, Offset 812.
+-- The final rumor was of an eye-catching luxury car that sometimes made its way up and down the hill.
+O último rumor era sobre um carro de luxo chamativo que às vezes percorria a colina de cima a baixo.
+}
+[sha:3fb61cce8512727bf333e0ec99a2aa147fb0a0e4]{
+-- Page 36, Offset 813.
+-- The rumors spread and grew by the day.
+Os rumores se espalhavam e cresciam dia após dia.
+}
+[sha:0ae4a491068534499850e8a93163807506a26de4]{
+-- Page 36, Offset 814.
+-- And while they grew, the house that everyone thought had rotted away was restored over the recent years.
+E enquanto isso acontecia, a casa que todos pensavam ter se deteriorado estava sendo restaurada nos últimos anos.
+}
+[sha:8c70aa0925b5fdca08a0c6566221b96caa5fe0a8]{
+-- Page 36, Offset 815.
+-- Deep in a wood on top of a hill no one dared to approach,
+No fundo de um bosque, no topo de uma colina que ninguém ousava se aproximar,
+}
+[sha:d465356232ea1ac966240e22e3c365d3f9743244]{
+-- Page 36, Offset 816.
+-- like a ruin, shrouded from view even on the brightest of days,
+Como uma ruína, oculta da vista até mesmo nos dias mais claros,
+}
+[sha:d157a14b6bd76a42c072c3f186d53486d04a5465]{
+-- Page 36, Offset 817.
+-- stood a relic out of time, a building from a fairy tale.
+ficava alí uma relíquia de fora do tempo, um edifício de um conto de fadas.
+}
+[sha:8f1cdb7ff01cea61ca6d3df8262c8c2fd14a556e]{
+-- Page 36, Offset 818.
+-- The house...
+A casa...
+}
+[sha:97e9ced8589b6fba51aef326abe6e3577a784f3b]{
+-- Page 37, Offset 819.
+-- ...was the Kuonji Mansion.
+...era a Mansão Kuonji.
+}
+[sha:f2e2aa9193e62640dc04bb5a09a69ebc9e1c2155]{
+-- Page 37, Offset 820.
+-- Everyone in town knew about the witch's house on the hill.
+Todos na cidade sabiam da casa da bruxa na colina.
+}
+[sha:0197b41abcab246044cf607fb6499c40320d6693]{
+-- Page 37, Offset 821.
+-- The unabashedly haunted house where Aoko Aozaki resided for reasons unknown.
+A casa descaradamente assombrada onde Aoko Aozaki residia por razões desconhecidas.
+}
+[sha:c519d1bc37b9b83e7e367b3dc43956e293cd1883]{
+-- Page 38, Offset 822.
+-- Needless to say, it was not really haunted.
+É desnecessário dizer que não era realmente mal-assombrada.
+}
+[sha:6e1d11f9df642807f1344ecab4f54b5642decc16]{
+-- Page 38, Offset 823.
+-- The Kuonji family home was a grand Western-style mansion with a long and storied history, stretching all the way back to England.
+A casa da família Kuonji era uma mansão imponente de estilo ocidental com uma história longa e célebre, que remontava à Inglaterra.
+}
+[sha:a655b8c4fb5801a9f1e50ff38f7fb0a23b8563d8]{
+-- Page 39, Offset 824.
+-- It was too small to be a dormitory, yet too big to be called a house.
+Era pequeno demais para ser um dormitório, mas grande demais para ser chamado de casa.
+}
+[sha:c52480d50e8a242f627939a4e3c3511f32c3103a]{
+-- Page 39, Offset 825.
+-- The main building contained as many as three normal houses' worth of rooms and was surrounded by a large all-encompassing courtyard.
+O prédio principal continha o equivalente de quartos de três casas normais e estava cercado por um grande pátio ao redor. 
+}
+[sha:47abc626e85db675466fcf9f303b7e1541d1f4ba]{
+-- Page 39, Offset 826.
+-- The perimeter of the grounds was surrounded by a high, iron fence covered in thorny vines.
+O perímetro dos terrenos estava cercado por uma cerca alta de ferro coberta por videiras espinhosas.
+}
+[sha:ec47be7462312dba5e6c8f4f998d404638ff3e2e]{
+-- Page 39, Offset 827.
+-- There was also an annex to the main building.
+Havia também um anexo ao prédio principal.
+}
+[sha:19fef9c334d8c405046c331e8a80146ec6914a74]{
+-- Page 40, Offset 828.
+-- Given such extravagance, it was no wonder that it inspired rumors.
+Dada tamanha extravagância, não é de se admirar que tenha inspirado rumores.
+}
+[sha:b3a9d498904fb3b53232b9e8182b6a673133eab3]{
+-- Page 40, Offset 829.
+-- To the town residents, the mere existence of such a lavish and out-of-place mansion on top of the hill was a cause for suspicion.
+Para os moradores da cidade, a mera existência de uma mansão tão luxuosa e fora de lugar no topo da colina era motivo de suspeita.
+}
+[sha:47d0d2b8c0ac76cb28f2c19032cf75df2d1c7018]{
+-- Page 40, Offset 830.
+-- Rumors, lies, and slander were the prices to be paid for fame.
+Rumores, mentiras e difamação eram os preços a serem pagos pela fama.
+}
+[sha:bf6a5708c5f4904f93cd39d4647d0e59be5afa7a]{
+-- Page 40, Offset 831.
+-- With only two lodgers, it was hard to disagree with the perception that vampires must be living here.
+Com apenas dois moradores, era difícil discordar da percepção de que vampiros deviam estar morando aqui.
+}
+[sha:a6a97a0fd059e3fe2a816eddc72d0299258e5296]{
+-- Page 41, Offset 832.
+-- "...Well, I know I'm not one, but Alice..."
+"...Bom, Eu sei que não sou uma, mas a Alice..."
+}
+[sha:1c3752738f9e45b1980e3f48ad6d7b0e735173d1]{
+-- Page 41, Offset 833.
+-- She put her hand on the front door.
+Ela colocou sua mão na porta da frente.
+}
+[sha:0db04ead12dcc820cd73c6709aea4b62b9914dc7]{
+-- Page 41, Offset 834.
+-- It was a grand double door that would have paired well with a brass lock, and yet, it was secured with little more than a simple keyhole.
+Era uma grande porta dupla que combinaria bem com uma fechadura de latão e, no entanto, estava protegida com pouco mais do que um simples buraco de fechadura.
+}
+[sha:5c5b4e30177fb7d34ce766096ecf9c23e225d5a3]{
+-- Page 41, Offset 835.
+-- Pushing it open with one hand, she entered the supposedly haunted house.
+Empurrando-a com uma mão, ela adentrou a suposta casa mal-assombrada.
+}
+[sha:ad083b766f3f8399511367a41eed5ec292e2684f]{
+-- Page 42, Offset 836.
+-- ...And by the way...
+...E a propósito...
+}
+[sha:99c6999a9c584f5d2f70e0a498d175b443917c2b]{
+-- Page 42, Offset 837.
+-- If vampires were not enough to scare you, ghosts were known to appear on certain nights.
+Se vampiros não fossem suficientes para te assustar, fantasmas eram conhecidos por aparecer em certas noites.
+}

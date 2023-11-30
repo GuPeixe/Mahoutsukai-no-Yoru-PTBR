@@ -1,0 +1,745 @@
+[sha:90c173c10121469053e7741b3d2fcaa4d7f47d76]{
+-- Page 1, Offset 23471.
+-- Noon. Central Park.
+Meio dia. Parque Central.
+}
+[sha:c114e8398871b502ea12881108f03a5810f0e549]{
+-- Page 1, Offset 23472.
+-- I finished making extra prints at the store, and threw away the disposable camera, so I didn't have to carry it around.
+Eu havia acabado de fazer impressões extras na loja, e joguei fora a câmera descartável, para não precisar carregá-la.
+}
+[sha:66b25608898fe0f61cc9dae4b2c7fc4de0429ea8]{
+-- Page 2, Offset 23473.
+-- It was a beautiful day out; the sky was clear, and the autumn air was crisp.
+O dia estava lindo; o céu estava claro e o ar do outono estava fresco.
+}
+[sha:603bd0b88d10d2fbd880ff0f1ab621267da138ab]{
+-- Page 2, Offset 23474.
+-- The troubles of the summer were gone, and it was a brand new day.
+Os problemas do verão haviam desaparecido, e era um novo dia.
+}
+[sha:e4a0dc8cf8ff725883984429894212506ad61d2c]{
+-- Page 2, Offset 23475.
+-- I, Kojika Kumari, was about to spend my long weekend at the strangest of events.
+Eu, Kojika Kumari, estava prestes a passar meu fim de semana prolongado no evento mais estranho possível.
+}
+[sha:7cdc33b8d05b3f6d9412355289da51e9ebc234d7]{
+-- Page 3, Offset 23476.
+-- "Thanks for waiting!
+"Obrigada por esperar!
+}
+[sha:8c9a1709b62abce1b64519f0e725342374ab7eb2]{
+-- Page 3, Offset 23477.
+-- Whoa, what's with all the stuff? Damn, that's a huge overnight bag."
+Uau, pra que todas essas coisas? Caramba, essa é uma bagagem bem grande pra só um noite."
+}
+[sha:b6d83c6604f249cf1c6dcbd5a0bbbbda6a5b1d1a]{
+-- Page 4, Offset 23478.
+-- An hour had passed already, and it was 1:00 PM.
+Já havia se passado uma hora, e era 1:00 da tarde.
+}
+[sha:1547f2afca901fe9d11f60bab4a6b609be0b10d2]{
+-- Page 4, Offset 23479.
+-- Aoko Aozaki arrived at our meeting place.
+Aoko Aozaki chegou ao nosso ponto de encontro.
+}
+[sha:c3aaf0c62e3572536b62e1d3b4eb37137100ffc4]{
+-- Page 4, Offset 23480.
+-- Aozaki was my classmate, friend, and comrade on the student council.
+Aozaki era minha colega, amiga e camarada no conselho estudantil.
+}
+[sha:288ac8e8d58301a45e3e621d9eb85f9e1a4f2aff]{
+-- Page 5, Offset 23481.
+-- We'd only been friends since high school, but it oddly felt longer, like we'd always known each other.
+Nós só éramos amigas desde o ensino médio, mas estranhamente, parecia que fazia mais tempo, como se sempre nos conhecêssemos.
+}
+[sha:d05adf50f3f3c84378dcb1563da52d166844f3a3]{
+-- Page 5, Offset 23482.
+-- As you can see, she was as bright and lively as ever.
+Como pode ver, ela estava tão brilhante e animada como sempre.
+}
+[sha:2bdaa1c7dd20d2c2a5ac7327b479667039672bc6]{
+-- Page 5, Offset 23483.
+-- If she was a drink, she'd be a soft drink, a carbonated soda. She was the kind of person who solved a tough problem by hitting it until it surrendered.
+Se ela fosse um drink, seria um drink suave, uma soda gaseificada. Ela era o tipo de pessoa que resolvia um problema difícil batendo nele até que ele se rendesse.
+}
+[sha:d0989a2ba61530687c538ffe8b7120de295936da]{
+-- Page 6, Offset 23484.
+-- "Didn't I write on the invitation that I'd have everything for the party at the Kuonji house, so don't bring anything?"
+"Eu não escrevi no convite que eu teria tudo pra festa na casa Kuonji, então não traga nada?"
+}
+[sha:067dc09ae8b608e2a601cb723adc4ae1998d563d]{
+-- Page 6, Offset 23485.
+-- "I don't know what you're talking about.
+"Eu não sei do que você tá falando.
+}
+[sha:417d1b7a67068c0588f919d652059972d95a4be1]{
+-- Page 6, Offset 23486.
+-- The invitation just said there's a birthday party, so come at the start of the long weekend, and bring your own food."
+O convite só dizia que teria uma festa de aniversário, então venha no começo do fim de semana prolongado, e traga sua própria comida."
+}
+[sha:62da2d4d7d1178c7ef2e323094a4ca6985055c26]{
+-- Page 7, Offset 23487.
+-- "Seriously? Sorry. Alice is new to this kind of thing. That's probably why you called this morning and wanted me to come meet you.
+"Sério? Me desculpe. Alice é nova nesse tipo de coisa. Provavelmente é por isso que você ligou esta manhã e queria que eu viesse te encontrar.
+}
+[sha:047aaaa92d57c8c0aa9c2cdc605df43cecd84e99]{
+-- Page 7, Offset 23488. Mods: @k, @e.
+-- Anyway, moving on...
+Enfim, seguindo em frente...
+}
+[sha:3d778e82e2abcd94ca8496ef7a61ccf8e09eb4a5]{
+-- Page 7, Offset 23489. Glued. Mods: @x.
+-- Is that dull guy behind you with you? He looks kinda out of place."
+Aquele cara chato atrás de você tá com você? Ele parece meio fora do lugar."
+}
+[sha:24825102394b99a5d194ad97ccded4e0340994c5]{
+-- Page 8, Offset 23490.
+-- "Oh, come on! I just got this suit yesterday. Don't I clean up pretty well?"
+"Oh, qual é! Eu acabei de comprar este terno ontem. Eu não limpo muito bem?"
+}
+[sha:bbe52744e219e3d3119f5f10643a50c9748d4d8f]{
+-- Page 8, Offset 23491.
+-- "As always, you look about as plain as copy paper, Mr. Yamasiro.
+"Como sempre, você está tão monótono quanto papel, Sr. Yamasiro.
+}
+[sha:e13963a17f652fc98977dd8daf2a7e81e6e3582b]{
+-- Page 8, Offset 23492.
+-- So what're you doing here today?
+Então, o que você está faz aqui hoje?
+}
+[sha:1dcb8fcd7999a4524f881cea530fefe28507d17c]{
+-- Page 8, Offset 23493.
+-- Following your students around? You know that'll be illegal one day, so I wouldn't get into a habit of doing it."
+Seguindo seus alunos por aí? Você sabe que um dia isso será ilegal, então eu não entraria no hábito de fazer isso."
+}
+[sha:9826740fda7b26099fd0cbcf42a961b1d4c05e0b]{
+-- Page 9, Offset 23494.
+-- Aozaki never pulled her punches, inside or outside of school.
+Aoko nunca pegava leve, dentro ou fora da escola.
+}
+[sha:980a80cc39126357eb04cff0abaf49a6cd4df497]{
+-- Page 9, Offset 23495.
+-- She was particularly harsh to Mr. Yamasiro; almost like they were related.
+Ela era particularmente dura com Sr. Yamasiro; quase como se eles fossem parentes.
+}
+[sha:66933e11e7ea0ac5f50088bef947423f9f4e3364]{
+-- Page 10, Offset 23496. Mods: @k, @e.
+-- "Oh, you mean stalking?
+"Oh, você quer dizer stalkear?
+}
+[sha:aea905e09e23fb0e98d6ec406bbef0d282a2e0e0]{
+-- Page 10, Offset 23497. Glued. Mods: @x.
+-- I think you're probably the expert on that, Aozaki. That's just my personal impression of you, though.
+Eu acho que você provavelmente seria a expert nisso, Aozaki. mas essa é só a minha impressão pessoal.
+}
+[sha:33c636762481e3c36995f5c2e98a3531eec9780b]{
+-- Page 10, Offset 23498.
+-- Don't look at me like that. Anyway, here...
+Não olhe pra mim assim. De qualquer forma, aqui...
+}
+[sha:c3aa268e287a0d71641ed85d0dd9356b24402305]{
+-- Page 10, Offset 23499.
+-- I received an invitation this morning, so I'm participating as an advisor to the student council. I have a responsibility to chaperone you, don't I?"
+Eu recebi um convite essa manhã, então estou participando como um conselheiro do conselho estudantil. Eu tenho a responsibilidade de te supervisar, não?"
+}
+[sha:cc8c8ea3b152673fe2dffad8f713542bbeeae86b]{
+-- Page 11, Offset 23500.
+-- "..."
+"..."
+}
+[sha:10823b42ec9e378f97a8552fa9c9b5eaf53a080a]{
+-- Page 11, Offset 23501.
+-- The invitation Mr. Yamasiro pulled out was the same as the one I got.
+O convite que Sr. Yamasiro mostrou era o mesmo que eu recebi.
+}
+[sha:adba4555d2b19135ca4222a5cb1f2110095f009f]{
+-- Page 11, Offset 23502.
+-- Aozaki looked surprised, to say the least.
+Aozaki parecia surpresa, para dizer o mínimo.
+}
+[sha:e6105ae613bef8b3863d24cb014c1bca3a1d5827]{
+-- Page 11, Offset 23503.
+-- That was no act.
+Não era uma encenação.
+}
+[sha:8f7a8133e42efd83fda0d3db5df8d4575bc05755]{
+-- Page 12, Offset 23504.
+-- "Ugh. That's Soujyuro's handwriting... I should've known better than to ask him for help..."
+"Ugh. Essa é a letra do Soujyuro... Deveria ter pensado melhor antes de pedir ajuda a ele..."
+}
+[sha:34da2a1384b098bafdaa8de1b284fbc952d39ab7]{
+-- Page 13, Offset 23505.
+-- "Hahaha! I thought it very considerate of him!
+"Hahaha! Eu achei muito atencioso da parte dele!
+}
+[sha:e39640239cf4a884ca8b02f3985618d437f044f1]{
+-- Page 13, Offset 23506.
+-- Why, Aozaki, I imagine Sizuki could really go places, given the right opportunities.
+Ora, Aozaki, imagino que Sizuki realmente poderia ir longe, com as oportunidades certas.
+}
+[sha:63263866b914b0b83092edaf60fbbcca3f0f67bd]{
+-- Page 13, Offset 23507.
+-- And look at what else he wrote.
+E olhe o que mais ele escreveu.
+}
+[sha:325928298eb797a8e5f38cff24911e72ce90eefe]{
+-- Page 13, Offset 23508.
+-- Please watch over the party, because who knows what Aozaki might do.'
+Por favor, cuide da festa, porque quem sabe o que Aozaki pode fazer.'
+}
+[sha:323b061fab1cc976997f8a32b536688c31dc8bcb]{
+-- Page 13, Offset 23509.
+-- He's even preparing for emergencies! Fine management skills, if you ask me."
+Ele está até preparando para emergências! Ótimas habilidades de gerenciamento, em minha opinião."
+}
+[sha:2de1c3645120a651582d96e2f45c6901e1f2eaa5]{
+-- Page 14, Offset 23510.
+-- Aozaki let out a defeated sigh.
+Aozaki deu um suspiro de derrota.
+}
+[sha:f609b40fd2a78a2fc615ed520e03bab48c315f2a]{
+-- Page 14, Offset 23511.
+-- She couldn't turn away Mr. Yamasiro, since he'd been formally invited.
+Ela não podia recusar o Sr. Yamasiro, já que ele havia sido formalmente convidado.
+}
+[sha:fb9e18fcb8d94ecec3b89c22e08c38a8ff9eee6b]{
+-- Page 14, Offset 23512.
+-- However cold-hearted she may appear, she did have a sense of etiquette.
+Por mais fria que ela pudesse parecer, ela tinha um senso de etiqueta.
+}
+[sha:534434bb9a3fa27a8962df6dcc378bb5ad7cc245]{
+-- Page 15, Offset 23513.
+-- "Okay, okay. Follow me, I guess.
+"Ok, ok. Me segue, eu acho.
+}
+[sha:5ac3da4d55016b6fb04119f35a8f21b769871818]{
+-- Page 15, Offset 23514.
+-- Is this the first time you've both visited the Kuonji Estate?"
+Essa é a primeira vez que vocês visitam a propriedade Kuonji?"
+}
+[sha:9a93d27e90fbd231a38948802b82702e9e9d90b8]{
+-- Page 15, Offset 23515.
+-- "It is. People around here don't usually go near Shiroinuzuka. Take what happened this past summer, for instance."
+"É sim. As pessoas por aqui não costumam chegar perto de Shiroinuzuka. Veja o que aconteceu verão passado, por exemplo."
+}
+[sha:90e9e7d5536b6b71c56026c0a8e91f4dd66d9680]{
+-- Page 15, Offset 23516.
+-- "I've been this way a few times.
+"Eu passei por aqui algumas vezes.
+}
+[sha:3d716756e36f42444c351ce35be8ea14d390df5f]{
+-- Page 15, Offset 23517.
+-- This mountain's like sacred ground for all the kids around here."
+Essa montanha é tipo solo sagrado pra todas as crianças por aqui."
+}
+[sha:40abec53732db8822e7304f79faafafd1b01618c]{
+-- Page 16, Offset 23518.
+-- Maybe "sacred ground" was an exaggeration, but I couldn't think of a better way to describe it.
+Talvez "solo sagrado" fosse um exagero, mas eu não consegui pensar em uma maneira melhor de descrever.
+}
+[sha:664e4683035097400b012cfe0461ef98d4d9afad]{
+-- Page 16, Offset 23519.
+-- For years, there had been urban legends circulating about the hills there.
+Durante anos, havia lendas urbanas circulando sobre as colinas de lá.
+}
+[sha:61dd2772d40b9c913a093bf11afff4859f1d5fee]{
+-- Page 16, Offset 23520.
+-- Like "The Demon Dog of the Slope."
+Tipo "O Cachorro Demônio da Ladeira."
+}
+[sha:f6d33c4ccde048d71196a4a89272d8132a992d29]{
+-- Page 16, Offset 23521.
+-- Or the one where, if you went into the woods on a foggy day, you'd come out either as someone different or with strange powers.
+Ou aquela em que, se você for para o bosque em um dia nublado, você sairia como alguém diferente ou alguém com poderes estranhos.
+}
+[sha:79b0b9b6b7ef2419e5afbcbee044ed0f00627932]{
+-- Page 17, Offset 23522.
+-- Those stories were probably the reason kids came here: to test their courage.
+Essas histórias provavelmente eram a razão pela qual as crianças vinham aqui: para testar sua coragem.
+}
+[sha:1f32e2b23db7f195d52a6017f3ef183874663455]{
+-- Page 17, Offset 23523.
+-- In elementary school, if you went into the woods and touched the mailbox of the haunted house, you were officially awesome right up until graduation.
+No ensino fundamental, se você fosse no bosque e tocasse a caixa de correio da casa mau-assombrada, você era oficialmente incrível até a formatura.
+}
+[sha:5a28d5b3de3cab68887fdb1dbbbf5a1612298ed0]{
+-- Page 17, Offset 23524.
+-- I guess that's why sacred ground seemed to fit the area.
+Por isso eu acho que solo sagrado seja adequado para a área.
+}
+[sha:208621f569e8f27e550a07b4172b87e4216d6a6b]{
+-- Page 18, Offset 23525.
+-- "You walked all this way to and from school for over two years, Aozaki? You must be very athletic."
+"Você andou esse trajeto para a escola por mais de dois anos, Aozaki? Você deve ser bem atlética."
+}
+[sha:1b6d711974b5c7fadeb265ae4069207d4db2496b]{
+-- Page 18, Offset 23526.
+-- Mr. Yamasiro gazed down at the city excitedly; maybe it was the first time he'd seen it from this angle.
+Sr. Yamasiro contemplou a cidade abaixo com entusiasmo; talvez fosse a primeira vez que ele a via deste ângulo.
+}
+[sha:ad1d5be5c7dfb21eab852f60356d553aaa72dc43]{
+-- Page 18, Offset 23527.
+-- I'd like to feel that excited, too, but I couldn't relax, given the situation.
+Eu queria sentir entusiasmo também, mas eu não pude relaxar, dado a situação.
+}
+[sha:0ea4fbcb16c2b6de3dc86847d3a9ed9dc82d7897]{
+-- Page 18, Offset 23528.
+-- Because-
+Pois-
+}
+[sha:1efbd3c03c30b8446e07e704d6bbd66fc8d3b257]{
+-- Page 19, Offset 23529.
+-- "How's your exam studying going, Aozaki?
+"Como estão os seus estudos, Aozaki?
+}
+[sha:db68bab82abb061170a1753293a04fe0fd14ecdc]{
+-- Page 19, Offset 23530.
+-- I'm sure you've got it under control, so there's probably no need to worry about you."
+Tenho certeza de que você tem tudo sob controle, então provavelmente não devo me preocupar."
+}
+[sha:bf19418ca2b89b991ef93a490c2e88f1116d3606]{
+-- Page 19, Offset 23531.
+-- "Of course, I have it under control.
+"Claro, tá tudo sob controle.
+}
+[sha:6eacc0f74ab7c3bc0181ef4d4681eb35847eaa64]{
+-- Page 19, Offset 23532.
+-- I wouldn't dare cause any trouble for you, Mr. Yamasiro."
+Eu não ousaria causar problemas para você, Sr. Yamasiro."
+}
+[sha:45848f296bd8a0f21de460144de18d814a721a60]{
+-- Page 20, Offset 23533.
+-- "Glad to hear it. You always turn down my advice, after all. Are you really that against attending a local university?"
+"Fico feliz em ouvir isso. Afinal, você sempre rejeita meus conselhos. Você é realmente tão contra frequentar uma univerdade local?"
+}
+[sha:b42e4211cb6420a15415d7139cee01244e38abd4]{
+-- Page 20, Offset 23534.
+-- "Not particularly. I just want to keep my options open. If anyone needs advice, it's Kumari."
+"Não muito. Só quero manter minhas opções abertas. Se alguém precisa de conselho, é a Kumari."
+}
+[sha:20cab4b15d56cf46eaade00ef799d547692e6123]{
+-- Page 21, Offset 23535.
+-- "Not at all. She's doing just fine. She's taken my recommendation for Mizora. She and her parents have already decided she'll be attending there."
+"De modo nenhum. Ela está indo muito bem. Ela seguiu a minha recomendação para Mizora. Ela e seus pais já decidiram que ela frequentará lá."
+}
+[sha:23a37d7e5050c642d30b606b358fb7c0eaef1b2a]{
+-- Page 21, Offset 23536.
+-- "Ah."
+"Ah."
+}
+[sha:2bb29c54c9c3aac038b189145a269120580d0613]{
+-- Page 22, Offset 23537.
+-- I silently tried to tell Aozaki to ignore the topic.
+Eu silenciosamente tentei dizer a Aozaki para ignorar o assunto.
+}
+[sha:e1fb25b0a078deac29fc9f420b3ae9341ba9efb7]{
+-- Page 22, Offset 23538.
+-- Let me take a moment here to talk about my history and what was happening today.
+Deixe-me tirar um momento para falar sobre minha história e o que estava acontecendo hoje.
+}
+[sha:03277302ec0f02f72fa3ac8e018550ad5c583fca]{
+-- Page 23, Offset 23539.
+-- My name is Kojika Kumari; I'm a third-year senior in high school.
+Meu nome é Kojika Kumari; eu estou no terceiro ano do ensino médio.
+}
+[sha:42935b4795f071ee9b88b68365591ba92437c5d0]{
+-- Page 23, Offset 23540.
+-- You know what students are like, struggling through exams without any hopes or dreams...
+Você sabe como estudantes são, com dificuldades nos testes sem quaiquer sonhos ou esperanças...
+}
+[sha:5c9e64d7f1ab2b87e61e9eecc193da507f10c47d]{
+-- Page 23, Offset 23541.
+-- Well, I'm not a typical student. I want to attend a college in the city.
+Bem, eu não sou uma estudante típica. Eu quero ir à uma faculdade na cidade.
+}
+[sha:684dd5011634247cd682e448d66d8fc3f16df247]{
+-- Page 23, Offset 23542.
+-- I'm planning to attend a local university. Given my current academic performance, that should be a piece of cake.
+Eu estou planejando frequentar uma universidade local. Dada minha atual performance acadêmica, deve ser moleza.
+}
+[sha:e5a8b438facada86f6ada88b0b7b7b34e0e5e86d]{
+-- Page 24, Offset 23543.
+-- My parents insist I get a job; they don't want me attending college at all.
+Meus pais insistem que eu arrume um emprego; eles não querem que eu vá para a faculdade.
+}
+[sha:cae496999792ae843c1c250fd506bf12a007c4ed]{
+-- Page 24, Offset 23544.
+-- "You're going to help out with the family business. Why go to college?"
+"Você vai ajudar com os negócios da família. Pra quê ir pra faculdade?"
+}	
+[sha:c0e73d47ba941244bbde8b41d3997a229cf0987b]{
+-- Page 24, Offset 23545.
+-- That's my old-fashioned father for you-as big and as hard-headed as a bear.
+Assim é o meu pai antiquado-tão grande e teimoso quanto um urso.
+}
+[sha:41257f1ac0616606e713cb8fab8ffb5f26fb8273]{
+-- Page 24, Offset 23546.
+-- Luckily, my older brothers managed to convince him to let me go despite his archaic ways.
+Por sorte, meus irmãos mais velhos conseguiram convencê-lo a me deixar ir apesar de sua maneiras arcaicas.
+}
+[sha:a7dbadc5eea15d7599cdb9c62b9066065b4955aa]{
+-- Page 25, Offset 23547.
+-- "Mad Daddy, Kojika needs to experience college life, and do gymnastics there. Don't you want to see her on the pommel horse?"
+"Mad Daddy, Kojika precisa experimentar a vida universitária, e fazer ginástica lá. Você não quer ver ela no cavalo com alças?"
+}
+[sha:bc019be63d637a9a5e38bf118e884405a3619b21]{
+-- Page 25, Offset 23548.
+-- "Hahaha, that's why you're the oldest, brother. I think the rings are more her thing! She's too weak for horses."
+"Hahaha, por isso você é o mais velho, irmão. Acho que os anéis são mais a cara dela! Ela é muito fraca pra cavalos."
+}
+[sha:efb439fea4cf58082fb87f09b30fb7e6675a2667]{
+-- Page 25, Offset 23549.
+-- "You kidding, my double bros? The horizontal bar is where it's at! Once you get a taste of those vertical flips, you'll never go back!
+Tá brincando, meus duplo-manos? A barra fixa é mais negócio! Assim que você prova aquelas viradas verticais, você nunca vai voltar!
+}
+[sha:44632bfdfcc15d413e34410e4e0b22afa8af8e13]{
+-- Page 26, Offset 23550.
+-- "Yeah, and she's a hit with the guys. We can use that! I bet those dumbasses at the skating club will beg us to convince her to join their team!"
+"É, e ela é um hit com os caras. A gente pode usar isso! Eu aposto que aqueles idiotas do clube de patinação vão nos implorar pra convencer ela à entrar no time!"
+}
+[sha:91cf66e6bb1451bffe2933a4930c95f8a0581674]{
+-- Page 27, Offset 23551.
+-- Honestly, my brothers are idiots.
+Honestamente, meus irmãos são idiotas.
+}
+[sha:73c88b167d08751e5106f15d397a0a66cf9b4b0a]{
+-- Page 27, Offset 23552.
+-- Those gymnastics events were male only, for goodness' sake.
+Aqueles eventos de ginástica eram só para homens, pelo amor de Deus.
+}
+[sha:15a62addc468a142edcb82ad3d376d1b9dccbe4c]{
+-- Page 28, Offset 23553. Mods: @n.
+-- "B
+"B
+}
+[sha:59ec18be38257e61d8f47c21ec40e28017cb6fda]{
+-- Page 28, Offset 23554. Glued. Mods: @n.
+-- U
+A
+}
+[sha:a3e2f4d73155124f42ae7327db1832960978168f]{
+-- Page 28, Offset 23555. Glued. Mods: @n.
+-- N
+N
+}
+[sha:cf26dacd601b93590985524a34dbf2652761d415]{
+-- Page 28, Offset 23556. Glued. Mods: @n.
+-- C
+D
+}
+[sha:7b0fe4c06c6059f342bd188829db14955c45d66d]{
+-- Page 28, Offset 23557. Glued. Mods: @n.
+-- H
+O
+}
+[sha:48621b1009d03c688adf772a76e4f3d7094aecd6]{
+-- Page 28, Offset 23558. Glued. Mods: @n.
+-- O
+D
+}
+[sha:e2ea669265c7d040591a6bcff1549c545d6575b1]{
+-- Page 28, Offset 23559. Glued. Mods: @n.
+-- F
+E
+}
+[sha:cf26dacd601b93590985524a34dbf2652761d415]{
+-- Page 28, Offset 23560. Glued. Mods: @n.
+-- C
+V
+}
+[sha:b766be86c475991c0879942707d7e61793ef1158]{
+-- Page 28, Offset 23561. Glued. Mods: @n.
+-- R
+E
+}
+[sha:5e8660b12219f4c89035819b89b2e306bf822826]{
+-- Page 28, Offset 23562. Glued. Mods: @n.
+-- E
+R
+}
+[sha:5e8660b12219f4c89035819b89b2e306bf822826]{
+-- Page 28, Offset 23563. Glued. Mods: @n.
+-- E
+M
+}
+[sha:8f35a543abcc54c44f52ae39c5ca2fb557d3b580]{
+-- Page 28, Offset 23564. Glued. Mods: @n.
+-- P
+E
+}
+[sha:66157542060afb555778a145d067e0251afc973f]{
+-- Page 28, Offset 23565. Glued.
+-- S!
+S!
+}
+[sha:e48d2c5941a549a99509c0bf6a662775335d6e7f]{
+-- Page 28, Offset 23566. Glued. Mods: @x.
+-- I don't really want to keep any more meatheads around here, but it's the only way to protect Kojika.
+Eu realmente não quero manter mais idiotas por aqui, mas é a única maneira de proteger Kojika.
+}
+[sha:a77d619639367d7fbef39f1edc78c42719e8bb7a]{
+-- Page 28, Offset 23567. Glued. Mods: @x.
+-- Fine, but only if it's Mizora College. It's close, and she might even bring in some new regulars!
+Tudo bem, mas só se for a Faculdade de Mizora. É perto, e ela pode até trazer novos frequentadores!
+}
+[sha:56ca65ebea52ca5a58ecb630f60483f82c65f973]{
+-- Page 28, Offset 23568. Glued. Mods: @x.
+-- Gahahaha!"
+Gahahaha!"
+}
+[sha:9c697277655f935e6c54551ece203cf62c860944]{
+-- Page 28, Offset 23569.
+-- That was the decision my four brothers and my father came to in their little huddle.
+Essa foi a decisão que meus 4 irmãos e meu pai tomaram em sua pequena conferência.
+}
+[sha:8e073508e3dd50746aae16626b3c9f79f62f30c9]{
+-- Page 29, Offset 23570.
+-- Just thinking about my family makes me want to die, but that's how it's been since elementary school, so I'm used to feeling like that.
+Só de pensar na minha família já dá vontade de morrer, mas é assim desde o ensino fundamental, então estou acostumada a me sentir assim.
+}
+[sha:010d482185838247ef51d5622098d5cc7605e5e2]{
+-- Page 29, Offset 23571.
+-- I did as my father asked and set my sights on Mizora Sport Science U.
+Eu fiz como meu pai pediu e fiquei de olho na Universidade de Ciências e Esporte de Mizora.
+}
+[sha:583cb6956d093a7be4cd71c0987478f1e93736ed]{
+-- Page 29, Offset 23572.
+-- That put him at ease, but I had other things in mind.
+Isso o deixou mais tranquilo, mas eu tinha outras coisas em mente.
+}
+[sha:15df09471d31cfa94a799a3814d2d7732886cdc5]{
+-- Page 30, Offset 23573.
+-- I convinced him to let me put down a college in the city as my "safety school."
+Eu o convenci a me deixar escolher uma faculdade na cidade como minha "segunda escolha".
+}
+[sha:0fa039e714703c87f85969ca5a9e5c0e4a90fe81]{
+-- Page 30, Offset 23574.
+-- "You're supposed to write down up to three schools you're interested in for your teacher to review. Just a formality, so I don't need any extra money or anything."
+"Você deve escrever até três escolas de seu interesse para que seu professor as analise. É só uma formalidade, então eu não preciso de dinheiro extra nem nada."
+}
+[sha:302a690aa80669e287a230621c8abf5ba3fb146d]{
+-- Page 31, Offset 23575.
+-- My father believed every word of it.
+Meu pai acreditou em cada palavra.
+}
+[sha:dc0972574372d2ea836de62eedc2d947da33854a]{
+-- Page 31, Offset 23576.
+-- Of course, I fully intended to go to my second choice in the city.
+Claro, eu pretendia totalmente ir pra minha segunda opção na cidade.
+}
+[sha:3ca992e04644be886b7299ed80436a2e57b68a0d]{
+-- Page 31, Offset 23577.
+-- That's why I secretly worked a part-time job.
+Por isso que secretamente trabalhei meio período.
+}
+[sha:2fb6e3dcbf6e7cf89255a6854fa4627c080c92fc]{
+-- Page 31, Offset 23578.
+-- I'd saved enough over three years to cover living costs if I passed and get in. I'd have to get a loan for tuition fees, but it was the only way to make the plan work.
+Eu economizei o bastante durante três anos para cobrir o custo de vida se fosse aprovada. Teria que tirar um empréstimo para as mensalidades, mas era a única maneira do plano funcionar.
+}
+[sha:17e80593bc3a48309aadfc892fe272c1bf4f9a89]{
+-- Page 32, Offset 23579.
+-- My father was stubborn and brash, but he appreciated hard work and diligence.
+Meu pai era teimoso e ousado, mas apreciava o trabalho duro e a diligência.
+}
+[sha:25ccf5c6f0b270cf3b66c9585d39c63b8325b185]{
+-- Page 32, Offset 23580.
+-- If he saw that I passed my exams while saving up enough money to pay for myself, he'd probably let me go.
+Se ele visse que eu passei em meus exames enquanto guardava dinheiro o bastante para pagar minhas despesas, ele provavelmente me deixaria ir.
+}
+[sha:e9d7c5b20181c21da1b38ff869c2ed8112425c7d]{
+-- Page 32, Offset 23581.
+-- Not that I wouldn't even if he disapproved.
+Não que eu não fosse, mesmo que ele desaprovasse.
+}
+[sha:ef4030f2eef6fc515433f3f277f0f630f081fc3b]{
+-- Page 33, Offset 23582.
+-- Everything was going according to plan so far.
+Tudo estava de acordo com o plano até então.
+}
+[sha:eb3eee6d288155f482a2070592acd822ad805458]{
+-- Page 33, Offset 23583.
+-- The only thing that could stop me was sudden illness preventing me from taking the entrance exam.
+A única coisa que podia me parar era uma doença repentina me impedindo de fazer o exame de entrada.
+}
+[sha:781705fee1e3f2f7e5586c7cb4a3a04da08cd564]{
+-- Page 33, Offset 23584.
+-- Oh, right. There was one other thing...
+Ah, certo. Tinha mais outra coisa...
+}
+[sha:4a058c9940c7f74737c762fe0ccf407245866947]{
+-- Page 34, Offset 23585.
+-- "So, do you have a boyfriend, Aozaki?"
+"Então, você tem um namorada, Aozaki?"
+}
+[sha:bb2b8ba5e0e397e0c276b951e41ada6741af716b]{
+-- Page 34, Offset 23586.
+-- Aozaki didn't reply.
+Aozaki não respondeu.
+}
+[sha:4b438536715cf378997e18f6afb993ae0406b9df]{
+-- Page 34, Offset 23587.
+-- It's a beautiful day and Mr. Yamasiro had been invited to a party, so he couldn't be thinking straight.
+Está um belo dia e Sr. Yamasiro foi convidado para uma festa, então ele não podia estar pensando direito.
+}
+[sha:567f998ee2169b40b35494058e8d39b429f812f3]{
+-- Page 34, Offset 23588.
+-- He'd unknowingly spoken a word forbidden in Misaki High.
+Ele inconscientemente disse uma palavra proibida no Colégio Misaki.
+}
+[sha:ea930cfc7f8caf14c61d9a57eabc4e2aaa49cae6]{
+-- Page 35, Offset 23589.
+-- Strangely-then again, maybe it's not so strange-Aozaki was single.
+Estranhamente-bem, talvez não fosse tão estranho assim-A Aozaki estava solteira.
+}
+[sha:01619635823a462533fab1670de4131b52c34dcc]{
+-- Page 35, Offset 23590.
+-- She was undoubtedly attractive if she wasn't speaking to you,
+Ela sem duvida era atraente se ela não estivesse falando com você,
+}
+[sha:fcfd677e4b63fdf8da9995572e3636cc0451b69a]{
+-- Page 35, Offset 23591. Glued. Mods: @x.
+-- but she was permanently in a bad mood, and didn't bother with small talk.
+Mas ela estava sempre de mal humor, e não se importava com papo furado.
+}
+[sha:2229052e9eb1a923670f5d910dd2092b16d5ad7a]{
+-- Page 36, Offset 23592.
+-- "Were you up all night, Mr. Yamasiro?"
+"Passou a noite acordado, Sr. Yamasiro?"
+}
+[sha:8cc915ccdd7d1d13cec5bae802d7281d292d9105]{
+-- Page 36, Offset 23593.
+-- "Oh, I, um, I was just, you know, curious. You're almost free of your student council duties, and I'm simply raising a glass to your youth as your teacher..."
+"Ah, eu, hm, eu estava apenas, sabe, curioso. Você está quase livre dos seus deveres no conselho estudantil, e estou apenas levantando uma taça à sua juventude como seu professor..."
+}
+[sha:319823874cbb6128e5baeb081d3ce12da6683461]{
+-- Page 37, Offset 23594.
+-- "Thank you *ever* so kindly for your concern, Mr. Yamasiro.
+"Muitíssimo obrigada *mesmo* pela sua preocupação, Sr. Yamasiro.
+}
+[sha:bc9d54ecbad930013070cb4120b6d9a66a9e9bde]{
+-- Page 37, Offset 23595.
+-- If you're so concerned about me, perhaps we should date.
+Se Você está tão preocupado comigo, talvez devêssemos namorar.
+}
+[sha:bee9026e5fa6d7606b55e1162c086f980726bf34]{
+-- Page 37, Offset 23596. Mods: @k, @e.
+-- But what would happen if people were to find out?
+Mas o que aconteceria se as pessoas descobrissem?
+}
+[sha:34c557de6ead84259a48ee33ca7398550c9ff8b9]{
+-- Page 37, Offset 23597. Glued. Mods: @x.
+-- What would happen if they found out our dark, little secret?"
+O que aconteceria se eles descobrissem nosso segredinho obscuro?"
+}
+[sha:ae1dc2e4ac0ba318d1729d46234fa0a5bf50be22]{
+-- Page 37, Offset 23598.
+-- Aozaki beamed.
+Aozaki irradiava.
+}
+[sha:72ccb1beb615c968e5f19ef0e5890933dc3d94b0]{
+-- Page 37, Offset 23599.
+-- If looks could kill...
+Se olhares matassem...
+}
+[sha:a78504e5ab6fd1ace423f148b7590fe195c9acf3]{
+-- Page 38, Offset 23600.
+-- "...I'm sorry. I was out of line. Please, don't go doing anything that would put me out of a job.
+"... Me desculpe. Eu saí da linha. Por favor, não faça nada que possa me tirar do emprego.
+}
+[sha:e5cf388f61a180275de1af219780cb2395565b2b]{
+-- Page 38, Offset 23601.
+-- You've got exams coming up, so of course you don't need to worry about relationships.
+Você tem exames chegando, é claro que você não precisa se preocupar com relacionamentos.
+}
+[sha:881f052f6ad4dcbe6f681cc66ce55d55cf7975e4]{
+-- Page 38, Offset 23602.
+-- Excellent. Yes. You study hard, Aozaki!"
+Excelente. Sim. Estude bastante, Aozaki!"
+}
+[sha:565d91d10c22b8c0ac538f2984193b61e4c8d944]{
+-- Page 38, Offset 23603.
+-- Mr. Yamasiro laughed uncomfortably.
+Sr. Yamasiro riu desconfortávelmente.
+}
+[sha:def59fc43a8f3a71fee10317a6eb3339966e3aeb]{
+-- Page 39, Offset 23604.
+-- "Good. Please, think before you speak in the future. Certain people at the mansion might not take kindly to slips of the tongue. Right, Kuma?"
+"Ótimo. Por favor, no futuro, pense antes de falar. Certas pessoas na mansão podem não gostar muito de deslizes de fala. Não é, Kuma?"
+}
+[sha:bec21568ad0ebb110f7647a98f696a2f3440fd59]{
+-- Page 39, Offset 23605.
+-- "Right...
+"Certo...
+}
+[sha:3b1fda67bbc58d31a2689c664ad6c34d4604bad7]{
+-- Page 39, Offset 23606.
+-- Sure it's a party, but it's for someone's birthday."
+Com certeza é uma festa, mas é aniversário de alguém."
+}
+[sha:f4768219bdfc799989e2d3f83b06d2b8947fa220]{
+-- Page 40, Offset 23607.
+-- I was starting to feel a little inadequate.
+Eu estava começando a me sentir meio inadequada.
+}
+[sha:72faffcf8f76dcd7f4bae55b5ade9bfabc39352d]{
+-- Page 40, Offset 23608.
+-- I wasn't as attractive or cool as Aozaki.
+Eu não era tão atrativa ou legal como Aozaki.
+}
+[sha:30d4af4c74019bb60832191fbdc11b08c3b18af7]{
+-- Page 40, Offset 23609.
+-- I mean, I wasn't even sure my college plan was really going to work. I felt more anxious every day.
+Digo, eu nem ao menos sabia se o meu plano pra faculdade ia funcionar. A cada dia eu me sentia mais ansiosa.
+}
+[sha:e2afd68a6d861499b6b70f2fad5f9420ce4941e9]{
+-- Page 40, Offset 23610.
+-- Pathetic, I know.
+Patético, eu sei.
+}
+[sha:22b6e7cb38c9f86c47437d724353c4f838d785ab]{
+-- Page 40, Offset 23611.
+-- If I didn't already have enough to worry about, there was the equally big problem of a boy at school.
+Se eu já não tivesse o bastante para me preocupar, havia o problema igualmente grande de um garoto na escola.
+}
+[sha:bd6cff3b422c3e5f72b9f5f4fc628c72a67c1e3f]{
+-- Page 41, Offset 23612.
+-- "I'm surprised Miss Kuonji is holding a party at her place. Aozaki, you mentioned even her father rarely gets to visit."
+"Estou surpresa que a Senhorita Kuonji esteja dando uma festa na mansão. Aozaki, você mencionou que até o pai dela raramente visita."
+}
+[sha:470f588a5bf89596c5fa05aeb5d7ad9348432633]{
+-- Page 41, Offset 23613.
+-- "It came as a shock to me too, actually. I guess people really can change.
+"Na verdade, também foi um choque para mim. Acho que as pessoas realmente podem mudar.
+}
+[sha:50619e89444737ceebecb25532a0709772e7ce99]{
+-- Page 41, Offset 23614.
+-- Sizuki's friends can come, too. I don't mind.'
+Os amigos de Sizuki podem vir também. Não me importo.'
+}
+[sha:f3f82de17956beaa12b9aba4e04882e9b0cb27d6]{
+-- Page 41, Offset 23615.
+-- Never thought I'd hear Alice say something like that."
+Nunca achei que eu ouviria a Alice dizer algo assim."
+}
+[sha:eb544465eada9deaad202ce998f180288b63975b]{
+-- Page 42, Offset 23616.
+-- The gate to Shiroinuzuka stood tall, as if designed to warn off visitors.
+O portão para Shiroinuzuka era alto, como se fosse projetado para alertar visitantes.
+}
+[sha:5e0844901c659f208c83f99d5619f6b454d6c10e]{
+-- Page 42, Offset 23617.
+-- Aozaki opened the gate; it's wasn't even locked.
+Aozaki abriu o portão; nem sequer estava trancado.
+}
+[sha:a6229284fa2eb37dd254029cc2feb64b9a3c949c]{
+-- Page 42, Offset 23618.
+-- I felt like we were passing into a different world. Is it just me or do the trees and mountains look different inside?
+Eu senti como se estivéssemos entrando em um mundo diferente. Sou só eu ou as árvores e montanhas parecem diferente por dentro?
+}
+[sha:340ce52bcca83e15b28e3f0d3186f369fc671444]{
+-- Page 42, Offset 23619.
+-- I...
+Eu...
+}
