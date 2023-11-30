@@ -6,8 +6,8 @@ Arquivos da tradução de Mahoyo. Repósitorio criado para uma maior facilidade 
 
 - Prólogo: Completo
 - Dia 1: Completo
-- Dia 1.5: -
-- Dia 2: -
+- Dia 1.5: Completo
+- Dia 2: Completo
 - Dia 3: - 
 - Dia 4: -
 - Dia 5.1: -
