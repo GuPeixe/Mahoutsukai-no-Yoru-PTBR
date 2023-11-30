@@ -14,7 +14,7 @@ Arquivos da tradução de Mahoyo. Repositório criado para uma maior facilidade 
 - Capítulo 5-II:
 - Cápitulo 6:
 - Cápitulo 7:
-- Cápitulo 8:
+- Cápitulo 8.5:
 - Cápitulo 9:
 - Cápitulo 10:
 - Cápitulo 11:
