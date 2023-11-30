@@ -1,0 +1,110 @@
+[sha:ba329d8f8a582a9ec1f0342f0c741f84583db5ea]{
+-- Page 0, Offset 21407.
+-- I'll check out the guest room first.
+Eu vou checar o quarto de hóspedes primeiro.
+}
+[sha:74192e067b3ccc0d41c681ff930fc5a550e50130]{
+-- Page 1, Offset 21408.
+-- "Housuke, give me back my luggage. I'm going to go look at my room. Where're the guest rooms, Aozaki?"
+"Housuke, me devolva a minha bagagem. Eu vou ver o meu quarto. Aonde está os quartos de hóspedes, Aozaki?"
+}
+[sha:1a69f292f2cc608721ef342dc4406c204ceac0d9]{
+-- Page 1, Offset 21409.
+-- "Second floor of the east wing. Yours is the second one down.
+"Segunda andar da ala leste. O seu é a segunda porta.
+}
+[sha:6b39b3eac130cf61cf2b495123529f384147ffe0]{
+-- Page 1, Offset 21410.
+-- It's unlocked. But there's a key on the desk in there, so go ahead and use it to lock the door on your way out."
+Está destrancada. Mas tem uma chuva na mesa do quarto, você pode usar para trancar a porta ao sair."
+}
+[sha:5c3b6ee5a55933fb8ab0ec58631813d32cec2aac]{
+-- Page 2, Offset 21411.
+-- I nodded before making my way to the stairs.
+Eu acenei antes de subir as escadas.
+}
+[sha:8669d47ef7da54dfc3bfed5af2637a345dd57fd5]{
+-- Page 2, Offset 21412.
+-- On the second floor, I found my room
+No segundo andar, eu encontrei meu quarto
+}
+[sha:ee13b9826f6fb4481fb7c14ee022b1d896a9d659]{
+-- Page 2, Offset 21413.
+-- as described.
+como descrito.
+}
+[sha:54b90aa20b46e5c2cc70e487c90fb02446bfad01]{
+-- Page 3, Offset 21414.
+-- It was unoccupied.
+Estava desocupado.
+}
+[sha:e60fb1c0bab39427ed531f6fade209cdf5bd2a76]{
+-- Page 3, Offset 21415.
+-- I checked to make sure I was alone, then put down my luggage and stowed my wallet in a pocket.
+Eu chequei para ter certeza de que estava sozinha, então larguei minha bagagem e guardei minha carteira num bolso.
+}
+[sha:d2a4c82c3d81acd702db3b2b5cd63722ed9da47f]{
+-- Page 3, Offset 21416.
+-- I considered keeping my favorite bunny-shaped commuter pass-and lucky charm-with me, but all it contained was a yearly school festival photo anyway. I left it on the table.
+Eu considerei levar o meu passe de transporte público em forma de coelhinho, que também é meu amuleto da sorte, comigo, mas tudo que ele continha era uma foto do festival anual da escola, então deixei na mesa.
+}
+[sha:62325f986d75ab25dcc701ca0ea8152dcdfa62be]{
+-- Page 3, Offset 21417.
+-- I was going to be spending the night in an unfamiliar building. It was best to travel light.
+Eu ia passar a noite em um lugar desconhecido. Era melhor carregar pouco.
+}
+[sha:2b6ec5618bcef8b6e47c7e7c37ca6910648137cb]{
+-- Page 4, Offset 21418.
+-- "Where's that key...? Oh, here it is."
+"Aonde tá aquela chave...? Ah, aqui está."
+}
+[sha:3e842548f4ae1044662dba3c6e1b743b1d69ccac]{
+-- Page 4, Offset 21419.
+-- It was a brass key, with an old-fashioned and elaborate design that perfectly complemented the mansion's European theme.
+Era uma chave de latão, com um design à moda antiga e elaborado que complementa perfeitamente o tema Europeu da mansão.
+}
+[sha:d4c2cd9838ab8efaa78f1ec05cf66832ab2f0c80]{
+-- Page 4, Offset 21420.
+-- I stepped back into the second-floor corridor.
+Eu me retirei para o corredor do segundo andar.
+}
+[sha:e67bb9a809ef33310910af73b746c2c4e59fe468]{
+-- Page 4, Offset 21421.
+-- In the corner of my eye, I spotted an old man in the hall.
+Com o canto do olho, eu avistei um homem velho no corredor.
+}
+[sha:baf747bf9bf1add40867f7a74bf45240e1a2e513]{
+-- Page 4, Offset 21422.
+-- Must be one of the guests. I set off in his direction to greet him.
+Deve ser um dos convidados. Eu parti em sua direção para cumprimentá-lo.
+}
+[sha:7f90bbcdd81725f82c7ccf12d1658f37f26a55ec]{
+-- Page 5, Offset 21423.
+-- "Huh?"
+"Huh?"
+}
+[sha:1a923266356bace7507ca6e7450bc0bbeba8d2a2]{
+-- Page 5, Offset 21424.
+-- As soon as I did,
+Assim que eu o fiz,
+}
+[sha:33be1289dcd93965a4d1c9bfcbe0faa2aa45d77d]{
+-- Page 5, Offset 21425.
+-- the old man had vanished. I checked the foyer downstairs, but he wasn't there either.
+O velho desapareceu. Eu chequei o vestíbulo no andar de baixo, mas ele também não estava lá.
+}
+[sha:dc62966aba0d72dafcaa49d4a2936bbf0bfe2a68]{
+-- Page 6, Offset 21426.
+-- "Maybe he went to the west wing."
+"Talvez ele esteja na ala oeste."
+}
+[sha:8b1e6e0b1bf20771677bf4ace3fd04bd79cb72c4]{
+-- Page 6, Offset 21427.
+-- It was a little concerning, but it would've been rude to wander around the house without greeting the owner first.
+Era um pouco preocupante, mas seria rude vagar pela casa sem cumprimentar o dono primeiro.
+}
+[sha:604479a28e474524108cad6f6c0f89a14930c56d]{
+-- Page 6, Offset 21428.
+-- I headed for the east wing drawing room, where laughter was ringing from within.
+Eu fui para a sala de estar na ala leste, de onde sons de risos estavam ecoando.
+}

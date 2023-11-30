@@ -1,0 +1,30 @@
+[sha:bd26a7ca270efb3c4da34d255289bc3e97072edd]{
+-- Page 15, Offset 23756. Mods: @e.
+-- -Decision W-
+-Decisão W-
+}
+[sha:9802ea317981186379bbddd9308c1575a90fee0e]{
+-- Page 15, Offset 24093. Choice.
+-- Is Miss Kuonji a neat freak?
+A Senhorita Kuonji é uma maníaca por limpeza?
+}
+[sha:7122967718e36468eee15170edeb0192103c021c]{
+-- Page 15, Offset 24094. Choice.
+-- Why did Tokitsu come to this party?
+Por que o Tokitsu veio a esta festa?
+}
+[sha:3059557c14f06697d5ddced475d2fe94d1fc6679]{
+-- Page 15, Offset 24095. Choice.
+-- Are there two types of murders?
+Tem dois tipos de assassinatos?
+}
+[sha:400d6620c104d34a43da2f7c8af6d7eb7e895ead]{
+-- Page 15, Offset 24096. Choice.
+-- Ritsuka's lockpicking skills!
+As habilidades de lockpicking da Ritsuka!
+}
+[sha:9e590e16cca6c12f794cae205d4e5055c09efa22]{
+-- Page 15, Offset 24097. Choice.
+-- Names define us.
+Nomes nos definem.
+}

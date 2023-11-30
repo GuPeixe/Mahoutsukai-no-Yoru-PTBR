@@ -1,0 +1,15 @@
+[sha:2186e8cbaa9756e846726bc468049ed40b15bd57]{
+-- Page 1, Offset 22769. Mods: @e.
+-- -Decision O-
+-Decisão O-
+}
+[sha:6737d4baa4b54ad101a2b3d52ba1a1b08c90c504]{
+-- Page 1, Offset 24059. Choice.
+-- Because there's a 13th person.
+Porque tem uma 13ª pessoa.
+}
+[sha:5e5f38e0c107cec66f2a2093076650b490eff1d5]{
+-- Page 1, Offset 24060. Choice.
+-- We should focus on how the phone line was cut.
+Nós deveriamos focar em como a linha de telefone foi cortada.
+}

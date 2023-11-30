@@ -1,0 +1,401 @@
+[sha:da5ab63731b3d0d2d72e8714cd53804b71f26174]{
+-- Page 0, Offset 0.
+-- It was a winter's day eight years prior when it happened.
+Foi em um dia de inverno, oito anos atrás, que aquilo aconteceu.
+}
+[sha:450fe556461e564bc282bb0a8d5069fb62eb1afe]{
+-- Page 0, Offset 1.
+-- That solemn morning when she understood the value of life for the very first time.
+Naquela manhã solene, na qual ela entendeu o valor da vida pela primeira vez.
+}
+[sha:00d6b27ba69079635e601309795323a86d02c119]{
+-- Page 1, Offset 2.
+-- Her home was nestled on the side of a mountain.
+A casa dela ficava ao lado de uma montanha.
+}
+[sha:4c570175cf89e3ad09dd326bba4b6a722cfa2b87]{
+-- Page 1, Offset 3.
+-- Around it was nothing but inhospitable wilderness.
+Em volta não existia nada além do selvagem inóspito.
+}
+[sha:ee0eb81eeb5e0dd595d9ad0699e0c6e4ed3d6bda]{
+-- Page 1, Offset 4.
+-- She had no neighbors or childhood friends to speak of. Things like traveling to school or playing outside were more trouble than they ought to be.
+Ela não tinha vizinhos nem amigos de infância com quem conversar. Coisas como ir para a escola ou brincar do lado de fora eram mais problematicas do que deveriam ser.
+}
+[sha:293382598fac16ae70f2fd47385caeff7b47c114]{
+-- Page 1, Offset 5.
+-- Indeed, with its pure water and bright stars, it was a place rich with memories both frustrating and halcyon.
+De fato, com sua água pura e estrelas brilhantes, era um lugar rico com mémorias tanto de frustração quanto tranquilidade.
+}
+[sha:7f112ee4668f4dd6c3e5cad9462ba8808e8d043e]{
+-- Page 2, Offset 6.
+-- That was only during summer, though.
+Mas isso apenas durante o verão.
+}
+[sha:95c04d41f7902f868dd0ecd00dca8b58d83056c3]{
+-- Page 2, Offset 7.
+-- Winters in those mountains were extremely frigid, each morning more severe than the last.
+O inverno naquelas montanhas eram extremamente frígidos, cada manhã era mais dura que a última.
+}
+[sha:448c26733d5dd5483a8108a1b332a7f8fb8e60f5]{
+-- Page 2, Offset 8.
+-- Her father would drive her to the train station...
+Seu pai iria levá-la à estação de trem...
+}
+[sha:6cc2370ff0d07326056da9d2fdc8394df6553ee2]{
+-- Page 2, Offset 9.
+-- ...after waiting ten minutes for the engine to warm up and the iced-over windows to clear.
+...após esperar 10 minutos para que o motor se aquece-se e as janelas cobertas de gelo se limpassem.
+}
+[sha:9cabdcd64f89bb4e1d2fc1ccb264ba23928d6488]{
+-- Page 3, Offset 10.
+-- "Mind starting up the car for me?"
+"Se importa de ir ligar o carro para mim?"
+}
+[sha:7655de44884a6ca3b231ab8332b050973d4a7d0c]{
+-- Page 3, Offset 11.
+-- Her father would savor his morning coffee, leaving her to venture outside and rev the engine.
+Seu pai iria saborear seu café matinal, deixando-a se aventurar lá fora ligando o motor.
+}
+[sha:9a8b67d0e5e4bccff73c268e8ff5606dc4c9cc12]{
+-- Page 4, Offset 12.
+-- Out the front door she would go, traversing the garden with icy breath, until she reached that old sedan.
+Pela porta da frente ela iria, atravessando o jardim com a respiração gelada, até alcançar o velho sedan.
+}
+[sha:058f6b1e2a1c523880fb915104158f4cb8d4c35e]{
+-- Page 4, Offset 13. Mods: @n.
+-- As always, she inserted the key, then started the ignition.
+Como sempre, ela inseria a chave e começava a ignição.
+}
+[sha:b7c7759efc5706e8993d25e7ed5b1ff3333181fb]{
+-- Page 4, Offset 14. Glued.
+-- The engine rumbled to life.
+O motor rugia com vida.
+}
+[sha:2558313f00d2f0a913c4e601ccb839deec0d23c5]{
+-- Page 4, Offset 15.
+-- Just as she proudly finished that humble task she'd done so many times before...
+No momento em que ela orgulhosamente finalizou a tarefa que já havia feito tantas vezes antes...
+}
+[sha:08c30228fd6aab2fc79cb0cfd44376b6d47fbf18]{
+-- Page 5, Offset 16.
+-- "■■■■■―"
+"■■■■■―"
+
+}
+[sha:71eda5f16b8fcd9beaeb7758f916eea3a8fb2477]{
+-- Page 5, Offset 17.
+-- A shrill scream pierced the air.
+Um grito estridente perfurou o ar.
+}
+[sha:364e475ff94f110a8203b352c86b4973928588ef]{
+-- Page 5, Offset 18.
+-- She knew, even though it wasn't human, that the feeble sound was a cry of agony.
+Ela sabia que, apesar de não ser humano, aquele som tênue foi um grito de agonia.
+}
+[sha:2b76cb652e9083e12b8115a8d736f26e8a8b59bb]{
+-- Page 6, Offset 19.
+-- A few moments passed.
+Alguns momentos se passaram.
+}
+[sha:74f4b0e0b84934898693fe3a9e275c0c3cc75b39]{
+-- Page 6, Offset 20. Glued. Mods: @x.
+-- Her father came out and opened the hood of the car.
+Seu pai veio e abriu o capô do carro.
+}
+[sha:f5020c351b455bf3d0cb2907c7147d994501398c]{
+-- Page 6, Offset 21.
+-- Creaking fan belts...
+Correias rangendo...
+}
+[sha:e0f38ddf67c64d2a977ca191f646a5e312664056]{
+-- Page 6, Offset 22.
+-- A monstrous-looking engine...
+Um motor monstruoso...
+}
+[sha:8a2af29a9f0d3705521dea7061f222e0f1f5092b]{
+-- Page 6, Offset 23.
+-- And something that didn't belong.
+E algo que não pertencia a aquele lugar.
+}
+[sha:2a91147f6d7a67fe0e1df1eea46d6e3820a8dfb8]{
+-- Page 6, Offset 24.
+-- There was a cat―a mother by the looks of it―and her two kittens.
+Havia um gato, uma mãe, pelo parecer, e seus dois gatinhos.
+}
+[sha:28425da7b98ef5af7cfe3878bdae8f6de405a627]{
+-- Page 7, Offset 25.
+-- The three cats had been huddling for warmth in the engine's compartment.
+Os três gatos estavam encolhindos buscando calor no compartimento do motor.
+}
+[sha:305b07d0ed67e40fb827e4e389dc116f2e41e784]{
+-- Page 7, Offset 26.
+-- The mother cat was missing its head.
+A mãe gata estava sem a cabeça.
+}
+[sha:609aaf930c62b5e68765b92acf42e4315a7a2601]{
+-- Page 7, Offset 27.
+-- One of the kittens had been mangled beyond recognition by the engine belts, and surely died instantly.
+Um dos gatinhos foi mutilado pelas correias, ficando irreconhecível, e concerteza morreu instantâneamente.
+}
+[sha:2193ca7067e615656807ea91625f4d46329dc875]{
+-- Page 8, Offset 28.
+-- The other kitten, its face half-covered in blood, panted faintly.
+O outro gatinho, com metade do seu rosto coberto de sangue, ofegava levemente.
+}
+[sha:58bfdb6fb6ecbb3bccaf564588a886e44daee39d]{
+-- Page 8, Offset 29.
+-- It desperately clung to its mother-or rather, the chunk of meat that was its mother-with the last bit of life it could muster.
+Ele desesperadamente se arrastou pra sua mãe-ou melhor, o pedaço de carne que era sua mãe-com os últimos restos de força que conseguiu reunir.
+}
+[sha:c984d978883a6893cf3b4cdf282f6e93cca5ea02]{
+-- Page 9, Offset 30.
+-- "Poor things."
+"Pobrezinhos."
+}
+[sha:fa0be925a427f99325144976e688b58213f81135]{
+-- Page 9, Offset 31.
+-- Her father lamented their plight.
+Seu pai lamentou sofrimento deles.
+}
+[sha:673b45d5fdf7bf413ba016ca981f61d012af3438]{
+-- Page 10, Offset 32.
+-- The previous night had been especially cold.
+A noite passada havia sido especialmente fria.
+}
+[sha:7c831e3af47a0be6635cb235244494b6f46627a4]{
+-- Page 10, Offset 33.
+-- After he had returned home yesterday, the cats must have snuck under the hood, drawn by the warmth of the engine.
+Após ele ter retornado para casa ontem, os gatos devem ter se esgueirado para debaixo do capô, atraídos pelo calor do motor.
+}
+[sha:d15f8c58c945dce3537955fe87f9e9c4f8cc1394]{
+-- Page 10, Offset 34. Mods: @n.
+-- They had slept next to the engine...
+Eles haviam dormido ao lado do motor...
+}
+[sha:8b1e8385a54c5933c304d793fbb22c714c0347a1]{
+-- Page 10, Offset 35. Glued.
+-- ...and awoken to a storm of spinning belts.
+...e acordaram com uma tempestade de correias girando.
+}
+[sha:9860fe6b2799503f1c1fdbb6dbd6e7e9c2b4fc51]{
+-- Page 10, Offset 36.
+-- Cars in the eighties were not sealed particularly well, so this was not unheard of.
+Os carros da década de 80 não eram muito bem vedados, portanto, algo assim não era inédito.
+}
+[sha:1329875e46adfe67573200c819f36d41970e2842]{
+-- Page 11, Offset 37.
+-- "...It's okay, ____. It wasn't your fault."
+"...Tá tudo bem, ____. Não foi sua culpa."
+}
+[sha:5090b6f0ba964a333296d43bc3ec8345379971be]{
+-- Page 11, Offset 38.
+-- Her father's voice seemed distant.
+A voz de seu pai parecia distante.
+}
+[sha:99667c81471e467e216b7e139436d3dd82d1874c]{
+-- Page 12, Offset 39.
+-- She could only make out a small tuft of the kitten's gray fur.
+Ela só conseguia ver um pequeno tufo do pelo cinza do gatinho.
+}
+[sha:41ad57e9887409a3d0c71acda3df03a084d4d3f6]{
+-- Page 12, Offset 40.
+-- The rest of it was caked in the blood of its mother and brother.
+O resto estava coberto pelo sangue de seu irmão e mãe.
+}
+[sha:47232df71de8fc7d985f3f6901bc374bcdfb108d]{
+-- Page 12, Offset 41.
+-- ...I can see its skull...
+...Eu consigo ver o crânio dele...
+}
+[sha:8abb22bf62ffd84e83cfff0c43cbe554a13a52ee]{
+-- Page 12, Offset 42.
+-- The fragile life of a speckled kitten...
+A frágil vida de um gatinho malhado...
+}
+[sha:96739c8b5c345c1eda4902d4dac05fb36339c497]{
+-- Page 12, Offset 43.
+-- Trembling and possibly blind, it continued to nuzzle against its dead mother's chest.
+Tremendo e possivelmente cego, ele continuou a se afagar no peito de sua mãe morta.
+}
+[sha:1ad76b4535455e4c2a0eaf7ea0873bf4efc8f9aa]{
+-- Page 13, Offset 44.
+-- "Hmm? ____, wait!"
+"Hmm? ____, espere!"
+}
+[sha:6b9d1083e756aa98ed804ccf54c0b4e053657df1]{
+-- Page 13, Offset 45.
+-- She took the kitten into her arms
+Ela pegou o gatinho em seus braços
+}
+[sha:5889f94065ec89016a11c38072b4b15c70be198f]{
+-- Page 13, Offset 46.
+-- and ran deep into the mountains, to her grandfather's house.
+E correu para as profundezas das montanhas, para casa de seu avô.
+}
+[sha:d7db26ee2078fab869dfd64b968d3e1dbff87380]{
+-- Page 13, Offset 47.
+-- Was it because she was overcome with regret?
+Seria isso porque ela estava dominada com arrependimento?
+}
+[sha:da0c8162d690a755c84111bdf11a009a58c24a94]{
+-- Page 13, Offset 48.
+-- Or was it the shock of grief? Years later, she still wasn't sure.
+Ou era o choque do luto? Anos depois, ela ainda não tinha certeza.
+}
+[sha:58d30d5c2b2ed8e0cb27a2c32e15298658b99aca]{
+-- Page 14, Offset 49.
+-- Fighting back the welling tears, she burst into her grandfather's workshop.
+Lutando contra as vindouras lágrimas, ela correu para o ateliê de seu avô.
+}
+[sha:c78a70f6cc4972454267736894f121a2b717b5d2]{
+-- Page 15, Offset 50.
+-- Her grandfather was a magician who could do anything.
+Seu avõ era um mago que podia fazer qualquer coisa.
+}
+[sha:08024742eb4b4815ccfc26f6028985e096e35646]{
+-- Page 15, Offset 51.
+-- She had never seen magic. She knew that magic was a fantasy straight out of fairy tales... but so was her grandfather.
+Ela nunca havia visto magica. Ela sabia que magica era uma fantasia que vinha direto de contos de fadas... assim como seu avô.
+}
+[sha:73f558293bacd0b9a10475f95c990843f8057228]{
+-- Page 15, Offset 52.
+-- She had to find him.
+Ela tinha que achar ele.
+}
+[sha:dee789c24402ac0bfd9542100c167e6b9f64dc7f]{
+-- Page 15, Offset 53.
+-- He was the only one who could help.
+Ele era o único que poderia ajudar.
+}
+[sha:ac533715b60431bb8efc0c492c8679aa533b2f50]{
+-- Page 16, Offset 54.
+-- "I suppose you want me to alter this kitten's fate,"
+"Eu suponho que você queira que eu altere o destino desse gatinho,"
+}
+[sha:b25ee3ee831f8945083b2c2213982cfe633220c4]{
+-- Page 16, Offset 55.
+-- the cave-dwelling magician said indifferently.
+Disse indiferentemente o feiticeiro que habitava a caverna.
+}
+[sha:efa7bc826f0bc82ef432860f83d7ec8a10f42112]{
+-- Page 17, Offset 56.
+-- "This kitten needs our help," she pleaded.
+"Esse gatinho precisa da sua ajuda," 
+}
+[sha:ebccd7d64c317a33f2e5b114a1dd326bc5e2fa1a]{
+-- Page 17, Offset 57.
+-- Whether it was a simple task,
+Quer queira fosse uma simples tarefa,
+}
+[sha:39d2a71cc69585b558c32df62eed9632c66a1c1f]{
+-- Page 17, Offset 58.
+-- or a herculean labor, her grandfather would not say.
+Ou um trabalho Hercúleo, seu não iria dizer.
+}
+[sha:2dba370dfe5ac7c6de9f0c67a9fdc68f3000db05]{
+-- Page 17, Offset 59.
+-- He simply granted the girl's childish wish, like a machine.
+Ele simplesmente garantiu o desejo infantil da garota, como uma máquina.
+}
+[sha:334992e5fe266482830fbc27dbbb2e25a0e305ad]{
+-- Page 18, Offset 60.
+-- "...Oh no," the girl said.
+"...Ah não," disse a garota.
+}
+[sha:f0c6f806283e3d89a19dcf63949c3702cc3409de]{
+-- Page 18, Offset 61.
+-- Before she knew it, however, she was holding a tiny corpse in her hands.
+Entretanto, antes que ela percebesse, ela estava segurando um pequeno cadáver em suas mãos.
+}
+[sha:df9dd54b020102e891e381815d9452205a854307]{
+-- Page 18, Offset 62.
+-- Its fur was cold.
+Seu pelo estava frio.
+}
+[sha:60d5fdaa6df63103f66808c6c0a8d618fe6c53ab]{
+-- Page 18, Offset 63.
+-- The warmth of life had left its body.
+O calor da vida havia saído de seu corpo.
+}
+[sha:815004cf63b40a0f2af8140f72eac37f626a910d]{
+-- Page 18, Offset 64.
+-- And the tears she had fought so hard to hold back poured from her eyes.
+E as lágrimas que ela lutou tanto para conter escorreu de seus olhos.
+}
+[sha:cb8c2ccc9331e456219e35dbc96cc2ad701e8f2e]{
+-- Page 18, Offset 65.
+-- Regret spread through her chest like an endless gray sky.
+Arrependimento se espalhou pelo seu peito como um céu cinza sem fim.
+}
+[sha:fbb0f98d46455821fad22cb19569d02969bfeedf]{
+-- Page 19, Offset 66.
+-- "We were too late. Some things cannot be undone."
+"Chegamos tarde demais. Algumas coisas não podem ser desfeitas."
+}
+[sha:25c702baca5ebad5de7560d53cbdb44bcbbc899a]{
+-- Page 20, Offset 67.
+-- Her mind struggled to come to grips what had just occurred.
+Sua mente lutou para poder aceitar o que acabou de acontecer.
+}
+[sha:6bb5222ec062c79a711836312bceb079e6470fc6]{
+-- Page 21, Offset 68.
+-- The last ten minutes were a total blank.
+Os últimos 10 minutos eram um branco total.
+}
+[sha:42493d27b7a998b254e3a422045035c9ecc90bfe]{
+-- Page 21, Offset 69.
+-- Who she met...
+Quem ela encontrou...
+}
+[sha:961dd2ab23dbcc0e6cedad0a222aac890a013dae]{
+-- Page 21, Offset 70.
+-- What she had known... It was all as if it never happened.
+O que ela sabia... Era como se tudo aquilo nunca houvesse acontecido.
+}
+[sha:f9767173dd9bc597e49762ad4eb668be43a9a819]{
+-- Page 21, Offset 71.
+-- The only thing she was sure of was that life, once extinguished, can never return.
+A única coisa que ela tinha certeza era que a vida, assim que extinguida, nunca poderia retornar.
+}
+[sha:614c5889c0ebb485812d4089a266f4567c79fef7]{
+-- Page 21, Offset 72.
+-- "Umm... Is somebody there?"
+"Hmm... Tem alguém aí?"
+}
+[sha:cb7867ffeb1f6824c6ab4254e2db38b774509fb1]{
+-- Page 21, Offset 73.
+-- That day...
+Naquele dia...
+}
+[sha:37d5d3e16c68dee71d161131e7347dd30364ef54]{
+-- Page 21, Offset 74.
+-- It was her mistake that gave birth to me.
+Foi o erro dela que deu nascimento a mim.
+}
+[sha:780193fb7404a087c2920cb0dca016d0c974b293]{
+-- Page 22, Offset 75.
+-- ...Indeed.
+...De fato.
+}
+[sha:c7f4b06a196dbf8b672fbcad11e531b8fe30fd91]{
+-- Page 22, Offset 76. Mods: @n.
+-- Whatever occurred that day,
+O que quer que tenha acontecido naquele dia,
+}
+[sha:7c8200989476c96ece7d8e40f5f2c8eaae48e6a4]{
+-- Page 22, Offset 77. Glued.
+-- it was a day of nostalgia and longing.
+Foi um dia de nostalgia e saudade.
+}
+[sha:bbf9e4db669b4fcd2372ffd918e73395d4b6793b]{
+-- Page 23, Offset 78.
+-- This is the fairy tale of eight years ago.
+Este é o conto de fadas de oito anos atrás.
+}
+[sha:7ffa24108f6c01c8faa8bb8954c546ef796d52be]{
+-- Page 23, Offset 79.
+-- The day they first met, that no magic can ever bring back.
+O dia em que eles primeiro se encontraram, que nenhuma magia pode trazer de volta.
+}

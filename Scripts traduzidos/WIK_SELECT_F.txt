@@ -1,0 +1,20 @@
+[sha:c69f69593b40616b5dc46f047dd2ab0844747c93]{
+-- Page 21, Offset 21550. Mods: @e.
+-- -Decision F-
+-Decisão F-
+}
+[sha:7e54d0aaca0156d0db6584c3d98e57abbf262162]{
+-- Page 21, Offset 24029. Choice.
+-- Something horrible's about to happen.
+Algo horrível está prestes a acontecer.
+}
+[sha:e6cc2a59aa91ec9eade49644349d41fc0b08b3ba]{
+-- Page 21, Offset 24030. Choice.
+-- Something crazy's about to go down.
+Algo louco está prestes a acontecer.
+}
+[sha:97dbba429a3f97c7cf09675c694feb5ef5bbf81d]{
+-- Page 21, Offset 24031. Choice.
+-- I'm glad I was paired with Tsukiji.
+Eu estou feliz que Tsukiji é meu par.
+}

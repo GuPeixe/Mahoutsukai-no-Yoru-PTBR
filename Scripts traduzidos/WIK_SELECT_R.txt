@@ -1,0 +1,15 @@
+[sha:83516500eb492354b37d98ad185433b95a3acd75]{
+-- Page 35, Offset 21774. Mods: @e.
+-- -Decision R-
+-Decisão R-
+}
+[sha:2bed8316c3481543ab70eb9127e0cb2454eb4f74]{
+-- Page 35, Offset 24065. Choice.
+-- I can rest easy now.
+Agora posso ficar tranquila.
+}
+[sha:e71240af30f6a23c332e9a55161d86a5c667048e]{
+-- Page 35, Offset 24066. Choice.
+-- I'm not sure about that.
+Eu não tenho certeza disso.
+}

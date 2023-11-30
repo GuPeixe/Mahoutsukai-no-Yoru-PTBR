@@ -1,0 +1,20 @@
+[sha:47fc75efc35dd37c58def51360a4bc54f338f5e3]{
+-- Page 50, Offset 22324. Mods: @e.
+-- -Decision H-
+-Decisão H-
+}
+[sha:bdaf84c9db48849f529c15076287594c693000aa]{
+-- Page 50, Offset 24035. Choice.
+-- I think we should focus on Tokitsu's death.
+Eu acho que deveriamos focar na morte de Tokitsu.
+}
+[sha:29013d8991f095a8bb3da408c0396cae7274a70a]{
+-- Page 50, Offset 24036. Choice.
+-- It's easy enough to not laugh for one night.
+É fácil o bastante não rir por uma noite.
+}
+[sha:09db53df182281d9c08ed4e2272b5aeb80bfd27d]{
+-- Page 50, Offset 24037. Choice.
+-- ...I should point out we're one person down.
+...Eu deveria mencionar que estamos com uma pessoa a menos.
+}

@@ -1,0 +1,15 @@
+[sha:c12d5383513258615fa68252c81ec5d3fbc46cbe]{
+-- Page 5, Offset 23037. Mods: @e.
+-- -Decision Q-
+-Decisão Q-
+}
+[sha:a8b24c960e9184ea7ca214b671fa0c2973355a98]{
+-- Page 5, Offset 24063. Choice.
+-- I don't see this ending well at all.
+Eu não vejo isso acabando bem.
+}
+[sha:f025442c9c688742f4efb70c5a8e3410458bf53c]{
+-- Page 5, Offset 24064. Choice.
+-- Come to think of it, Beo...
+Parando para pensar, Beo...
+}

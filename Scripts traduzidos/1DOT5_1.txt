@@ -1,0 +1,600 @@
+[sha:5991b4d19b8e7115e49cd3971492f4438d9bdbef]{
+-- Page 0, Offset 1116.
+-- Morning in the city moved incredibly fast.
+A manhã na cidade se passava incrivelmente rápido.
+}
+[sha:8b587432e020e53a4c02a6d97f46e2aa0b3bc242]{
+-- Page 0, Offset 1117.
+-- It made one wonder if it was even a morning at all, with people so bright eyed and bushy tailed.
+Fazia até mesmo com que alguém se perguntasse se era sequer manhã, com todas aquelas pessoas apressadas e com os olhos brilhando.
+}
+[sha:cc8c8ea3b152673fe2dffad8f713542bbeeae86b]{
+-- Page 1, Offset 1118.
+-- "..."
+"..."
+}
+[sha:0e9331ffd34dbee2e4189217078e72900331827b]{
+-- Page 1, Offset 1119.
+-- The unfamiliar roar that awoke him reminded him of a rockslide.
+O estranho barulho que o acordou o lembrou de um desmoronamento.
+}
+[sha:321226ce9be7cc381233af8fa191f7f082fe4d61]{
+-- Page 1, Offset 1120.
+-- The identity of the monstrous sound was the engine of a motorcycle. Mr. Yoshida, his neighbor, was leaving for work.
+A identidade do monstruoso som era o de um motor de uma motocicleta. O Senhor Yoshida, seu vizinho, estava saíndo para o trabalho.
+}
+[sha:3007fadf98a691e352d80edc5c6c869ab02d2d1c]{
+-- Page 1, Offset 1121.
+-- It was hard to determine when night ended and morning began here.
+Era difícil de se dizer quando a noite terminou e a manhã começou.
+}
+[sha:bb012dd91e99f0dd5a3b2aaff189e04e45a6ff0e]{
+-- Page 1, Offset 1122.
+-- The town's urbanization was synonymous with insomnia.
+A urbanização da cidade era um sinônimo de insônia.
+}
+[sha:799477bcba086d697d8f39ae6925988d1e31f2cf]{
+-- Page 2, Offset 1123.
+-- "Already? It's barely sun-up yet... Where could Mr. Yoshida be going so early?"
+"Mas já? O sol acabou de nascer... Pra onde será que o Senhor Yoshida tá indo tão cedo?"
+}
+[sha:b375c3680578eb556d10e9d34e3cc1b909e15868]{
+-- Page 2, Offset 1124.
+-- He sluggishly lifted himself off the floor.
+Ele lentamente se levantou do chão.
+}
+[sha:f6a112210f2467d417f829f0dd712fdddfae8144]{
+-- Page 2, Offset 1125.
+-- He caught himself starting to survey his surroundings out of habit before deciding better of it, and made his way to the washroom.
+Ele, por hábito, começou a checar os arredores, antes de desistir dessa ideia e ir para o banheiro.
+}
+[sha:2520b6421c63afe0c5bd4874fca7085b0a5b7ef0]{
+-- Page 3, Offset 1126.
+-- There, he poured himself a cup of water and slowly gulped it down.
+Lá, ele encheu um copo de água e lentamente a bebeu.
+}
+[sha:ee87c246325e642de9bfd3b7a33f5574187ef75e]{
+-- Page 3, Offset 1127.
+-- Having been relegated to well water until recently, he found the convenience pleasing.
+Tendo sido relegado à água de poço até recentemente, ele achou a conveniência satisfatória.
+}
+[sha:d4b4a098fe9ab18a023efe888223aa160bf60ef7]{
+-- Page 3, Offset 1128.
+-- 'Pleased' was definitely the word that best described how he felt.
+'Satisfeito' certamente era a palavra que melhor descrevia como ele se sentia.
+}
+[sha:da41f42ed67009c94f40554787ee09cb1c78ef6c]{
+-- Page 4, Offset 1129.
+-- Civilization is about erasing inconveniences through optimization.
+A civilazação estava acabando com as incoveniências atráves de otimizações.
+}
+[sha:d4780c44a041ce048a1c38cee1a2a298a59bb22c]{
+-- Page 4, Offset 1130.
+-- The reduction of labor in our daily lives.
+A redução de trabalho em nossas vidas diárias.
+}
+[sha:80dc94a76cdb89b8e9b29d22d613b4c9b2e482d0]{
+-- Page 4, Offset 1131.
+-- Mr. Koga had taught him that while the essentials were easier than ever to get our hands on, life itself was growing more and more complex.
+O Senhor Koga havia o dito que enquanto o que se era essencial era mais fácil do que nunca de se obter, a vida em sí estava ficando a cada dia mais complexa.
+}
+[sha:c82894e38d3bec7387abef784b6c25be638bef2e]{
+-- Page 4, Offset 1132.
+-- So too was it his duty to adjust to his new reality.
+Assim como seu dever de se adaptar a sua nova realidade.
+}
+[sha:39f369f91d54db52f4f19a25381339814d537c74]{
+-- Page 5, Offset 1133.
+-- As a distant relative of Soujyuro's father, Mr. Koga had taken Soujyuro in, even though the boy had been little more than a stranger in his life till that point.
+Por ser um parente distante do pai do Soujyuro, o Senhor Koga o acolheu, mesmo que o garoto não fosse mais que um estranho pra ele até aquele momento.
+}
+[sha:4b7bc00b8afdbb6f6dd6b0cf3a12a301b3f09297]{
+-- Page 5, Offset 1134.
+-- Mr. Koga had helped him get registered at school and find an apartment to lease.
+O Senhor Koga o ajudou a se matricular na escola e arrumar um apartamente para alugar.
+}
+[sha:7221f14a5cd633d3130eba2d891d130b246d459e]{
+-- Page 5, Offset 1135.
+-- Though he had insisted that Soujyuro handle his residence card and register his change of address by himself.
+Apesar de que ele insistiu para que o Soujyuro cuidasse de seu cartão de residência e registrasse sua mudança de endereço por conta própria.
+}
+[sha:564aa7bff6b877415a29e211987657b665f2ddc0]{
+-- Page 6, Offset 1136.
+-- This series of procedures proved exceedingly difficult for Soujyuro, but knowing that this was a part of his new city life, he did his best to complete them diligently.
+Essa série de procedimentos se provaram escessivamente difíceis para o Soujyuro, mas sabendo que isso era parte de sua nova vida na cidade, ele fez o melhor para lidar com elas diligentemente.
+}
+[sha:814013421171811990d3a1ff5aa456adb3951c42]{
+-- Page 6, Offset 1137.
+-- (While they may have a reputation for being a stickler for the rules, city offices aren't all that bad.)
+((Apesar de terem a reputação de serem rígidos com as regras, escrtórios municipais não são tão ruins assim.)
+}
+[sha:73f61e0e87ed97fac458e537e80ee35893a4137f]{
+-- Page 6, Offset 1138.
+-- It was the first thing Soujyuro learned after beginning his life in the city.
+Essa foi a primeira coisa que o Soujyuro aprender após começar sua vida na cidade.
+}
+[sha:ec27179b2abf9e4cc74d7e02d175e6529353c22d]{
+-- Page 7, Offset 1139.
+-- Two weeks had elapsed since he left the countryside.
+Duas semanas já se passaram desde que ele saiu do campo.
+}
+[sha:7ee66adb0dab5016201a6cbd0b5875646fe42764]{
+-- Page 7, Offset 1140.
+-- As uneasy as living alone made him feel, he felt he could make it work.
+Apesar de sentir estranho por viver sozinho, ela sentia que conseguiria viver assim.
+}
+[sha:9442ac8a0534212ded18cf83c0f83313b045df15]{
+-- Page 7, Offset 1141.
+-- It was not as if the people here spoke another language, and Mr. Koga was absolutely right about how practical the rules of the city were.
+Não era como se as pessoas aqui falassem outra lingua, e o Senhor Koga estava absolutamente certo sobre o quão quão práticas eram as regras da cidade.
+}
+[sha:4a6de3c46e3870782dbcc761756025d784b550bf]{
+-- Page 8, Offset 1142.
+-- Soujyuro continued down the hard, but surprisingly walkable path.
+Soujyuro continuou pelo caminho díficil mas andável.
+}
+[sha:a050a2aefa7ad48e9e826d6d0ead6a40906eab6e]{
+-- Page 8, Offset 1143.
+-- Before work, he jogged in the park to pass the time.
+Antes de ir pro trabalho, ele corria pelo parque para matar tempo
+}
+[sha:513bb2778c217d5ba4fbae5c6e1de1a4858e10df]{
+-- Page 8, Offset 1144.
+-- Even exercise like this offered lessons for Soujyuro to learn.
+Até mesmo se exercitar desse jeito ofereciam lições que o Soujyuro poderia aprender.
+}
+[sha:6dc0d3e855dd47c196c110937b3e0321924016d8]{
+-- Page 9, Offset 1145.
+-- Each passing person was a new face to look at.
+Cada pessoa que passava era um rosto novo a se olhar.
+}
+[sha:1f4c87b8efc332cdc5c40bbe31711b134a571196]{
+-- Page 9, Offset 1146.
+-- The old man who greeted him,
+O velho que o cumprimentou,
+}
+[sha:2f2d53d0612f9ad928b51d5b9abfa356e2ab2900]{
+-- Page 9, Offset 1147.
+-- the young worker with his eyes to the ground,
+o trabalhador jovem com os olhos no chão,
+}
+[sha:6380c24a5c26220c9b09e2222400f47fa26ef21d]{
+-- Page 9, Offset 1148.
+-- and the girl on the bench, surrounded by birds...
+e a garota no banco, cercada por pássaros...
+}
+[sha:a80324b262a3fc64c35d0facd9023fcd2e6969f3]{
+-- Page 9, Offset 1149.
+-- They were all unfamiliar sights to Soujyuro.
+Eles eram todos visões famaliares para o Soujyuro.
+}
+[sha:d1ed184986ab83408483f0d5e6fc12dccc50ba8d]{
+-- Page 9, Offset 1150.
+-- Unaccustomed to the city, he labored to understand its rules.
+Não acostumado a cidade, ele trabalhou para entender suas regras
+}
+[sha:5dd71d071d960fafc895b326ff0a7db47f6d8a78]{
+-- Page 10, Offset 1151.
+-- Whether they were complex or simple,
+Sejam elas complexas ou simples,
+}
+[sha:b7a66df7f88088b023d303a90267cd10ba5607dd]{
+-- Page 10, Offset 1152.
+-- or completely meaningless.
+ou completamente sem sentido.
+}
+[sha:39d5a243e4d5eb05554e78abccc5b2871c2f4f03]{
+-- Page 10, Offset 1153.
+-- Compared to mountain life, which only dealt with nature, city life left one with way too many options.
+Comparado a vida na montanha, em que só lidava com a natureza, a vida na cidade o deixava com muitas opções.
+}
+[sha:ea483134c17a9eb7ae72d61a56772731901c2b5b]{
+-- Page 10, Offset 1154.
+-- You could argue that such an environment was toxic for Soujyuro.
+Você poderia argumentar que tal ambiente era tóxico para o Soujyuro.
+}
+[sha:6c8b807890d41fffa6bfa6f3bf9fa0bde3218d81]{
+-- Page 11, Offset 1155.
+-- His life was a string of unsettling moments.
+Sua vida era uma série de momentos desconcertantes.
+}
+[sha:e1dce9f83d5608861ab77fc3af81c1c77ef08d57]{
+-- Page 11, Offset 1156.
+-- But amongst it all, there were rules that he sincerely admired.
+Mas em meio a tudo isso, haviam regras que ele sinceramente admirava.
+}
+[sha:9dc68379cccd89ce49fe676656ac8e23bc179747]{
+-- Page 11, Offset 1157.
+-- For one, that the city revolved around various forms of profit and loss.
+Por um lado, que a cidade girava em torno de várias formas de lucro e perda.
+}
+[sha:5fb7283beb370a15061e4d3281bebefcb9c3642b]{
+-- Page 11, Offset 1158.
+-- The fact that one only needed money to get bare essentials to survive the city was a comforting thought to Soujyuro.
+O fato de que alguém só precisava de dinheiro para conseguir o essencial para sobreviver na cidade era um pensamento reconfortante para o Soujyuro.
+}
+[sha:fb8aa81dcb44398fbdf0f84747d86a58055c4ad9]{
+-- Page 12, Offset 1159.
+-- "Hey, not everything's that simple.
+"Ei, nem tudo é tão simples assim.
+}
+[sha:3451c726cce388414f5fafc6b500fedf77866cef]{
+-- Page 12, Offset 1160.
+-- Money is just a symbol. It's the other stuff that truly matters.
+Dinheiro é só um símbolo, são as outras coisas que realmente importam.
+}
+[sha:735f0f88632e49123fb9fcef79add94c714a8eab]{
+-- Page 12, Offset 1161.
+-- Money ain't that different from those free shoulder massage coupons people hand out, and it's not like the food you buy with a ten-thousand yen bill won't turn out bogus. Look, money can't buy you happiness, like, you know?"
+Dinheiro não é muito diferente dos cupons de massagem grátis que as pessoas dão por aí, e não é como se a comida que você compra com uma nota de dez mil ienes não sejam falsos. Olha, dinheiro não pode te comprar felicidade, sabia?"
+}
+[sha:d836276a7f0cd9dc3114f8eaffece9e2212b0772]{
+-- Page 13, Offset 1162.
+-- "Maybe."
+"Talvez."
+}
+[sha:a281a12f891fab9d722b009b8ba1f7c7d57601bc]{
+-- Page 13, Offset 1163.
+-- "'Maybe'?! Are you for real? Man, I can't believe you right now.
+"'Talvez'?! Tá falando sério? Cara, não dá pra acreditar nisso não.
+}
+[sha:e776cdc21609f13946548a2ce989b95331b51790]{
+-- Page 13, Offset 1164.
+-- One day you're happy to break your back working a full day for a measly four-thousand yen, the next you're elbow-deep in dirty dishes saying, 'It's all about the money.' What's your major malfunction?"
+Num dia você tá feliz por arrebentar as costas trabalhando um dia inteiro por míseros quarenta mil ienes, no outro você tá até o cotovelo afundado em pratos dizendo, 'É tudo sobre dinheiro.', que que tem de errado com você?"
+}
+[sha:f1abf865892f46bcfee2828be425c347d4e96dbc]{
+-- Page 14, Offset 1165.
+-- "No, I think that the current system is kind of amazing. To be honest, I never realized how limited bartering can be.
+"Não, eu acho que o sistema atual é incrivel, pra ser honesto, eu nunca percebi o quão limitada a troca pode ser.
+}
+[sha:68265d98eec12d929d624c9b5c66a97b68f80a2a]{
+-- Page 14, Offset 1166.
+-- Anyway, Kinomi-you're gonna drop that if you aren't careful."
+De qualquer forma, Kinomi-você vai acabar deixando isso cair se não tiver cuidado."
+}
+[sha:457ab1e6441dc44b6c321c1313a98e760f6eb703]{
+-- Page 15, Offset 1167.
+-- "Huh? Crap! Ooh, damn! That was close! If I break any more, it'll be my head next!
+"Hm? Merda! Ooh, cacete! Essa foi quase! Se eu quebrar mais algum, minha cabeça é que vai ser a próxima!
+}
+[sha:e3a1c4947ac69b6e169a3d5e368375a286a529ff]{
+-- Page 15, Offset 1168. Glued. Mods: @x.
+-- Thanks for the save. So...what did you want to talk to me about? It's money, isn't it?"
+Obrigado pela ajuda. Então... sobre o que você queria falar comigo? É sobre dinheiro, né?" 
+}
+[sha:d40770734cdcab8c78fc4aad8113a363f67677f5]{
+-- Page 15, Offset 1169.
+-- "Exactly. I learned my lesson the hard way, but now I know that it's better to have more money than less. That's why I'd like to work even more than I am now."
+Exato, eu aprendi do jeito difícil, mas agora eu sei que, quando o assunto é dinheiro, é melhor ter mais do que ter menos. É por isso que eu quero trabalhar mais do que eu já tô trabalhando agora."
+}
+[sha:7d4ff4e1d46a60be0005a9d4ab6311d601391c9c]{
+-- Page 16, Offset 1170.
+-- "Are you for real? You already wash dishes like a machine.
+"Tá falando sério? Você já lava pratos que nem uma máquina.
+}
+[sha:e8f8a515d93f8626eb03f22bfa8059e06b5fae53]{
+-- Page 16, Offset 1171.
+-- Didn't I just how money can't buy happiness? Love can, but... Back right up. Why's the water so cold? Say, we should probably get paid more for washing dishes in the winter, huh?"
+Eu não acabei de te dizer que dinheiro não pode te comprar felicidade? O amor pode, mas... De volta pra você. Por que a água tá tão fria? Diz aí, a gente provavelmente deveria receber mais por lavar pratos no inverno, hm?"
+}
+[sha:24623fdea2e4913ffb775c8827bbdc9a1ba94353]{
+-- Page 17, Offset 1172.
+-- "It's cold all right, but nothing I can't handle.
+"Realmente, tá frio, mas nada que eu não consiga lidar.
+}
+[sha:2cc91666da227e78d9df95955e917ade0a7d5c9f]{
+-- Page 17, Offset 1173.
+-- Mountain water is so cold it hurts."
+As águas da montanha são tão frias que doí."
+}
+[sha:eb81a97540d68046f75363142c9e0543cc126a88]{
+-- Page 18, Offset 1174.
+-- "Yo, I didn't mean it was ice water, you doofus. That hard head of yours can be real annoying, you know that?
+"Yo, eu não quis dizer água congelante, burrão. Essa cabeça dura sua consegue ser bem irritante as vezes, sabia?
+}
+[sha:b394eefdfb68c88efd78af7663f8d71c2742ed44]{
+-- Page 18, Offset 1175.
+-- For someone who couldn't even work a cash register four days ago, you sure got comfortable workin' for The Man. I guess money really is everything. The power of capitalism ain't nothing to mess with!"
+Pra alguém que não conseguia nem trabalhar num caixa a quatro dias atrás, você concerteza ficou confortável em trabalhando pro Homem. Pelo visto dinheiro é tudo mesmo. Não dá pra mexer com o poder do capitalismo!"
+}
+[sha:ae976e8cf694b0167117b7ff80fab5e47df8903b]{
+-- Page 18, Offset 1176.
+-- "Shut yer pie holes, part-timers! The door's right there if you wanna quit!
+"Calem a boca, meio-períodos! A porta tá bem ali se vocês quiserem sair!
+}
+[sha:e1e59fbeaa608dfd3a83bf39472cf9e9d5475cf7]{
+-- Page 18, Offset 1177.
+-- I don't have the cash to waste on deadbeats!"
+Eu não tenho dinheiro pra ficar gastando com vagabundos!"
+}
+[sha:48a6cd7c59af6bf5689d6f9c9ffc4ba5d40ddd29]{
+-- Page 19, Offset 1178.
+-- The complaints and chopsticks flew at them like a storm.
+As reclamações e hashis voaram até eles como uma tempestade.
+}
+[sha:a761b454bded09727a10143954d33106975342a8]{
+-- Page 19, Offset 1179.
+-- This mess of a Chinese restaurant manager was a stubborn man who was willing to let minors work for him and didn't shy from violence, even if it was directed at the son of a lifelong friend.
+O gerente dessa confusão de restaurante chinês era um homem teimoso que estava disposto a deixar até mesmo menores trabalhar para ele e não tinha vergonha de usar violência, mesmo que fosse direcionada ao filho de seu amigo de longa data.
+}
+[sha:d5d680c952b8527296932dd63d768fd17ecd7e49]{
+-- Page 19, Offset 1180.
+-- Soujyuro felt that this is what Sparta must have been like.
+Soujyuro sentiu que era assim que esparta deve ter sido.
+}
+[sha:1272825c6a4d86bfeaf5d8488a9e972bf58998fd]{
+-- Page 20, Offset 1181.
+-- "Look, he's angry. We need to work harder."
+"Olha , ele tá bravo, a gente tem que trabalhar mais."
+}
+[sha:0876ae671bb353d7e38cb80550d81dade8919da3]{
+-- Page 20, Offset 1182.
+-- "Wow, your nose get any browner yet? Me, I'm tryin' to make the most of my teens.
+"Uau, seu nariz já ficou mais marrom? Quanto a mim, eu tô tentando aproveitar ao máximo da minha adolescência.
+}
+[sha:557a47fca226d6fd7c16d419cbde284d631df04b]{
+-- Page 20, Offset 1183.
+-- Whatever. Right, been meaning to ask...
+Tanto faz. Certo, tava querendo perguntar...
+}
+[sha:c6f818a8d48cad7fff2f26c5f090b18394b1d98c]{
+-- Page 20, Offset 1184.
+-- Are you the type that likes to go out on late-night strolls or more of a bicycle kind of guy? Not that it really matters, but..."
+Você é o tipo de pessoa que gosta de ir pra cominhadas noturnas ou é mais o tipo de cara que gosta de andar de bicicleta?? Não que isso importe, mas..."
+}
+[sha:0644ce3ce0a3e1122fec11d2a74f97623d2c38d1]{
+-- Page 21, Offset 1185.
+-- "Hm? It's always late when I go home after the restaurant, but that's not what you're asking, is it? I'm not really into walking when it's late out. Why do you ask?"
+"Hm? Eu sempre saio do restaurante tarde, mas não é isso que você tá perguntando, né? Eu não sou muito de ficar andando por aí a noite, por que a pergunta?"
+}
+[sha:ac8c5d98fc3994dfa6b40187a15e59ef40263486]{
+-- Page 22, Offset 1186.
+-- "No reason. Like, you just moved here. Kinda weird question, but don't you think the town is dangerous? Not like people are bad or nothing.
+Nada específico. E tipo, você acabou de se mudar pra cá, essa pergunta meio estranha, mas você não acha que a cidade é meio perigosa? Não que as pessoas sejam ruins ou algo assim.
+}
+[sha:32d9b3934b338fdeca92b6a3a4f7136798e78019]{
+-- Page 22, Offset 1187.
+-- But I mean, you know that we get ten attacks like outta a slasher flick every year, right? And since they started there's-"
+Mas você sabe que todos os anos temos cerca de dez ataques tipo os de filmes slasher, certo? E desde que eles começaram, há..."
+}
+[sha:5b65c15eb4d0220ef1c10912870a5df882d83d70]{
+-- Page 22, Offset 1188.
+-- "What's a slasher?"
+"O que é slasher?"
+}
+[sha:a6794126b644c0a3921be2dcea39105f72717765]{
+-- Page 23, Offset 1189.
+-- "You don't know!?
+"Você não sabe!?
+}
+[sha:954e5732938a1276088eeb971dfcf525169564a2]{
+-- Page 23, Offset 1190.
+-- It's like... when a thief snatches someone's purse... No, bad example.
+É que nem quando um ladrão rouba a bolsa de alguém... Não, exemplo ruim.
+}
+[sha:c168d698ffece949796e054b9fc39112361c544a]{
+-- Page 23, Offset 1191. Glued. Mods: @x.
+-- It's more like someone's killing to see if they can get away with it. Buncha dead people in the woods near the suburbs. Real gnarly.
+É mais como se alguém matasse só pra ver se consegue sair impune, várias pessoas mortas na floresta próxima aos subúrbios. Muito bizarro.
+}
+[sha:ced9ae89da0d83e21c04776c91b468761c15f590]{
+-- Page 23, Offset 1192.
+-- That's why you shouldn't go out too late. The park in Misaki Hills is a hot spot for the weird stuff.
+É por isso que você não deve ficar saindo tarde. O parque em Misaki Hills é ótimo lugar pra coias estranhas.
+}
+[sha:4fcd48133a4cbfe71647d10c1bee2f3186e31288]{
+-- Page 23, Offset 1193.
+-- Haven't you heard about how they think the freak doing it is some chick with a sliced mouth?"
+Você não ouviu ninguém falando por aí que eles acham que o esquisitão fazendo isso é uma garota com a boca cortada?"
+}
+[sha:3fba4b1533c27a60e78136b83f32f8bed098cd76]{
+-- Page 24, Offset 1194.
+-- "Nope. This is the first I've heard of a sliced-mouth woman."
+"Nop, essa é a primeira vez que eu ouço sobre uma garota com a boca cortada."
+}
+[sha:5b2945296a511fbfa04f68953a088ff1642226cc]{
+-- Page 24, Offset 1195.
+-- "Like I said, slasher film shit. They say her mouth extends all the way to her ears.
+"Como eu disse, merda de filme slasher. Dizem por aí que a boca dela vai até a orelha.
+}
+[sha:a6252672657e6b90138a8a073c02effb8642f07a]{
+-- Page 24, Offset 1196.
+-- It's a pretty old-school kinda urban legend, these days."
+Nos dias de hoje já é uma lenda urbana bem antiga."
+}
+[sha:52b56ee9a562d2797c46eff1a4971e7fe088e642]{
+-- Page 25, Offset 1197.
+-- "How did it go again? There's a woman in a coat who asks 'Am I beautiful?' in the dead of night.
+"Como era mesmo? Tinha uma mulher de casaco que perguntava 'Eu sou bonita?' no silêncio da noite.
+}
+[sha:99dd63b7e157841e27481dcc444310fe90859831]{
+-- Page 25, Offset 1198.
+-- Even if you say she is, she'll follow you home and kill you.
+Mesmo que você diga que ela é, ela vai te seguir até em casa e te matar.
+}
+[sha:e6dbc0a14668c5571df26dc9a622b2a1f50832dd]{
+-- Page 25, Offset 1199. Glued. Mods: @x.
+-- Intense chicks like that are a no-no. It's like, something you'd see in an American comic book."
+Garotas intensas assim são um nananinanão. É o tipo de coisa que você veria em uma revista em quadrinhos americana."
+}
+[sha:9e74b82039ba6eef0d06edf9a2bf68d3561a9832]{
+-- Page 26, Offset 1200.
+-- "...That sounds really scary.
+"...Isso parece assustador.
+}
+[sha:d1c3be63eb70332bbe1f33f8ca2c97707682f1cd]{
+-- Page 26, Offset 1201.
+-- Does she actually follow you home?"
+Ela realmente te segue até em casa?"
+}
+[sha:ef2bd2ad757ef7156e84a47613ab1edb3552b379]{
+-- Page 26, Offset 1202. Mods: @k, @e.
+-- "They say she crawls in through a window.
+"Dizem por aí que ela se arrasta por uma janela.
+}
+[sha:9d67237f5e33674938998bf8c25de8fcb41abca8]{
+-- Page 26, Offset 1203. Mods: @k, @e.
+-- Squeezes her way in like a cockroa-
+Entra como uma barat-
+}
+[sha:9e1873df38f7c8ee5c35c3a9c7fd08186232698b]{
+-- Page 26, Offset 1204. Glued. Mods: @x.
+-- AAAGH!"
+AAAAAH!"
+}
+[sha:18ed13562e2e752ed04c11a662fbeccb75f0bc4d]{
+-- Page 26, Offset 1205.
+-- "I told you not to utter that word in this kitchen! I'm gonna kill you, you little turd!"
+"Eu te disse pra não dizer essa palavra nessa cozinha! Eu vou te matar seu merdinha!"
+}
+[sha:825cbae0eed5b4e1c450d5ad1cd7d154f9e0183f]{
+-- Page 27, Offset 1206.
+-- The back of Kinomi's head exploded in pain with the impact of his boss's frying pan.
+A parte de trás da cabeça de Kinomi explodiu de dor com o impacto da frigideira do chefe.
+}
+[sha:83ff806c074494b94cfe8e14d3d7c646eaa36511]{
+-- Page 27, Offset 1207.
+-- Soujyuro was reminded of just how dangerous this town could be.
+Soujyuro se lembrou do quão perigosa essa cidade pode ser.
+}
+[sha:5101276363e9bce1d4bbb3c694512cc354789e95]{
+-- Page 28, Offset 1208.
+-- "'I'm gonna kill you, I'm gonna kill you!' Yeah right! I'd like to see him try!
+"'Eu vou te matar, eu vou te matar!' É! Quero ver ele tentar!
+}
+[sha:e5941aea4b7b01d27eccb8ac4923205170af56b2]{
+-- Page 28, Offset 1209. Glued. Mods: @x.
+-- And what kind of boss says that anyway?! This is a restaurant, ain't it!? Well, maybe calling it that is too much!"
+E de qualquer forma, que tipo de chefe diz isso?! Isso é um restaurante, né? Bom, talvez chamar de restaurante seja demais!"
+}
+[sha:76add96f9d9a5ba63e605ef99a1f2a0b938448e9]{
+-- Page 28, Offset 1210.
+-- "Is your head okay, Kinomi?"
+"Sua cabeça tá bem, Kinomi?"
+}
+[sha:e2df8cdb2f907aa62c86ca9f2fcf531b7c16f913]{
+-- Page 29, Offset 1211.
+-- "Huh? Ah, it's nothing. People tell me I'm real tough. Especially my head.
+"Hm? Ah, não é nada, as pessoas dizem que eu sou durão, especialmente minha cabeça.
+}
+[sha:f4dfcfce707cc456fc47e36cc6b0a5825b7bd972]{
+-- Page 29, Offset 1212.
+-- Anyway, avoid the dark, okay? You look like a sitting duck."
+De qualquer forma, evite o escuro, ok? Você parece um alvo fácil".
+}
+[sha:667faecd1c353b51685651ad5f4fc5f065f369be]{
+-- Page 29, Offset 1213.
+-- "Thanks.
+"Obrigado.
+}
+[sha:4e27c86f4cc9c1083321744c079b89514d5782b8]{
+-- Page 29, Offset 1214.
+-- By the way, is ten victims per year a lot?"
+A próposito, dez vitimas por ano é muito?"
+}
+[sha:534e29ed6dd297aafe885eaecba4d835b419ff21]{
+-- Page 30, Offset 1215.
+-- "Don't know. It probably isn't a lot, but it totally ain't a few either.
+"Não sei, provavelmente não é muito, mas concerteza não é pouco.
+}
+[sha:dd868acb9150bef083324e9e161ddb59b675762e]{
+-- Page 30, Offset 1216.
+-- The real scary shit is that they're still out there, somewhere, since they haven't been caught!
+A parada realmente assustadora é que eles ainda tão por aí, em algum lugar, já que eles não foram pegos!"
+}
+[sha:4e71e4e7562222662e172f2f97d0370271ad310a]{
+-- Page 31, Offset 1217.
+-- He laughed cheerfully.
+Ele riu alegremente.
+}
+[sha:d63026b0bb45bf9fb3d842de5f0bd24db3ded980]{
+-- Page 31, Offset 1218.
+-- Kinomi was probably trying to take the edge off of his story, but the noble intention of his laugh was completely lost on Soujyuro.
+O Konomi provavelmente estava tentando tirar o peso de sua história, mas a nobre intenção de seu sorriso foi completamente perdida com o Soujyuro. 
+}
+[sha:ea79b61d2104bcdead45ee0c5d94619c4651b5ab]{
+-- Page 31, Offset 1219.
+-- His friendly warning was equally futile.
+Seu aviso amigável foi igualmente inútil.
+}
+[sha:486de5887716a1f09722371a09785cab95ae5935]{
+-- Page 31, Offset 1220.
+-- Soujyuro was simply impressed that Kinomi was able to laugh it off.
+O Soujyuro estava simplesmente impressionado que o Kinomi fosse capaz de rir daquilo.
+}
+[sha:5bc23aed7b66f0fcda6cff4c0c0609706eba80d0]{
+-- Page 32, Offset 1221.
+-- On the way home...
+No caminho pra casa...
+}
+[sha:445b9f501c8f6ef01c5953b5000a744895a11a6f]{
+-- Page 32, Offset 1222.
+-- Nobody ahead or behind. Soujyuro proceeded through the dimly lit street when suddenly...
+Ninguém na frente ou atrás, Soujyuro procedeu pela rua mal iluminada quando de repente...
+}
+[sha:2652905e83c07f030b7a1d49a3b17d8fa4628cd8]{
+-- Page 32, Offset 1223.
+-- "...?"
+"...?"
+}
+[sha:5f96abd4ce7a11e62e34c4bb4b267221d2d6c68e]{
+-- Page 32, Offset 1224.
+-- He turned to face an... improbable sound.
+Ele virou para encarar um som... improvável.
+}
+[sha:0d6fe43f1602204955efc795b28a183a41b51863]{
+-- Page 33, Offset 1225.
+-- "...Ouch!"
+"...Aí!"
+}
+[sha:a451490ef9267863fae579ff2c20f3f1c2093a37]{
+-- Page 33, Offset 1226.
+-- Something stabbed him in the head, and fell to the floor.
+Algo bateu na cabeça dele e caiu no chão.
+}
+[sha:ec0e33261a842d5c66864d69db52e6ccc495945c]{
+-- Page 33, Offset 1227.
+-- He frowned.
+Ele franziu a testa.
+}
+[sha:5112f2afdce2b03674357b87f77b1e4738b9e1f7]{
+-- Page 33, Offset 1228.
+-- A small bird had apparently flown into the telephone pole before landing on his head.
+ Aparentemente, um pequeno pássaro havia voado contra o poste telefônico antes de pousar em sua cabeça.
+}
+[sha:cffc8497a6b8d506d05a4d871cd4a51bae658194]{
+-- Page 34, Offset 1229.
+-- The starling cleaned itself off and flew away.
+O estorninho se limpou e voou.
+}
+[sha:c2be0e942362b99000b29e48756f9584c07b0b86]{
+-- Page 34, Offset 1230.
+-- The falling of the bird
+A queda de um pássaro
+}
+[sha:d852833adb34f8fbe2dec07dc51ca2e43f053359]{
+-- Page 34, Offset 1231.
+-- and its desperate escape thereafter
+e sua fuga desesperada depois disso
+}
+[sha:c1c3a5958750164271c89193dec7167b5de4ff6a]{
+-- Page 34, Offset 1232.
+-- was unlike anything he had experienced in his life up to now.
+foi diferente de qualquer coisa que ele tenha experienciado na vida até agora.
+}
+[sha:1ed8e0808a4dfe2b0392a452cbc99a772689ab4f]{
+-- Page 35, Offset 1233.
+-- Most of the townsfolk would have seen the incident as unlucky, ominous, or even sinister, but Soujyuro just nodded and went about his business.
+A maioria das pessoas da cidade teriam visto o incidente como algo de desafortunado, ameaçador ou até mesmo sinistro, mas o Soujyuro só acenou e seguiu em frente.
+}
+[sha:0be7dc60c6836249c279499f91cc32ae08b5755b]{
+-- Page 35, Offset 1234.
+-- You understand...
+Você entende...
+}
+[sha:3146eb232c7df36f47a1acdb8f139ba497a9cd35]{
+-- Page 35, Offset 1235.
+-- What might have been a first for him was surely an everyday occurrence for these city folk.
+O que pode ter sido uma primeira vez para ele concerteza era uma ocorrência cotidiana para essas pessoas da cidade.
+}

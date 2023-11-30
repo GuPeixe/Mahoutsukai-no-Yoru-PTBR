@@ -1,0 +1,505 @@
+[sha:cb7cc10e3dcb4f325864f12cc77c50e36c2e3849]{
+-- Page 0, Offset 1236.
+-- "I'm home! Alice, you here yet?
+"Estou em casa! Alice, você já chegou?
+}
+[sha:99aab9fe954dd6a4485f976bf4600528c05ac0f0]{
+-- Page 0, Offset 1237.
+-- I got some stuff from the arcade while on the way home from church!
+Eu peguei algumas coisas no fliperama enquanto vinha pra casa da igreja!
+}
+[sha:a2d923f1a416280ae7286ae89cf4cc6f402e935d]{
+-- Page 0, Offset 1238.
+-- They're Iseya rice crackers, you wanna share some?"
+São biscoitos de arroz Iseya, quer alguns?"
+}
+[sha:09c72681bc8da83e9cdeed3495b1a32bd442336f]{
+-- Page 1, Offset 1239.
+-- Her voice reverberated through the foyer dyed in the colors of the setting sun.
+Sua voz reverberou atráves do vestíbulo tingido pelas cores do sol poente.
+}
+[sha:9bb6072bf43ced7eed98251bddc3b03fb31de3fb]{
+-- Page 1, Offset 1240.
+-- It was after five in the afternoon when Aoko, still in her school uniform, cheerfully returned home.
+Já era cinco da tarde quando a Aoko, ainda em seu uniforme escolar, alegremente voltou pra casa.
+}
+[sha:9be8d8dd05484ee7f953c2dd0bf0753ec17bdd3e]{
+-- Page 1, Offset 1241.
+-- She had finished her student council duties and attended her monthly meeting with the church.
+Ela havia finalizado seus deveres no conselho estudantil e participou de sua reunião mensal com a igreja.
+}
+[sha:4f297995a7423de1bcc93dc6d6f6a38f316a3c86]{
+-- Page 2, Offset 1242.
+-- "...Welcome back.
+"...Bem-vinda de volta.
+}
+[sha:b3ce93154c143195c5a65a16bd202d57bcff90ae]{
+-- Page 2, Offset 1243.
+-- I see that the meeting went as planned."
+Vejo que a reunião ocorreu como planejado."
+}
+[sha:02bd014a9fdd5b0b7463c00aced43b54d5e6a561]{
+-- Page 2, Offset 1244.
+-- The voice was coming from the second floor.
+A voz estava vindo do segundo andar.
+}
+[sha:ed331ae7fe8b731c959bfe33279c8f1abc65cbf4]{
+-- Page 2, Offset 1245.
+-- In contrast with Aoko and her boundless energy, a considerably calmer girl descended from above.
+Em contraste a Aoko e sua energia sem fim, uma garota consideravelmente mais calma desceu pelas escadas.
+}
+[sha:3816ad7ff409b03721034baa71485c4c49529eb1]{
+-- Page 3, Offset 1246.
+-- "There were some complaints but all in all it went well.
+"Houve algumas reclamações mas ocorreu tudo bem.
+}
+[sha:896741692337cb0007884456974d51e90680f0dd]{
+-- Page 3, Offset 1247.
+-- Our problems are ours alone, so I decided not to get them involved. You okay with that, Alice?"
+Nossos problemas são só nossos, então eu decidi não envolve-los. Tudo bem pra você, Alice?"
+}
+[sha:09c0016688656f67b183cf276cfff083ef5cb97a]{
+-- Page 3, Offset 1248.
+-- "...Yes. I'd ask for their help in a pinch, but they can't be trusted. We'll call on them to clean up the mess, as usual."
+"...Sim. Eu pediria pela ajuda deles em uma emergência, mas não dá pra confiar neles. Vamos chama-los pra limpar a bagunça, como sempre."
+}
+[sha:07981dc78a0e97921dc9eeb9bafb443dfbae6e8a]{
+-- Page 4, Offset 1249.
+-- "Agreed. No one likes to have to keep looking over their shoulder. We can't fully commit to this if we're worried about what's going on elsewhere."
+"Concordo, ninguém gosta de ter que ficar olhando por cima do ombro. Nós não vamos conseguir nos comprometer totalmente a isso se tivermos que nos preocupar com outra coisa."
+}
+[sha:8154f78f14e900d03539e8ede8cf3534ae19ef7f]{
+-- Page 4, Offset 1250.
+-- "...Well, I can, but...
+"...Bem, eu consigo, mas...
+}
+[sha:f2d2f594fa3503a4c8923faa8a13b72d21087ef1]{
+-- Page 4, Offset 1251.
+-- You don't have time for that, do you, Aoko?"
+Você não tem tempo pra isso, não é, Aoko?"
+}
+[sha:b31665cc4becd04b57824716b71dd8b4416f10a4]{
+-- Page 4, Offset 1252.
+-- "Hmph."
+"Hmph."
+}
+[sha:920dcafd501a23a544c3f36342bd79682ce3f25d]{
+-- Page 5, Offset 1253.
+-- Tap, tap.
+Tap, tap.
+}
+[sha:a3322bf57ba2a48d447697b23971d60e4058a6fd]{
+-- Page 5, Offset 1254.
+-- With the graceful sounds of her steps, Alice entered the foyer.
+Com o som gracioso de seus passos, Alice entrou no vestíbulo.
+}
+[sha:af57b5c80684ddcc30f62015679041dd4a7d7faf]{
+-- Page 5, Offset 1255.
+-- ...As she did, Aoko's eyes were directed toward the skylight above.
+...Enquanto o fazia, os olhos da Aoko estavam direcionados à clarabóia acima.
+}
+[sha:94117d1538a97d28bb4492e5419a85bb182ad7ad]{
+-- Page 6, Offset 1256.
+-- "The glass is kind of dirty."
+"Aquele vidro tá bem sujo."
+}
+[sha:1d36485b11e76edc0d46ff03a77ac5e1b40130d8]{
+-- Page 6, Offset 1257.
+-- "I wanted to discuss that. After today's business is concluded, that is.
+"Eu queria discutir isso. Isto é, depois que os assuntos de hoje forem concluídos.
+}
+[sha:2e5499d229592a4e13c8c5a25bc023b19685d280]{
+-- Page 6, Offset 1258.
+-- ...Are you feeling okay, Aoko? You can rest if you're not."
+...Você está se sentindo bem, Aoko? Você pode descansar se quiser."
+}
+[sha:ab5a56bd69215dd9f778f317a4888469e5ace3a6]{
+-- Page 6, Offset 1259.
+-- "Huh? Oh, don't be such a nag. I'm not stressed or anything. Today was pretty normal. Do I look that tired?"
+"Hm? Oh, não seja tão chata. Eu não estou estressada nem nada do tipo. Hoje foi bem normal, eu pareço cansada?"
+}
+[sha:e869ca28fdf834ce7c753995c6cb7ed24ea05bcf]{
+-- Page 7, Offset 1260.
+-- As school activities went, today's were a breeze.
+Quanto às atividades escolares, as de hoje foram tranquilas.
+}
+[sha:1400b04717efd8e63a60159fe6c2925b9dd1bc80]{
+-- Page 7, Offset 1261.
+-- At a glance, her school life might have seemed almost idyllic.
+A primeira vista, sua vida escolar poderia parecer quase paradisíaca.
+}
+[sha:64001ba2a02dd31d90c9c369019824e9b3dbfe82]{
+-- Page 7, Offset 1262.
+-- Though the more she thought about it, some headache-inducing incidents may have stood out here and there.
+Entretanto, quanto mais ela parava pra pensar, alguns incidentes que davam dor de cabeça apareciam aqui e ali.
+}
+[sha:ff6263b8863e2932d31b85659882b0dcd0b05e3f]{
+-- Page 7, Offset 1263.
+-- And with some sincere introspection, Aoko might have recognized the signs of her own mental fatigue, but doing so would have further added to her stress.
+E com um pouco de introspecção sincera, a Aoko poderia reconhecer alguns sinais de sua própria fadíga mental, mas fazer tal só teria aumentado seu stress.
+}
+[sha:d8333cc0c83fc76a2f8a61ada56ac5ce3abb36bc]{
+-- Page 8, Offset 1264.
+-- "Okay, enough about that. I didn't come home just to stress out over school.
+"Ok, já chega disso, eu não vim pra casa só pra me estressar com a escola.
+}
+[sha:474056fcce678d81b7273980fbc89b98bb118b89]{
+-- Page 8, Offset 1265.
+-- What were we learning about today...? Mesmerize basics, right? 'Wish'?
+O que nós estavamos aprendendo hoje mesmo...? Fundamentos da hipnotização, né? 'Wish'?
+}
+[sha:b37078e825545b3cead7cb4dfea119a126620baa]{
+-- Page 8, Offset 1266.
+-- Then let's get started. I feel like I could master anything today."
+Então vamos começar. Eu sinto que possa dominar tudo hoje."
+}
+[sha:7735fb0792928c8ae45362cf3483b3445b05d78e]{
+-- Page 8, Offset 1267.
+-- Aoko focused on shedding her anger and stress,
+A Aoko focou em eliminar sua raiva e stress,
+}
+[sha:a1c2fdf3a05dc032c3c409f3497827ad07ffa317]{
+-- Page 9, Offset 1268.
+-- and headed upstairs with gusto.
+e subiu as escadas com gosto.
+}
+[sha:ea3b04c7f3aef56be2ac929fc2b67aa069c01727]{
+-- Page 9, Offset 1269.
+-- "Aren't you coming? I thought we were going to do it in your room, Alice?"
+"Você não vai vir? Eu pensei que a gente fosse fazer no seu quarto, Alice?"
+}
+[sha:cc8c8ea3b152673fe2dffad8f713542bbeeae86b]{
+-- Page 9, Offset 1270.
+-- "..."
+"..."
+}
+[sha:bffcedb6f818c719c2dff102bbe21f79221c7270]{
+-- Page 9, Offset 1271.
+-- The formally dressed Alice nodded in slight dissatisfaction.
+A Alice, vestida formalmente, assentiu com uma leve insatisfação.
+}
+[sha:ec482b55f959ae1028a33455c9b95851b3d694a5]{
+-- Page 9, Offset 1272.
+-- "Are we going to eat those Iseya rice crackers today, or...?"
+"A gente vai comer aqueles biscoitos de arroz Iseya hoje, ou...?"
+}
+[sha:2a2d812ada4631b2ed7d2059fa82d02e1e6bd9fb]{
+-- Page 9, Offset 1273.
+-- She looked at the freshly baked treats Aoko was holding.
+Ela olhou para as gostosuras recém-assadas que a Aoko estava segurando.
+}
+[sha:e3f3039782bab1d8a57105aa5612b454b5a482a5]{
+-- Page 10, Offset 1274.
+-- In the end, their lesson took place after Alice had her cup of tea.
+No fim, a lição começou depois da Alice ter tomado sua xícara de chá.
+}
+[sha:da473553c0b72ac120df7821cdbb6278eb7dfae2]{
+-- Page 10, Offset 1275.
+-- For an apprentice like Aoko, Alice Kuonji was the kind of roommate and teacher that was hard to come by.
+Para uma aprendiz como a Aoko, Alice Kuonji era o tipo de colega de quarto e professora que era difícil de se encontrar.
+}
+[sha:37859437f00763ef8cd8a5e07b1d75aae28e0046]{
+-- Page 10, Offset 1276.
+-- If she insisted that Aoko rest to preserve her health, Aoko had no choice but to comply.
+Se ela tivesse insistido para que a Aoko descansasse e preservasse sua saúde, ela não ia ter a escolha a não ser concordar.
+}
+[sha:81121f2aeb4feda8710d7c75fb988423ff7f0afa]{
+-- Page 11, Offset 1277.
+-- The lesson was over after two hours, so the two finished the dinner they had prepared and decided on a change of venue for where they would spend the last hours of the day.
+A lição havia terminado depois de duas horas, então as duas finalizaram o jantar que haviam preparado e decidiram em uma mudança de local para onde passariam as últimas horas do dia.
+}
+[sha:4903f8c0fe0b060241be946ef088d25bec115c32]{
+-- Page 12, Offset 1278.
+-- The sunroom was next to the drawing room in the east wing of the residence and offered a view of the beautiful grounds.
+O solário era próximo à sala de estar na ala leste da residência e oferecia uma vista dos belos jardins.
+}
+[sha:8c4403f8dc834638f73b9c6898863b4b189762bc]{
+-- Page 12, Offset 1279.
+-- The proud Kuonji estate's luxurious sunroom featured furnishings on par with those in the splendid drawing room. Meanwhile...
+O luxuoso solário da orgulhasa propriedade Kuonji possuía mobílias a par com aquelas na esplêndida sala de estar. Enquanto isso....
+}
+[sha:bfbc47dbdbb7ae2d03d43f93aab4a9b64e7847f7]{
+-- Page 13, Offset 1280.
+-- "It's going to be a jungle come next year's summer."
+"Isso aqui vai virar uma selva no verão do próximo ano."
+}
+[sha:d84043e2c7fdb0df49325360b6e695603668df2e]{
+-- Page 13, Offset 1281.
+-- The grounds outside had fallen into disrepair, neglected by the owner.
+Os jardins estavam em um estado de ruína devido a negligência da dona.
+}
+[sha:97734cc9a096c2826b4a9452a6bf7eda70628b0e]{
+-- Page 14, Offset 1282.
+-- "Don't you have any landscaping Ploys lying around, Alice?"
+"você não tem nenhum Ploy de jardinagem por aí não, Alice?"
+}
+[sha:2469040bbdc8fc712194e8d3010bd1f516631fc2]{
+-- Page 14, Offset 1283.
+-- Aoko took a step into the sunroom and poured some tea.
+A Aoko entrou no solário e se serviu um pouco de chá.
+}
+[sha:a653386ab1b1ab285f5694ecdbf6368dac4b28f9]{
+-- Page 15, Offset 1284.
+-- "I'm sure I could find one, but it would take some effort."
+"Eu certamente poderia achar um, mas seria meio trabalhoso."
+}
+[sha:631f1ea28403887f694123acb50cb1db415cb432]{
+-- Page 15, Offset 1285.
+-- Playing along with her roommate's joke, Alice made to sit in her chair,
+Brincando junto com sua colega de quarto, Alice se sentou em sua cadeira,
+}
+[sha:18b317ea464fba4ff01a67cda4c1d50f18b95cad]{
+-- Page 15, Offset 1286.
+-- just as she caught sight of the box of chocolates on the table. Her lovely eyes narrowed in a frown.
+quando ela viu uma caixa de chocolates em cima da mesa. Seus belos olhos se estreitaram em uma careta.
+}
+[sha:b9ad91a5ac6702f8be96ebef4107e94ebd462c48]{
+-- Page 16, Offset 1287.
+-- "D-Don't be like that. Today's screw-up was half your fault, you know?
+"N-Não seja assim. Metade das coisas que deram errado hoje foi culpa sua, sabia?
+}
+[sha:4e96e53fca42852b5987f9e319816c4be5029870]{
+-- Page 16, Offset 1288. Glued. Mods: @x.
+-- Maybe the rice crackers threw us off our game, or maybe it was me being too aggressive that turned that Wish into a Gandr, but still..."
+Talvez os biscoitos de arroz Iseya nos tenha desconcentrado, ou talvez eu tenha sido tão agressiva que acabei transformando aquele Wish num Gandr, mas ainda assim..."
+}
+[sha:7048f0d87eecc69024abff4199914ca1014294fd]{
+-- Page 16, Offset 1289.
+-- "We're down six pieces."
+"Nós estamos com seis chocolates a menos."
+}
+[sha:f1665eba76e0ab848bcb61c22c7866d1e20608b9]{
+-- Page 16, Offset 1290.
+-- "We are? Wait, that's what you're upset about?"
+"Nós estamos? Espera, era por isso que você tava tão irritada?"
+}
+[sha:64d8e06fb44fc885d057e7ba4d86ca2d3ce39445]{
+-- Page 17, Offset 1291.
+-- Aoko's eyes stared intently at the box of chocolates.
+Os olhos da Aoko focaram intensamente na caixa de chocolates.
+}
+[sha:4a40d4c7177d5b89089b3a781d10ce595ff965bc]{
+-- Page 17, Offset 1292.
+-- You could search the world and never find a finer selection of chocolates.
+Você poderia procurar pelo mundo todo e nunca achar uma seleção mais fina de chocolates.
+}
+[sha:f9236ed0c77d2f6994217f92e03bfcc2fb474b49]{
+-- Page 17, Offset 1293.
+-- The brand was Sixpence Songs, apparently.
+A marca era Sixpence Songs, aparentemente.
+}
+[sha:1fe9658b93caad6b9a054bb05108aad2df64d533]{
+-- Page 18, Offset 1294.
+-- "So, what was it about the mirror you wanted to talk about?
+"Então, que que era sobre o espelho que você queria falar sobre?
+}
+[sha:effe4d0713a6400762e40146531764074bbcb89c]{
+-- Page 18, Offset 1295. Glued. Mods: @x.
+-- It's still in Misaki-mode, right? Not Mansion-mode?"
+Ainda tá no modo Misaki, né? Não modo Mansão?"
+}
+[sha:b9052bd290fed13b47877fb228683a143f617bd4]{
+-- Page 18, Offset 1296.
+-- "Yes. The mansion can take care of itself for the time being, so I changed its target to Misaki City. ...Things have been cloudy there since yesterday.
+"Sim, a mansão pode tomar de conta de si no momento, então eu mudei o alvo pra cidade de Misaki. ...As coisas estão meio turvas lá desde ontem.
+}
+[sha:43b31eb9963eaaf27ea9ae4b9f9b7526bfdb958e]{
+-- Page 18, Offset 1297.
+-- Now I know for certain that with each passing day, the forces arrayed against us grow."
+Agora eu sei que com cada dia que se passa, as forças contra nós crescem."
+}
+[sha:879d7bc68bc838511fbd5a105f359f73cf3ae804]{
+-- Page 19, Offset 1298.
+-- "You mean there's more of those things?"
+"Quer dizer que tem mais daquelas coisas?"
+}
+[sha:ee30bed3b16fa5ce643e7f9f220889554a7344da]{
+-- Page 19, Offset 1299.
+-- "There's the one who was captured, and I've witnessed two other suspicious types. One in the city and one in the woods outside of town."
+"Tem a que foi capturada, e eu testemunhei outros dois tipos suspeitos. Um na cidade e outro nas florestas fora da cidade."
+}
+[sha:9627c7e30272a95e7c4b39d4648ecf2e468b5763]{
+-- Page 20, Offset 1300.
+-- "Ugh. Is it too much to ask that you could be wrong, just this once?
+"Ugh, é pedir demais que você esteja errada só dessa vez?
+}
+[sha:f9d5e2ff50d0530ea63c3c2e062551756f24f857]{
+-- Page 20, Offset 1301.
+-- Which one is causing the biggest ruckus?"
+Qual das duas tá causando a maior tulmuto?"
+}
+[sha:2ccb654e564ca07629635b72cffa4290cba866a6]{
+-- Page 20, Offset 1302.
+-- "...The one in the woods. I'm getting close to capturing it, but it knows it's being watched. It's not taking the bait."
+"...O que está nas florestas. Eu estou quase capturando ele, mas ele sabe que está sendo vigiado. Não está mordendo a isca."
+}
+[sha:4441c0dcd4c5b9ebc94f2cbba6e4eaf004d5e6b5]{
+-- Page 20, Offset 1303.
+-- "I see...
+"Entendo...
+}
+[sha:639f68968365adb7f1121b93f12ad9b332cce81c]{
+-- Page 20, Offset 1304. Glued. Mods: @x.
+-- You wanna go after it tonight?"
+Quer ir atrás dele hoje a noite?"
+}
+[sha:301a4fbaa2d061b8f1720352f3ce8b25a9a17386]{
+-- Page 21, Offset 1305.
+-- To go after it tonight...
+Ir atrás dele hoje a noita...
+}
+[sha:6ba897ab954ff0e627ee6a6efc9f8ff2dab0f16d]{
+-- Page 21, Offset 1306.
+-- One simple suggestion that would change the course of her life forever.
+Uma simples sugestão que iria mudar o curso da vida dela para sempre.
+}
+[sha:274214c61c7165c0083ae374b46cc65b17ae3622]{
+-- Page 21, Offset 1307.
+-- It was no overstatement to say that this was a roll of the dice that would decide whether she had the moxie to survive the experience of jumping out of a plane with a torn parachute.
+Não era exagero dizer que esse era um lance de dados que decidiria se ela teria a garra necessária para sobreviver à experiência de pular de um avião com um paraquedas rasgado.
+}
+[sha:0a722c35c8f224b9dead4ff4384dde56a1c077a2]{
+-- Page 22, Offset 1308.
+-- Aoko swallowed her hesitation and fear with a little tea.
+A Aoko enguliu sua hesitação e medo com um pouco de chá.
+}
+[sha:842f6ab35e0f096bfd2bb4bef451b3cd7160c980]{
+-- Page 22, Offset 1309.
+-- On the school's anniversary night, she declared that she had made up her mind, and from that time on, she would not waver.
+Na noite do aniversário da escola, ela declarou que havia se decidido e, daquele momento em diante, não hesitaria mais.
+}
+[sha:3d9bcdb655176b39aa4165a56ac76b3f06b3b7e0]{
+-- Page 22, Offset 1310.
+-- Alice welcomed her roommate's strength with the barest hint of regret.
+A Alice deu boas-vindas a força de sua colega com um mínimo de arrependimento.
+}
+[sha:cc8c8ea3b152673fe2dffad8f713542bbeeae86b]{
+-- Page 23, Offset 1311.
+-- "..."
+"..."
+}
+[sha:73819b3a27f540fb7854f643b1b29463608e4bbd]{
+-- Page 23, Offset 1312.
+-- As someone who shared the same motivations as her, Alice was ultimately reassured by Aoko's resolve.
+Como alguém que compartilhava das mesmas motivações dela, Alice ficou aliviada com a determinação da Aoko
+}
+[sha:2d9eb21b20152a0dd059311f270ba801cb56b0e9]{
+-- Page 23, Offset 1313.
+-- Well, perhaps more pleased than reassured.
+Bom, talvez mais satifeita do que aliviada.
+}
+[sha:16828c9bc30dfa0935567b39564fa512889fc9c2]{
+-- Page 23, Offset 1314.
+-- All in all it had taken the better part of a year, but finally Aoko had stepped out of Alice's shadow.
+No total, levou quase um ano, mas a Aoko finalmente havia saído da sombra da Alice.
+}
+[sha:9a4189639fad9dc6a2c859a81ae703fcc5353f80]{
+-- Page 24, Offset 1315.
+-- The two partners now shared the same fate.
+As duas parceiras agora compartilhavam do mesmo destino.
+}
+[sha:8f9818381a4e1544909d6d881b8a17d4489008f2]{
+-- Page 24, Offset 1316.
+-- Aoko was not the partner Alice had asked for, but a partner nonetheless.
+A Aoko não era a parceira que a Alice havia pedido mas, mesmo assim, uma parceiro.
+}
+[sha:0f127cf1f20b697d8fb74dd0a09de0acc6bebd16]{
+-- Page 24, Offset 1317.
+-- Strangers, worlds apart.
+Estranhas, mundos à parte.
+}
+[sha:2f2f7f370a0001f939787dab9c06144cf8fb1079]{
+-- Page 24, Offset 1318.
+-- And even if eventually they would battle each other to the death using all they had inherited, it was only right they did it on equal terms.
+Mas mesmo que elas enventualmente fossem lutar uma contra a outra até a morte usando tudo que haviam herdado, era correto que o fizessem em condições iguais.
+}
+[sha:1bb98c0b849c22eb5668af62eb8af54f839d9114]{
+-- Page 24, Offset 1319.
+-- It was, at least for now, a cause for celebration over how far Aoko had come.
+Era, pelo menos por agora, uma causa de celebração o quão longe a Aoko havia chegado.
+}
+[sha:be43054294ef8b74e26f986b61ff770345e2ef81]{
+-- Page 25, Offset 1320.
+-- "...Generous, but I'll be fine on my own tonight.
+"...Generosa, mas eu vou ficar bem por conta própria hoje a noite.
+}
+[sha:acd572c9617240548d0acbc28f0f28e5939ce438]{
+-- Page 25, Offset 1321.
+-- The time would be better spent practicing Mesmerize a little more. The park is under your jurisdiction, so I'll put you to work when the time comes."
+O tempo vai ser melhor gasto com você praticando Hipnotização mais um pouco. O parque está sobre sua jurisdição, então eu vou te botar pra trabalhar quando a hora chegar."
+}
+[sha:7a05c246174d8326bb90ac28fa54c26f2d8e8ed5]{
+-- Page 26, Offset 1322.
+-- Alice did not so much as look at Aoko as she explained her reasons.
+A Alice nem sequer olhou para a Aoko enquanto explicava suas razões.
+}
+[sha:5a0690cefddf752ad29e378ffda8b49ddc001ff5]{
+-- Page 26, Offset 1323.
+-- The scale of the enemy she would face that night...
+O nível do inimigo que ela enfrentaria naquela noite...
+}
+[sha:78186acade3d2143825a1e3c1b8d91c1b25edaea]{
+-- Page 26, Offset 1324.
+-- Her plans for Aoko...
+Seus planos para a Aoko...
+}
+[sha:42aaad8187fbb37d6dd81bfc87f018657d1d176c]{
+-- Page 26, Offset 1325.
+-- For in only two days from now Aoko Aozaki would be reborn.
+Pois, em apenas dois dias, Aoko Aozaki renasceria.
+}
+[sha:c2649d12a9a8c95caafc012e35be22cc14ea1733]{
+-- Page 27, Offset 1326.
+-- "Fine. Whatever you say."
+"Certo. Como você quiser."
+}
+[sha:9bf85fa7fdd55c19c2f56918afc038ddf4ca6842]{
+-- Page 27, Offset 1327.
+-- Aoko finished her tea and stood up from her seat.
+A Aoko terminou seu chá e se levantou de sua cadeira.
+}
+[sha:4c4fd03f8d82b0b8b1d279c693ef5d4698d6ac96]{
+-- Page 28, Offset 1328.
+-- "I guess I'm practicing, then.
+"Eu acho que vou praticar, então.
+}
+[sha:5935d2ff9065a6e35620a7e2184ae799368c0572]{
+-- Page 28, Offset 1329.
+-- Uhm, how did the first part go again? 'Be light and frail, nimble and fast. Tick-tock, tick-tock, there's no time to waste.' That right?"
+Hmm, como era a primeira parte mesmo? 'Seja leve e frágil, ágil e veloz. Tick-tock, tick-tock, não há tempo a perder.' Era isso?
+}
+[sha:2fe0e510bb44753c92d3a47707c879fb4f5334e2]{
+-- Page 28, Offset 1330.
+-- "Ugh, no. You're missing the quiet part. Remember, 'the weight of the air, the tremble of one's breast. Light lags behind while shadows pull ahead.'
+"Ugh, não. Você  está esquecendo a parte do silêncio. Lembre-se: "o peso do ar, o tremor do peito. A luz fica para trás enquanto as sombras se adiantam".
+}
+[sha:7f0894f7a5f0743c4fc8d485099938ac1294bd37]{
+-- Page 28, Offset 1331.
+-- Be careful. Or you may find yourself in a state of unease."
+Tome cuidado. ou você poderá acabar em um estado de desconforto."
+}
+[sha:cd57c3e106e7a55c31c34a227ec38674b2084270]{
+-- Page 29, Offset 1332.
+-- "Yeah, yeah, I remember now. Now, if you'll excuse me..."
+"Sim, sim, lembrei agora. Agora, se você me dá licença..."
+}
+[sha:7f68296df8a586292de396e3c673296fee1bc1eb]{
+-- Page 29, Offset 1333.
+-- Aoko grabbed a piece of chocolate and popped it into her mouth.
+A Aoko pegou um pedaço de chocolate e jogou na boca.
+}
+[sha:b59408172b57514cc1bb5ef17e988d100b26064d]{
+-- Page 30, Offset 1334.
+-- "......"
+"......"
+}
+[sha:6538bfb981c797d0f541a4953f908e21a457f820]{
+-- Page 30, Offset 1335.
+-- She waved before leaving Alice alone in silence.
+Ela acenou antes deixar a Alice sozinha em silêncio.
+}
+[sha:560804eb3cfb4eb3382e462cdcb8abf71de0e540]{
+-- Page 30, Offset 1336.
+-- Alice stiffened a moment before slamming the box of chocolates shut as if it could serve to scold Aoko for snacking.
+Alice se enrijeceu um pouco antes de fechar a caixa de chocolates, como se servisse para repreender a Aoko por fazer um lanchinho.
+}

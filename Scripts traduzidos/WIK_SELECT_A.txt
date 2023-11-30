@@ -1,0 +1,20 @@
+[sha:9c4f6cd481ccfdbb4af6197ad326ddac04bc1e7f]{
+-- Page 43, Offset 23620. Mods: @e.
+-- -Decision A-
+-Decisão A-
+}
+[sha:cd453954d0369e2f02328bbeabe610c4b9f22b62]{
+-- Page 43, Offset 24015. Choice.
+-- Might be an ill omen.
+Pode ser um mau presságio.
+}
+[sha:68fd86c415adfa2aea06d86b160842cd249633a8]{
+-- Page 43, Offset 24016. Choice.
+-- Maybe it's always unlocked.
+Talvez esteja sempre destrancada.
+}
+[sha:6f6df2d93baf3aa09768c8a1eeef23bff0823776]{
+-- Page 43, Offset 24017. Choice.
+-- I could enter by myself.
+Eu poderia entrar sozinha.
+}
