@@ -1,0 +1,290 @@
+[sha:85278a9245d0b05460baca42f23a11a04930bcd8]{
+-- Page 0, Offset 22328.
+-- "I'm not convinced things will go so smoothly, Yui."
+"Não estou convencida de que as coisas irão tão bem, Yui."
+}
+[sha:8a5247551c8d965141a2cfbf3394eb7ee81e8cda]{
+-- Page 0, Offset 22329.
+-- "What do you mean, Ritsuka?"
+"Como assim, Ritsuka?"
+}
+[sha:ab89f90c1c547ec7201f68a458e4fb0bc1db3b6f]{
+-- Page 1, Offset 22330.
+-- "Kinomi and Miss Riddell aside, it's possible someone forced Mr. Tokitsu to laugh.
+"Fora o Kinomi e a Senhorita Riddell, é possível que alguém tenha forçado Sr. Tokitsu à rir.
+}
+[sha:a33d19db2e9cdf9f6fba1e297813ef3b2107760d]{
+-- Page 1, Offset 22331.
+-- And remember what Allie said? The user decides the rules. This Ploy didn't start by itself; someone activated it."
+E lembra do que Allie disse? O usuário decide as regras. Esse Plot não começou por si mesmo; alguém o ativou."
+}
+[sha:10564ba29154b4304359e59529ff4e40646d74d0]{
+-- Page 2, Offset 22332.
+-- "You mean..."
+"Você quer dizer..."
+}
+[sha:b38dae2fac8d781f5f60921ac23b41df99f281ea]{
+-- Page 2, Offset 22333.
+-- "...The culprit is still at large."
+"...O culpado ainda está por aí."
+}
+[sha:96c3852015dd0125cfd42b48893f5371b308b9dc]{
+-- Page 2, Offset 22334.
+-- We still don't know who they are. But seeing as they created the rules, they're probably going to try to make us laugh however they can."
+Nós ainda não sabemos quem ele é. Mas vendo como ele criou as regras, ele provavelmente vai tentar nos fazer rir de qualquer forma que ele conseguir."
+}
+[sha:7cbbf89817dc086e08760d3a5b8f17fba10cbd79]{
+-- Page 3, Offset 22335.
+-- "They might not even need to go that far, actually.
+"Ele talvez nem tenha que ir tão longe, na verdade.
+}
+[sha:2708433a0f13bb37673441cbdc2e529fef12a541]{
+-- Page 3, Offset 22336.
+-- I hate to say it, but in mystery novels the guests often end up tearing each other apart out of suspicion."
+Eu odeio admitir, mas em romances de mistério os convidades muitas vezes acabam acabando uns com os outros por suspeita."
+}
+[sha:2c6a368b7eeec0cf43e16e49a12772cf1e205a46]{
+-- Page 4, Offset 22337.
+-- "Yes! Bang on, Aoko!
+"Sim! Continua, Aoko!
+}
+[sha:312cb6b135bc7d623e9890570c883b58f738997c]{
+-- Page 4, Offset 22338.
+-- The nasty thing about this rule is that anyone can kill anyone. However, that also means we can survive without identifying the culprit.
+O négocio dessa regra é que qualquer um pode matar qualquer um. Todavia, isso também significa que podemos sobreviver sem identificar o culpado.
+}
+[sha:e124afc93bffdb9f169667496533ad1c156019cf]{
+-- Page 4, Offset 22339.
+-- We only need to make sure no one else can make us laugh."
+Nós só temos que garantir que mais ninguém pode nos fazer rir."
+}
+[sha:eaa70398d34dac4ed352648ed6a7e7d63b0665f5]{
+-- Page 5, Offset 22340.
+-- "Do unto others, before they do unto you.
+"Faça aos outros, antes que façam à você.
+}
+[sha:ae144ce4b697627dded7433f77353d04912af737]{
+-- Page 5, Offset 22341.
+-- You could remove everyone else to guarantee your own safety.
+Você poderia remover todos os outros pra garantir sua segurança.
+}
+[sha:5cc6982227ce825a96782ef42bf76f2fdba1ab9a]{
+-- Page 5, Offset 22342.
+-- Is that what you're saying?"
+É isso que você está dizendo?"
+}
+[sha:faac1e8eebb828f33baf0f45407e0a761758b3bb]{
+-- Page 6, Offset 22343.
+-- "Okay, one: The mansion's now a world where you die if you laugh.
+"Ok, primeiro: A mansão agora é um mundo onde você morre se rir.
+}
+[sha:8bed2920de67f6bc6aaadf1f4eadf3809290eff3]{
+-- Page 6, Offset 22344.
+-- Two: Person A made this happen.
+Segundo: A pessoa A fez isso acontecer.
+}
+[sha:6e1708f769713742da7537b5b6c190d797215dd0]{
+-- Page 6, Offset 22345.
+-- Three: We can't rest until we figure out who the Person A is; they've already murdered Mr. Tokitsu, and they could kill again.
+Terceiro: Nós não podemos descansar até descobrirmos quem a pessoa A é; ele já matou o Sr. Tokitsu, e ele pode matar novamente.
+}
+[sha:fb8718af5fec680f1f89e6f112b1eb2d30bbf81c]{
+-- Page 6, Offset 22346.
+-- Four: We suspect anyone but ourselves and reveal the culprit, hold out until morning, or make everyone else laugh."
+Quarto: Suspeitamos de qualquer pessoa além de nós mesmos e revelamos o culpado, aguentamos até de manhã ou fazemos todo mundo rir."
+}
+[sha:8fb9ddd626f0fffe3c51fda101c14fbf11ed5c82]{
+-- Page 7, Offset 22347.
+-- "Only one group can survive."
+"Apenas um grupo pode sobreviver."
+}
+[sha:8dd2c33191fe85b38265fec6eca23a196414a76c]{
+-- Page 7, Offset 22348.
+-- "You think you're some badass, talking like that?!
+"Você se acha toda fodona, falando desse jeito?!
+}
+[sha:92407c6b8ec7b51bc1e67e18f4e298907600caf0]{
+-- Page 7, Offset 22349.
+-- Alice, what number Ploy is this?"
+Alice, qual o número desse Ploy?"
+}
+[sha:ce2b5160a2dc26103bcab5d1277645e0afd04528]{
+-- Page 7, Offset 22350.
+-- "Fifteen. It's a Ploy Kickshaw of magical reinforcement via charms, probability shifting, two minds in one body, and prayer."
+"Quinze. É um Ploy Kickshaw de reforço mágico via charmes, alteração de probabilidade, duas mentes em um corpo, e prece."
+}
+[sha:d19ed88be0697609b51cdee3195ea9b20c425d28]{
+-- Page 8, Offset 22351.
+-- "Oh, bollocks... that sounds like Sweets Hearts, all right.
+"Ah, saco... definitivamente soa como o Sweets Hearts.
+}
+[sha:0ac9d3f2bc578268e9325b326b63c766f1379169]{
+-- Page 8, Offset 22352.
+-- Perfect, just perfect. How spineless do Japanese people have to be to use something like that?"
+Perfeito, simplesmente perfeito. Quão covardes os Japoneses têm que ser pra usar algo assim?"
+}
+[sha:9fb1d5db48a62cba741b544c018cac52bbe0f299]{
+-- Page 8, Offset 22353.
+-- "'Sweets Hearts'?
+"'Sweets Hearts'?
+}
+[sha:d93fdd434be303339db109a96de2646d8c2ea6d4]{
+-- Page 8, Offset 22354.
+-- Is that this Ploy's name, Alice?"
+Esse é o nome do Ploy, Alice?"
+}
+[sha:6b3d513b49938bcea41dd4e14676a3ee98d988e3]{
+-- Page 9, Offset 22355.
+-- "Yes. It creates rules, and boosts the survivor's magical energy; it's like a test-your-luck Ploy you use before a battle. Usually Sweets Hearts wins and everyone dies, though...
+"Sim. Ele cria regras, e aumenta a energia mágica do sobrevivente; é como um Ploy de teste sua sorte que você usa antes de uma batalha. Porém, geralmente Sweets Hearts vence e todos morrem...
+}
+[sha:ee402f32e3700f2e610f1e7c5fa57bc5985c4076]{
+-- Page 9, Offset 22356.
+-- Very well, I shall be teaming up with Alice."
+Muito bem, eu me juntarei a Alice."
+}
+[sha:90f2b79c636bb86aea9c5b56c0cefbb5a7cfb203]{
+-- Page 9, Offset 22357.
+-- "Excuse me? Who said we're teaming up?"
+"Com licença? Quem disse que estamos formando equipes?"
+}
+[sha:9a188371dff144a9ab11a605205a5f96f7c39116]{
+-- Page 10, Offset 22358.
+-- "This is a fight for survival. The game is about trust and betrayal, so grouping up in pairs will give us the best chance of victory.
+"Isso é uma luta por sobrevivência. O jogo é sobre confiança e traição, então nos agrupar em pares dará a melhor chance de vitória.
+}
+[sha:8322726916fdb7e86837b2717789599cdf0f8f9a]{
+-- Page 10, Offset 22359.
+-- Instead of running around trying to find the culprit, we should just try to make each other laugh. I mean, we all want to survive, don't we?"
+Ao invés de correr por aí tentando achar o culpado, nós deveriamos só tentar fazer uns aos outros rirem. Digo, todos queremos sobreviver, não?"
+}
+[sha:a1c6d2e46e537b8141b7ece34560845f96ab87ba]{
+-- Page 11, Offset 22360.
+-- "Thus, Alice and I make the ultimate team. Alice never laughs, and I can be the joker.
+"Então, Alice e eu faremos o melhor time. Alice nunca ri, e eu posso ser a comediante.
+}
+[sha:eb1bb6009c2814392d7fe1ae7a524ae4508353aa]{
+-- Page 11, Offset 22361.
+-- Right, Alice?"
+Não é, Alice?"
+}
+[sha:c512b5f5c81067f0a80e63b97f8e7854a043c6c0]{
+-- Page 12, Offset 22362. Mods: @n.
+-- "Hmm.
+"Hmm.
+}
+[sha:626419fd4f9ba8bed13528d6c48f259d4aac3369]{
+-- Page 12, Offset 22363. Glued.
+-- Mind if I join you, Sizuki?"
+Você se importa se eu me juntar a você, Sizuki?"
+}
+[sha:00a86447736bd302c2021d7491cedcdd4457a256]{
+-- Page 12, Offset 22364.
+-- "Sure. Based on what I've heard, you're the safest person to be with."
+"Claro. Baseado no que eu ouvi, você é a pessoa mais segura de se estar."
+}
+[sha:eabe267fbe20c4a5dcd6c6e120ce68116debbffb]{
+-- Page 12, Offset 22365.
+-- "Whatever happened to kindness in this cruel world?!"
+"O que aconteceu com a bondade nesse mundo cruel?!"
+}
+[sha:b651b8a8600bdff077dc06d330c2f03ab2cb041d]{
+-- Page 13, Offset 22366.
+-- "I see. Partner with someone you trust, someone you don't believe to be the culprit, and work together.
+"Entendo. Se junte com alguém em quem você confia, alguém que você não acredita ser o culpado, e trabalhem juntos.
+}
+[sha:581a007f945b248b230cfd33af88dab56b97aa62]{
+-- Page 13, Offset 22367.
+-- Sister Yuika, would you mind?"
+Irmã Yuika, se importaria?"
+}
+[sha:bbf2a76588a7afb2c5e7877b8559bdbbac31e7b9]{
+-- Page 13, Offset 22368.
+-- "My pleasure. While this is frightening situation, you appear to be the most trustworthy person here."
+"O prazer é meu. Embora esta seja uma situação assustadora, você aparenta ser a pessoa mais confiável aqui."
+}
+[sha:0495dd9473c9206c1a313c025d5c0fc332b70965]{
+-- Page 14, Offset 22369.
+-- "Hey, what about me?
+"Ei, e quanto a mim?
+}
+[sha:69ef5dff9189712158d2cb17d5fcb17e43fba70c]{
+-- Page 14, Offset 22370.
+-- Want to partner up, Aoko?"
+Quer se juntar a mim, Aoko?"
+}
+[sha:c528222f3ad69a7bb7fac716f2ee41e37f6f9126]{
+-- Page 14, Offset 22371.
+-- "Riddell. Let's pair up.
+"Riddell. Vamos fazer uma dupla.
+}
+[sha:13b9039f672f9482699f757a68700622ff4bde63]{
+-- Page 14, Offset 22372.
+-- Just for tonight, we should put everything behind us."
+Só por hoje, vamos deixar tudo pra trás."
+}
+[sha:d2282aa2d64060f925e005531ec4a0fa5390f192]{
+-- Page 14, Offset 22373.
+-- "Oh, come on! You can make peace with me, too!"
+"Ah, qual é! Você pode fazer as pazes comigo também!"
+}
+[sha:9accb3d5e5bcf6aa8cd10519509a94b68f96cb31]{
+-- Page 15, Offset 22374.
+-- "Hmph. Fine.
+"Hmph. Tá bom.
+}
+[sha:1d8ba0261c56536bebb19ae548854bf85bb92b4b]{
+-- Page 15, Offset 22375.
+-- If push comes to shove, we can just demolish the mansion."
+Se as coisas se complicarem, a gente pode só demolir a mansão."
+}
+[sha:70dc47cf91a0fd050071ed5fb6e7f60ebbe610a3]{
+-- Page 16, Offset 22376.
+-- "Makes sense so far. How about it, Kumari? Just two regular Joes with common sense."
+"Faz sentido até agora. Que tal, Kumari? Apenas dois Zé ninguéns com bom senso."
+}
+[sha:a8b907497a993920c947cd814de2fb6909b5f38b]{
+-- Page 16, Offset 22377.
+-- "...!"
+"...!"
+}
+[sha:245b7d8fdda01e4b44cc1d78bb08aa27a44cb64d]{
+-- Page 17, Offset 22378.
+-- I-I didn't see that coming!
+E-Eu não esparava por isso!
+}
+[sha:1a2be59bf36e1293ed15718c038e3ab80258b86e]{
+-- Page 17, Offset 22379.
+-- All the weirdness and murder mysteries were bad enough, but now this?!
+Todas as estranhezas e mistérios já eram ruins o suficiente, e agora isso?!
+}
+[sha:0e4fceba283e53ce638c85e1e1568738552fa38e]{
+-- Page 18, Offset 22380. Mods: @k, @e.
+-- "Hmm. Well, if I can't be with Soujyuro, then I don't need anyone else.
+"Hmm. Bem, se eu não posso ficar com o Soujyuro, então eu não preciso de mais ninguém.
+}
+[sha:a0d5921a9e8db2f4dced06b6de0d9f2fa6183b2b]{
+-- Page 18, Offset 22381. Glued. Mods: @x.
+-- This just playtime for me anyway."
+Isso é só brincadeira pra mim de qualquer forma."
+}
+[sha:3378f5741853964fa2a27638660f6e42419e09c1]{
+-- Page 18, Offset 22382.
+-- "Aww, I guess that means I'm stuck with Mr. Yamasiro, then...
+"Aww, acho que isso significa que eu estou presa com Sr. Yamasiro, então...
+}
+[sha:b1105a61e254e7d5acc065afb54aa0bd8bd638af]{
+-- Page 18, Offset 22383.
+-- Huh?"
+Huh?"
+}
+[sha:daa6918277e53b74ece1e3aec7f52eee664d4dba]{
+-- Page 18, Offset 22384.
+-- We all looked at each other.
+Todos olhamos uns para os outros.
+}
+[sha:6313e1677a1cb1d12bc7ee8499dd1d710d53d173]{
+-- Page 18, Offset 22385.
+-- I'd been wondering when someone would notice: Mr. Yamasiro had been missing for a while.
+Eu estive me perguntando quando alguém ia perceber: O Sr. Yamasiro tinha sumido fazia um tempo.
+}
