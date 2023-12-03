@@ -1,0 +1,360 @@
+[sha:1114f44db0c3490a3b9ed53181fc01bce4493901]{
+-- Page 0, Offset 21478.
+-- "Oh, dear."
+"Minha nossa."
+}
+[sha:cbb69d9b36f8cf7c0ceb2a9534f0a068d9512d73]{
+-- Page 0, Offset 21479.
+-- We were on the third floor.
+Nós estavamos no terceiro andar.
+}
+[sha:6839a90db6efc440bc805951170715af13d0577e]{
+-- Page 0, Offset 21480.
+-- A hellish scene greeted us in the attic directly above the hall.
+Uma cena infernal nos recebeu no sótão diretamente acima do corredor.
+}
+[sha:dff4c7aeac664e8e5cac648b6a4028eb9b6ce3dd]{
+-- Page 1, Offset 21481.
+-- In the center of the room was Yurihiko Tokitsu...
+No centro do quarto estava Yurihiko Yokitsu...
+}
+[sha:f5cbc2bf55f1ccb10ddd5494574c79e260b760e0]{
+-- Page 1, Offset 21482.
+-- ...or so we believed.
+...ou era o que acreditávamos.
+}
+[sha:cdeab325421cb5d0a2b66bed1655b9e94a700a97]{
+-- Page 1, Offset 21483.
+-- The faceless body had been burned, and most of its limbs mangled.
+O corpo sem rosto havia sido queimado, e quase todos seus membros mutilados.
+}
+[sha:f76640f5d92c8b75adb7405fce1119d01b07838f]{
+-- Page 1, Offset 21484.
+-- Only the torso remained in a vaguely recognizable shape.
+Apenas o tronco permaneceu em um formato vagamento reconhecível.
+}
+[sha:7d37350a5179ab70ef30bc9f515c2559efeb7ca4]{
+-- Page 1, Offset 21485.
+-- A burning stench filled the air inside the soot-covered walls.
+Um fedor de queimado preenchia o ar dentro das paredes cobertas de fuligem.
+}
+[sha:19a384fff297819875cc3af5f6d41b3e5ba733ee]{
+-- Page 2, Offset 21486.
+-- "...Can't tell whose face that is anymore, but that's definitely the old man's suitcase."
+"...Não dá mais pra dizer de quem é o rosto, mas essa é definitivamente a maleta do velho."
+}
+[sha:1eac842c01ae63db08223a2c29f3968161fcb8a5]{
+-- Page 2, Offset 21487.
+-- "Forget it! I ain't looking!"
+"Tô fora! Eu não vô olhar pra isso não!"
+}
+[sha:d82127876d1b1dda45db0d178543d056299c366d]{
+-- Page 2, Offset 21488.
+-- "Good old Tokie. Grandiose even in death."
+"O bom e velho Tokie. Grandioso até na morte."
+}
+[sha:d511f155b329e4f67ecf4a918031cba1734607f0]{
+-- Page 2, Offset 21489.
+-- "I'm in the mood for barbeque now."
+"Tô no clima pra um churrasco agora."
+}
+[sha:790e403d65d4b5dffb44fc00a4f5d96217fd6a77]{
+-- Page 2, Offset 21490.
+-- "Hey, was the room locked?"
+"Ei, a sala estava trancada?"
+}
+[sha:41d4fa2aebdaa7e2ba3ccb8d9e4b214b47ddfe11]{
+-- Page 2, Offset 21491.
+-- "No, Soujyuro's room-I mean, the attic doesn't have a lock. Anyone can come in."
+"Não, o quarto do Soujyuro-digo, o sótão não tem uma tranca. Qualquer um pode entrar."
+}
+[sha:28cb5644f0dd19eed87257c9cc7675ecd375e8ca]{
+-- Page 3, Offset 21492.
+-- "Well, shit. Looks like an explosion killed him.
+"Porra. Parece que uma explosão o matou.
+}
+[sha:db981ef00b2a4f443e9f7d3a3c07db62464dbb5b]{
+-- Page 3, Offset 21493.
+-- I don't see any source of the combustion, though... did Yurihiko like playing with explosives? I wouldn't put it past an artist."
+Mas eu não vejo nenhuma fonte de combustão... Yurihiko gostava de mexer com explosivos? Eu não duvidaria vindo de um artista." 
+}
+[sha:c6ab4a9300ca1b563659b249862d058abf155f96]{
+-- Page 3, Offset 21494.
+-- "Let's all just calm down. I think this was premeditated. This is a crime scene."
+"Vamos todos nos acalmar. Eu acho que isso foi premeditado. Isso é uma cena de crime."
+}
+[sha:ebb0b369e39a3921ba35fd3090ad8532d0fb4e08]{
+-- Page 3, Offset 21495.
+-- "Is this flour?"
+"Isso é farinha?"
+}
+[sha:6f88a62ad2bc33bbd63a596af23347eb64fb271c]{
+-- Page 4, Offset 21496.
+-- Housuke remained on the second floor, trembling.
+Housuke ficou no segundo andar, trêmulo.
+}
+[sha:81a97183cbb4a9027de3205acdf3beca7b9a052a]{
+-- Page 4, Offset 21497.
+-- The rest of us took turns surveying the scene.
+O restante de nós se revezou para examinar a cena.
+}
+[sha:4c37ee966c4dea7aa4e4173f39d2ed1d941b88e4]{
+-- Page 5, Offset 21498.
+-- "Nobody touch anything, okay?
+"Não toquem em nada, beleza?
+}
+[sha:c00231b5256de45c01a4858404e1d697324d24e7]{
+-- Page 5, Offset 21499.
+-- Look around in pairs, and make sure the other person doesn't do anything suspicious.
+Olhem ao redor em pares, e certifique-se de que a outra pessoa não faça nada suspeito.
+}
+[sha:0f641fc01dd3699d6015be5a9185ad826deff8ea]{
+-- Page 5, Offset 21500.
+-- Allie, do you mind if I call the police? Thanks. I'll go use the phone in the foyer."
+Allie, você se importa se eu chamar a polícia? Obrigada. Eu vou usar o telefone no vestíbulo."
+}
+[sha:9e85c60980edd26b5605aa81f8d93219d0579c3b]{
+-- Page 6, Offset 21501.
+-- Following the orders of a now quite animated Ritsuka, we moved about in pairs.
+Seguindo as ordens de uma Ritsuka bastante animada, nós andamos em pares.
+}
+[sha:d573ee51eb2fc1db693655ebc4370b943c3f474b]{
+-- Page 6, Offset 21502.
+-- Since Housuke ran off, I ended up paired with Tsukiji.
+Já que o Housuke fugiu, eu acabei ficando com o Tsukiji.
+}
+[sha:b8a88d1f29b893b45a5be4bdc06223dec2ee6d44]{
+-- Page 7, Offset 21503.
+-- "Damn. What a way to go out.
+"Droga. Que maneira de bater as botas.
+}
+[sha:08effb7b700c0a77aefbeabc5122275af441a175]{
+-- Page 7, Offset 21504.
+-- Who kills someone with an explosion?"
+Quem mata alguém com uma explosão?"
+}
+[sha:dc1bf96d5ce3c6cb41de55aea4f62868522d484b]{
+-- Page 7, Offset 21505.
+-- I was surprised Tsukiji already saw this as a murder.
+Eu estava surpresa que Tsukiji já via isso como um assassinato.
+}
+[sha:13bc7959e3986216cda4540c7e2242872016b36b]{
+-- Page 8, Offset 21506.
+-- "...You don't think it was an accident?"
+"...Você não acha que foi um acidente?"
+}
+[sha:d1f300a353b043f50b3e627d65e65939f31ed20c]{
+-- Page 8, Offset 21507.
+-- "No, I don't. There's zero chance Tokitsu would handle explosives in the Kuonji house."
+"Eu não acho. Zero chances de que o Tokitsu mexeria com explosivos na casa de Kuonji."
+}
+[sha:c7c58884a04c55b8b55c241657f2c94affc275ff]{
+-- Page 9, Offset 21508.
+-- "Just look at his torso. There are faint scorch marks around his waist. Could be rope burns.
+"Olha pro tronco dele. Há leves marcas de queimadura ao redor de sua cintura. Poderiam ser marcas de corda.
+}
+[sha:76c8f67841bbc607216bd8a6262c915341bdef5d]{
+-- Page 9, Offset 21509.
+-- It's possible he was tied up and held prisoner."
+É possível que ele tenha sido amarrado e mantido prisioneiro."
+}
+[sha:cc8c8ea3b152673fe2dffad8f713542bbeeae86b]{
+-- Page 9, Offset 21510.
+-- "..."
+"..."
+}
+[sha:b322d1366c994221e194ab006915d46b41a7568f]{
+-- Page 10, Offset 21511.
+-- Tied up and killed with a bomb without anyone noticing...?
+Amarrado e morto com uma bomba sem que alguém notasse...?
+}
+[sha:01b6da1a1f5e9b6ebf387c828afdb49d0eb3d868]{
+-- Page 10, Offset 21512.
+-- "But, why?"
+"Mas, por que?"
+}
+[sha:2414047034ea4d8a76e135a0a63a1e778958dbd2]{
+-- Page 10, Offset 21513.
+-- "Why indeed. Who would go through this much trouble?
+"De fato, por que. Quem se daria todo esse trabalho?
+}
+[sha:5079336a3ee8db54561c08fe3792e19b2a556d4b]{
+-- Page 10, Offset 21514. Glued. Mods: @x.
+-- I suppose the advantage of using explosives is... you can detonate them remotely at a time of your choosing. Helps with creating an alibi."
+Eu suponho que a vantagem de usar explosivos seja que... você pode detona-los remotamente quando quiser. O que ajuda a criar um álibi."
+}
+[sha:5b387a3cc9ba0c74c0157a6497ce27d242aebcd5]{
+-- Page 11, Offset 21515.
+-- Wow.
+Wow.
+}
+[sha:0a6eee86888d73012e11e68cfc6292c4a6e77ff1]{
+-- Page 11, Offset 21516.
+-- Dead body or not, Tsukiji didn't skip a beat.
+Cadáver ou não, o Tsukiji não titubeou.
+}
+[sha:e07cbd39d07ea972f03de41cefa5968ce9173eab]{
+-- Page 11, Offset 21517.
+-- He stayed calm and composed as he analyzed the situation.
+Ele se manteve calmo e composto conforme analisava a situação.
+}
+[sha:9f743878f51e199947e3d0aa7030dc82537b6e00]{
+-- Page 11, Offset 21518.
+-- At times like this, he seemed so perfect.
+Em momentos assim, ele parecia tão perfeito.
+}
+[sha:49237ff658f842edc0a3c31c3136851797ce16a0]{
+-- Page 11, Offset 21519.
+-- Actually, whenever I saw him get serious about anything, he was so damned cool.
+Na verdade, sempre que eu o via ficar sério sobre qualquer coisa, ele era tão legal.
+}
+[sha:520f30b0ce91f93d18568c9fcd61db0a6f4117e9]{
+-- Page 12, Offset 21520.
+-- "But now, I know what the murder weapon was: bread."
+"Mas agora, eu sei qual foi a arma do crime: pão."
+}
+[sha:7f90bbcdd81725f82c7ccf12d1658f37f26a55ec]{
+-- Page 12, Offset 21521.
+-- "Huh?"
+"Huh?"
+}
+[sha:7cd4ca8453549a1f6e65fdb5c338b698d32317db]{
+-- Page 12, Offset 21522.
+-- A voice called out to us from below.
+Uma voz vindo de baixo nos chamou.
+}
+[sha:db80fa2a3ad179af5f110cd9bc1d5f1ba019e080]{
+-- Page 13, Offset 21523.
+-- "Down here, everyone! We've got a problem!
+"Aqui embaixo, pessoal! Temos um problema!
+}
+[sha:56316cb35e6d47f13ba4c04b686cd41e151ca641]{
+-- Page 13, Offset 21524.
+-- The phone line is out!"
+A linha de telefone foi cortada!"
+}
+[sha:e0ad24e07a1ee403a75520ceb9ac08a38a20bc6b]{
+-- Page 13, Offset 21525.
+-- Tsukiji and I looked at each other.
+Tsukiji e eu olhamos um para o outro.
+}
+[sha:1a9c03b08a6a8f2551b3a4b9b5a7f934ca56f014]{
+-- Page 13, Offset 21526.
+-- "We should check it out, Kumari."
+"Nós deveriamos verificar, Kumari."
+}
+[sha:293cfd151af9fba759829a76d3b35379be2300d0]{
+-- Page 13, Offset 21527.
+-- I nodded, and we exited the attic together.
+Eu acenei, e nós saímos do sótão juntos.
+}
+[sha:a4049aaccdbadc55c018d53fcfa7da1f487be2f5]{
+-- Page 13, Offset 21528.
+-- Father Eiri closed and locked the door behind us after we returned to the second floor.
+O Padre Eiri fechou e trancou a porta atrás de nós após termos retornado para o segundo andar.
+}
+[sha:f0af945cc40e24bffd5e4bd44523768420b64ad3]{
+-- Page 14, Offset 21529.
+-- The sound of the rain was deafening.
+O som da chuva era ensurdecedor.
+}
+[sha:f911dae22004825de7ecf2215366871791680d7c]{
+-- Page 14, Offset 21530.
+-- We gathered around the telephone.
+Nós nos reunimos em torno do telefone.
+}
+[sha:e98f2a21678a17ee8f42f0ea0c657f6784188a62]{
+-- Page 15, Offset 21531.
+-- "The phone's disconnected. Or rather, the line itself has been cut. We can't call anyone, let alone the police."
+"O telefone está desconectado. Ou melhor, a linha em si foi cortada. Nós não podemos ligar pra ninguém, muito menos pra polícia."
+}
+[sha:2bc2492f2ac904d29c7fb4211a6f4af712768f31]{
+-- Page 15, Offset 21532.
+-- "I'll go tell them in person."
+"Eu vou avisar eles pessoalmente."
+}
+[sha:4e626990d23e07720dbc300450294645b9ffd718]{
+-- Page 15, Offset 21533.
+-- "No, wait. We shouldn't go off on our own for the time being. Besides, look outside."
+"Não, espera. Nós não deveriamos sair sozinhos no momento. Além disso, olha lá pra fora."
+}
+[sha:e0377c14502fcae4acd5d5c34e4a383fe5a327d5]{
+-- Page 16, Offset 21534.
+-- The priest pointed toward the skylight.
+O padre apontou para a clarabóia.
+}
+[sha:79e0bd4afa4351f339c8b364cdf925604b2da0ec]{
+-- Page 16, Offset 21535.
+-- Raindrops struck the glass hard in a thunderous cadence.
+Pingos de chuva atingiam o vidro com força em uma cadência violenta.
+}
+[sha:065b65e3eb4f1d04f3d471cc7a2e2ea592182c86]{
+-- Page 16, Offset 21536.
+-- At this point, we were in the midst of a full-blown storm.
+No momento, estavamos no meio de uma tempesta completa.
+}
+[sha:9cf5c9f3a07c421aeeb189f427b7bc4a531121d8]{
+-- Page 16, Offset 21537.
+-- We'd all come on foot, so it would be risky to go back down the mountain in this weather.
+Todos nós viemos a pé, então seria arriscado descer a montanha nesta tempestade.
+}
+[sha:f51edcaedbef435a3ac1254e050e782e177c79d4]{
+-- Page 17, Offset 21538.
+-- However, Father Eiri hadn't stopped Sizuki for his own safety.
+No entanto, o Padre Eiri não havia parado o Sizuki por sua segurança.
+}
+[sha:50f1bad983d2924ebf9d336abcf8bf6142712eec]{
+-- Page 17, Offset 21539.
+-- If someone wondered off by themselves, those left behind would be in a precarious position.
+Se alguém se afastasse sozinho, aqueles deixados para trás estariam numa posição precária.
+}
+[sha:f49bf72518a1393fb5fc811452e92d85101c7485]{
+-- Page 17, Offset 21540.
+-- For instance, it would be easy to destroy evidence without any witnesses around.
+Por exemplo, seria fácil destruir evidências sem nenhuma testemunha ao redor.
+}
+[sha:23f984b0da73ba3130c05a9797457646da3a4921]{
+-- Page 18, Offset 21541.
+-- "For now, let's all head to the drawing room.
+"Por hora, vamos todos para a sala de estar.
+}
+[sha:4177ed7cec550f3cfde6064cc8e3d744adee10e1]{
+-- Page 18, Offset 21542.
+-- We should talk over what happened until we can call the police."
+Nõs deveriamos discutir o que aconteceu até que possamos chamar a polícia."
+}
+[sha:9e1c5b1ee7eac95d8151cbee585c2eb75d6b3d22]{
+-- Page 19, Offset 21543.
+-- Everyone agreed with the priest.
+Todos concordaram com o padre.
+}
+[sha:911040c0f6c149e80109139eead87386540fa410]{
+-- Page 19, Offset 21544.
+-- Everyone, except Housuke. He seemed to be waiting for someone to reveal that this was all an elaborate prank.
+Todo mundo, exceto o Housuke. Ele parecia estar esperando alguém revelar que tudo aquilo foi só uma piada elaborada.
+}
+[sha:cc8c8ea3b152673fe2dffad8f713542bbeeae86b]{
+-- Page 20, Offset 21545.
+-- "..."
+"..."
+}
+[sha:1f075b01b5a86456810245aace8f2d5d37eceb5a]{
+-- Page 20, Offset 21546.
+-- Feeling a slight chill, I glanced at the front door.
+Sentindo um leve calafrio, eu olhei para a porta da frente.
+}
+[sha:e4e7e48b0e2d6c4c7a4a671b5c13d9613d4b88bd]{
+-- Page 20, Offset 21547.
+-- ...Just faintly, I had the sense that something was off.
+...Levemente, tive a sensação de que algo estava errado.
+}
+[sha:af9bbed9cb8c704a371d1eafbe8247b6b5ef0f66]{
+-- Page 20, Offset 21548.
+-- Outside, the rain became a torrent.
+Lá fora, a chuva havia se tornado uma torrente.
+}
+[sha:5debacffd3a8f5ffbb5d5e1cdd09f9a030c2d580]{
+-- Page 20, Offset 21549.
+-- With my mind in a haze, I...
+Com minha mente atordoada, eu...
+}

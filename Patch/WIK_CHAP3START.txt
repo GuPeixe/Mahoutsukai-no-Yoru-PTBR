@@ -1,0 +1,600 @@
+[sha:90162710813debb5cb7c282bf5007c27e456e06c]{
+-- Page 0, Offset 21551.
+-- We began a manhunt for Mr. Yamasiro.
+Nós começamos uma caça pelo Sr. Yamasiro.
+}
+[sha:9fcb28ab2b4d34a768056e2ea97e849f0c480c80]{
+-- Page 0, Offset 21552.
+-- Once we'd separated into groups to scour the mansion, Ritsuka, in charge of the second floor guest rooms, called us together.
+Assim que nos separamos em grupos para vasculhar a mansão, Ritsuka, responsável pelos quartos de hóspedes no segundo andar, nos chamou.
+}
+[sha:6ed94d35b6244dfb095781620eb297ec403a5b24]{
+-- Page 1, Offset 21553.
+-- "This is Mr. Yamasiro's room. Is it locked?
+"Esse é o quarto do Sr. Yamasiro. Está trancado?
+}
+[sha:ca9c6854f9ce900f2d08a236f039a09629c44a6c]{
+-- Page 1, Offset 21554. Mods: @k, @e.
+-- "No, it's not. When he wasn't inside, I took a peek inside,
+"Não está. Quando ele não estava no quarto, eu dei uma espiada por dentro,
+}
+[sha:9506733b6bacc0b16ae54adb92ba9fd5def354da]{
+-- Page 1, Offset 21555. Glued. Mods: @x.
+-- and, well..."
+e, bem..."
+}
+[sha:d8c408a9f270aedcf53d7876c40f821818275ad0]{
+-- Page 1, Offset 21556.
+-- Ritsuka trailed off.
+Ritsuka perdeu o rumo.
+}
+[sha:27d5a4715c5e5fd75778475803bf57426d2f8eb0]{
+-- Page 1, Offset 21557.
+-- Was it my imagination or is she stifling a laugh?
+É minha imaginação ou ela está segurando uma risada?
+}
+[sha:1609222043b52ca4815f257c152383f4efeebf14]{
+-- Page 2, Offset 21558.
+-- "Just take a look for yourselves. Then we can talk."
+"Apenas dêem uma olhada. Então podemos conversar."
+}
+[sha:e62d75fe7f814913146abb29aae72a13b10a0c51]{
+-- Page 2, Offset 21559.
+-- Following Ritsuka's direction, we stepped into the room.
+Seguindo as direções de Ritsuka, nós entramos na sala.
+}
+[sha:bc794a1086e870c283ce9d23edfeecfeaf7c236e]{
+-- Page 3, Offset 21560.
+-- Inside...
+Lá dentro...
+}
+[sha:c67fbdaef1fa4e388377db02c32493150cd2786a]{
+-- Page 3, Offset 21561.
+-- There was a field of flowers.
+Havia um campo de flores.
+}
+[sha:95022431ac918f94ea8311c9d409a19bfad65532]{
+-- Page 3, Offset 21562.
+-- In its center lay the body of Mr. Yamasiro.
+Em seu centro deitava o corpo de Sr. Yamasiro.
+}
+[sha:785719aad69f6cb0109815918eac831519cdd606]{
+-- Page 4, Offset 21563.
+-- "What's with that pose?! Is he supposed to be a pharaoh or something?!"
+"Qual a dessa pose?! É pra ele ser um faraó ou algo assim?!"
+}
+[sha:064462d52279d7c592c7ebfb9d9227c6bc383bc2]{
+-- Page 4, Offset 21564.
+-- Aozaki desperately tried not to laugh.
+Aozaki tentou desesperadamente não rir.
+}
+[sha:7f1992ecbe245cbc9ad45d2089db72a329399e54]{
+-- Page 5, Offset 21565.
+-- It took a serious effort from me, too.
+Exigiu um esforço sério de mim também.
+}
+[sha:09789e332d59c3f455c9a16e4a999d76ef2e518a]{
+-- Page 5, Offset 21566.
+-- Inappropriately, I couldn't help but see the image of Mr. Yamasiro lying serenely on a bed of flowers more as a Kouhaku new year's singing contestant than as a coffin viewing.
+Inapropriadamente, eu não pude deixar de ver a imagem do Sr. Yamasiro deitado serenamente na cama de flores mais como um competidor do Kouhaku de ano novo do que a vista de um caixão.
+}
+[sha:152feb9c2e017f0fb017bfa5bcf2e8912842be03]{
+-- Page 6, Offset 21567.
+-- "Oh, dear. Mr. Yamasiro always seemed so normal.
+"Oh céus. O Sr. Yamasiro sempre pareceu tão normal.
+}
+[sha:450f5d96c6a46fefae31001c906e8475cdce0faa]{
+-- Page 6, Offset 21568.
+-- But this does raise some questions."
+Mas isso cria algumas questões."
+}
+[sha:94a59f684e0038cf1dab0ee4ad1f1aee99dff9e9]{
+-- Page 6, Offset 21569.
+-- "This has to be a sick joke. How can a schoolteacher die in a more flamboyant way than I live?"
+"Isso tem que ser uma piada de mau gosto. Como um professor pode morrer de uma forma mais brilhante do que eu vivo?"
+}
+[sha:def366af03124eada3758f498911dec2da151671]{
+-- Page 7, Offset 21570.
+-- "Let's leave this here for now. People deserve their dignity, even in death.
+"Vamos deixar isso aqui por ora. Pessoas merecem sua dignidade, mesmo na morte.
+}
+[sha:1b5b7ae8c20897e7e1e807d01b59b2431ab30b47]{
+-- Page 7, Offset 21571.
+-- If another person passes away, I ask you all treat it with more gravity. Is that clear?"
+Se outra pessoa falecer, peço a todos que tratem com mais gravidade. Está claro?"
+}
+[sha:ed482bb3cbf80c3c3c0c200656c011e427e3f384]{
+-- Page 8, Offset 21572.
+-- "Forgive me. I shouldn't have been so facetious.
+"Me perdoe. Eu não deveria ter sido tão burlesco.
+}
+[sha:388fad1d2ad3e98228b132851d4959ede8e62b77]{
+-- Page 8, Offset 21573.
+-- You're so reliable at times like these, Sister."
+Você é tão sensata em momentos como este, Irmã."
+}
+[sha:72d61046ba6e7644964cdb781ed40be8f3d0a00b]{
+-- Page 8, Offset 21574.
+-- "I'm simply being a responsible adult. You should also conduct yourself in a manner befitting a student supervisor, Father."
+"Eu estou apenas sendo uma adulta responsável. Você também deveria se conduzir de maneira condizente com um supervisor estudantil, Padre."
+}
+[sha:e6d8a8d7054e58cba63520694f12877659245429]{
+-- Page 9, Offset 21575.
+-- The room felt colder after Sister Yuika's scolding.
+O quarto parecia mais frio após a bronca da Irmã Yuika.
+}
+[sha:3b5f6858d1f710af20bd4bbc312ca32fcd770d51]{
+-- Page 9, Offset 21576.
+-- After we finished examining the room, Miss Kuonji locked it behind us, and we returned to the drawing room.
+Depois que terminamos de examinar o quarto, Senhorita Kuonji trancou-o, e retornamos a sala de estar.
+}
+[sha:2e7f33e65373aba7fa513db98a47886a45ffa709]{
+-- Page 10, Offset 21577.
+-- A somber mood settled over the parlor.
+Um clima sombrio caiu sobre o salão.
+}
+[sha:5370ba01665c459883177f2ebc1d4a7fda242905]{
+-- Page 10, Offset 21578.
+-- The gloom wasn't from any sense of grief,
+O melancolia não vinha de qualquer forma de luto,
+}
+[sha:89665bb995955aaf9aa4e5dbd2b97b83388d5c15]{
+-- Page 10, Offset 21579.
+-- but rather a certain feeling that pervaded the group after we split into pairs-
+Mas sim de um certo sentimento que permeava o grupo após nos dividirmos em pares- 
+}
+[sha:9c2467709d65f107ed9cf63c9d63866afc26b726]{
+-- Page 10, Offset 21580.
+-- Suspicion between the teams.
+Desconfiança entre os times.
+}
+[sha:42ab7d3afa326a9ed86a20d6d89398b9894ae37a]{
+-- Page 11, Offset 21581.
+-- "There was no evidence of a struggle in the guest room. Either Mr. Yamasiro invited them in, or they invited themselves in before he arrived.
+"Não havia evidência de uma luta no quarto de hóspedes. Ou o Sr. Yamasiro o convidou, ou ele entrou antes que Sr. Yamasiro chegasse.
+}
+[sha:7fbe45dd657fc7992366e1adaa98f4687b13aefc]{
+-- Page 11, Offset 21582.
+-- Either way, he likely knew them and was taken by surprise.
+De qualquer forma, ele provavelmente o conhecia e foi supreendido.
+}
+[sha:2a8057b682e1de280ffef3a660a9b2a78bc0d9b1]{
+-- Page 11, Offset 21583.
+-- Mr. Yamasiro probably didn't know the rules, so maybe it was easy to make him laugh..."
+Sr. Yamasiro provavelmente não sabia as regras, então talvez tenha sido fácil fazê-lo rir..."
+}
+[sha:673b3e4dd0fec3b8548cf056cb0d6151f3a9f9dd]{
+-- Page 12, Offset 21584.
+-- Tsukiji spoke to everyone in the room.
+Tsukiji falou com todos na sala.
+}
+[sha:556c54ee9ea4cdda45d488d19e993d9d63b894de]{
+-- Page 12, Offset 21585.
+-- Usually, Father Eiri was the one leading the discussion, but now that he was silent, maybe Tsukiji felt he had to step up.
+Geralmente, o Padre Eiri estaria conduzindo a discussão, mas agora que ele estava em silêncio, talvez Tsukiji tenha sentido que deveria se pronunciar.
+}
+[sha:e5a6046153366bd4e6d1b65bc562468cc5b4ec60]{
+-- Page 13, Offset 21586.
+-- "What's gotten into you, Tobimaru? You're normally more direct than this.
+"O que deu em você, Tobimaru? Você costuma ser mais direto que isso.
+}
+[sha:51dae67e069f28a21f74f86af5fb531a1e0a0720]{
+-- Page 13, Offset 21587.
+-- Where are you going with all this?"
+Aonde você quer chegar com tudo isso?"
+}
+[sha:2fe8a41e8a8cb90367cf5eb681917c1b388f04ee]{
+-- Page 13, Offset 21588.
+-- "Oh, it's just that aside from Kuonji and the people from the Church, you, Kumari and I all knew Mr. Yamasiro well.
+"Oh, é só que com excessão de Kuonji e as pessoas da Igreja, eu, Kumari e você conheciamos bem o Sr. Yamasiro.
+}
+[sha:a4989ab667915c0a1c5e50968146b118fb791119]{
+-- Page 13, Offset 21589.
+-- That blockhead wasn't the kind of guy to give you a big belly laugh at your jokes."
+Aquele cabeça-dura não era o tipo de pessoa que daria uma gargalhada com as suas piadas."
+}
+[sha:4e9e2359557495dc86ff702437e812218d3a1cfd]{
+-- Page 14, Offset 21590.
+-- He was right.
+Ele estava certo.
+}
+[sha:1a38c90a5fe91e149f97c5bc1b546cb1a42ec962]{
+-- Page 14, Offset 21591.
+-- Mr. Yamasiro smiled a lot and was easygoing, but he was neutral to a fault. He never responded strongly to people's opinions, almost to the point of utter indifference.
+O Sr. Yamasiro estava sempre sorrindo e descontraído, mas ele era neutro até demais. Ele nunca respondia fortemente às opiniões das pessoas, como se ele fosse completamente indiferente.
+}
+[sha:18a42b7d88c99cf7cbebd8289ffa59a2101cfec6]{
+-- Page 14, Offset 21592.
+-- For him to laugh hard, he must've been taken by surprise, like victims on prank TV shows.
+Para ele rir mesmo, ele deve ter sido pego de surpresa, como vítimas de pegadinhas na TV.
+}
+[sha:f52958105c89d351315c9dc7caa5f6043e12c3b4]{
+-- Page 15, Offset 21593.
+-- "We can figure out how they made him laugh later.
+"Podemos descobrir como fizeram ele rir depois.
+}
+[sha:daf978a4035efef993d1c0523078297cd8efaa23]{
+-- Page 15, Offset 21594.
+-- Someone's out to get us. Enough of the friendly chit-chat. Let's get to the real issue."
+Alguém quer nos pegar. Chega de conversa fiada. Vamos ao verdadeiro problema."
+}
+[sha:9cbdbf83120f31cf488892f83e8cbcde6efdf158]{
+-- Page 15, Offset 21595.
+-- "Agreed. Who among us is the most likely suspect?
+"Concordo. Quem entre nós é o suspeito mais provável?
+}
+[sha:8d6fb7fd76f6c9f830458da44af65f5725dbb721]{
+-- Page 15, Offset 21596.
+-- We should narrow it down."
+Deveriamos reduzir os possíveis."
+}
+[sha:b69e2f5c376b1ced1f6f443bc86d19f59e4bb7eb]{
+-- Page 16, Offset 21597.
+-- I don't think anybody wanted to hear that, but we all knew it needed to happen.
+Eu acho que ninguém queria ouvir isso, mas todos sabíamos que precisava acontecer.
+}
+[sha:9090f3d2afc0254337577570e3ef1ec63f87cba2]{
+-- Page 16, Offset 21598.
+-- There was no way around it anymore.
+Não havia mais como evitar.
+}
+[sha:1f6ff217d6aa98d712b3fcb74f3bdc46ddd6a16c]{
+-- Page 16, Offset 21599.
+-- Someone here intentionally made both Mr. Tokitsu and Mr. Yamasiro laugh.
+Alguém aqui intencionalmente fez ambos o Sr. Tokitsu e o Sr. Yamasiro rirem.
+}
+[sha:0254ddfbaead0870b728ff1ed996bc345ed264e6]{
+-- Page 16, Offset 21600.
+-- In Tokitsu's case, they even used explosives... wait.
+No caso de Tokitsu, ele até usou explosivos... espera.
+}
+[sha:608a99d14e5e76f877c96c2207e310a79f5686d0]{
+-- Page 17, Offset 21601.
+-- "Um, I know it's a little late to bring this up now, but the way Mr. Tokitsu died..."
+"Uhm, eu sei que é um pouco tarde para falar sobre isso, mas a forma que Sr. Tokitsu morreu..."
+}
+[sha:b0bcf9cd6c508061234509f20740878108917584]{
+-- Page 17, Offset 21602.
+-- "Right. Probably death by bread."
+"Certo. Provavelmente morte por pão."
+}
+[sha:9b3edc06dd966ab27ccf4c0009f3e6c9b1820201]{
+-- Page 17, Offset 21603.
+-- "Makes sense in a way. Tokie did once say that if it wasn't for flour, he'd have saved the world with avant-garde art."
+"Faz sentido de certa forma. Tokie disse uma vez que se não fosse pela farinha, ele teria salvo o mundo com arte avant-garde."
+}
+[sha:fd5527ba644fd244f6b78b59fa1cbb38031cff60]{
+-- Page 18, Offset 21604.
+-- Tsukiji scratched his head apologetically.
+Tsukiji coçou a cabeça desculpando-se.
+}
+[sha:cb482b281edffbc163e93d0176da71cf8b0ec248]{
+-- Page 18, Offset 21605.
+-- He looked frustrated with himself for thinking so much about the time of death and the identity of the killer.
+Ele parecia frustrado consigo mesmo por pensar tanto na hora da morte e na identidade do assassino.
+}
+[sha:5b0771f840463fec7f10fe83193fe56c22ba1665]{
+-- Page 18, Offset 21606.
+-- I guess he did have a more sensitive side.
+Eu acho que ele tinha um lado mais sensível.
+}
+[sha:414e9839b60c5dfadcf8247481b0ffd03d14ca92]{
+-- Page 19, Offset 21607.
+-- "I don't believe we need to hunt for the culprit.
+"Eu não acredito que vamos ter que caçar o culpado.
+}
+[sha:f3981c0495d41b0c71d9156c84bea82e21080214]{
+-- Page 19, Offset 21608.
+-- If this is the work of a Ploy Kickshaw, that makes Alice Kuonji the prime suspect, followed by Aoko Aozaki, and May Riddell Archelot.
+Se esse for o trabalho de um Ploy Kickshaw, isso torna Alice Kuonji a principal suspeita, seguida por Aoko Aozaki e May Riddell Archelot.
+}
+[sha:0e93a01724bef0f82f0820c95c28baac562aa0ed]{
+-- Page 19, Offset 21609.
+-- Humans naturally laugh when their sides are prodded or the soles of their feet are tickled. There are ways to get the answers we seek... physically."
+Os seres humanos naturalmente riem quando suas laterais são cutucadas ou as solas dos pés recebem cócegas. Há maneiras de obter as respostas que buscamos... fisicamente"
+}
+[sha:5e3a0966b7b934d43a0a7e342e54cc0f2103214f]{
+-- Page 20, Offset 21610.
+-- "Calm down, Yui.
+"Calma, Yui.
+}
+[sha:d4ab3e95bd1067d42af4de13fc9e8f43dfc0840b]{
+-- Page 20, Offset 21611.
+-- We should try to keep cool. No fighting. The culprit's probably counting on us to argue.
+Nós devemos manter a calma. Sem brigar. O culpado provavelmente quer que a gente brigue.
+}
+[sha:9249ad4600094c92b7daad7b5f7915a27c3089af]{
+-- Page 20, Offset 21612.
+-- Let's think of this more like a mystery novel and start by checking everyone's alibis, okay? No *physical* interrogations!"
+Vamos pensar nisso mais como um livro de mistério e começar checando os álibis de todo mundo? Sem interrogações *físicas*!"
+}
+[sha:af83f7ce0a5b07bc7745bb202b1433408da39c56]{
+-- Page 20, Offset 21613.
+-- "I agree with Ritsuka. We can use your method as a last resort, Sister. Remember, we have innocent students here in attendance as well."
+"Eu concordo com a Ritsuka. Podemos usar seus métodos como último recurso, Irmã. Lembre-se, temos estudantes inocentes presentes."
+}
+[sha:aef7cfd0d4b24ef4cc7cc38e8923d48b058528b9]{
+-- Page 21, Offset 21614.
+-- "Could we wait a bit before we start checking alibis?
+"Poderiamos esperar mais um pouco antes de checar os álibis?
+}
+[sha:aaf1e7c7a866cc07ffaa4bccd737f6f92294cfa2]{
+-- Page 21, Offset 21615.
+-- Before that... um, Sweets Hearts, was it? I'd like to hear more about that.
+Antes disso... uhm, Sweets Hearts, não era? Eu queria ouvir mais sobre isso.
+}
+[sha:81ab15c1f4a456f32ed180388c57695ac6b0545e]{
+-- Page 21, Offset 21616.
+-- Kuonji, tell us all you know.
+Kuonji, nos diga tudo que você sabe.
+}
+[sha:ca15690a3fa4b4ca95ff7405a1068c1cdef32a72]{
+-- Page 21, Offset 21617.
+-- We need to understand what it is."
+Nós precisamos entender o que é isso."
+}
+[sha:78535295b351974c16b44d01b2e905f469b056db]{
+-- Page 22, Offset 21618.
+-- "I suppose you're right. I didn't explain the essentials.
+"Suponho que você estaja certo. Eu não expliquei os essenciais.
+}
+[sha:0d47509cfeb01403bd27450f42eaaab3a0e92278]{
+-- Page 22, Offset 21619.
+-- Sweets Hearts is an egg-shaped pudding. It kind of looks like a hardboiled egg on top of an upside-down crown."
+Sweets Hearts é um pudim em forma de ovo. Parece um ovo cozido no topo de uma coroa de cabeça para baixo."
+}
+[sha:85056c0669c79036eee3c22b3cfb56aee144f130]{
+-- Page 23, Offset 21620.
+-- "That's novel. This is the first murder mystery I've heard of where the weapon was a pudding."
+"Isso é inovador. Este é o primeiro mistério de assassinato que ouço onde a arma é um pudim."
+}
+[sha:51323f0cf495ed44b12ed25dcf78636f08a7d905]{
+-- Page 24, Offset 21621.
+-- "Am I surrounded by idiots?
+"Estou cercada por idiotas?
+}
+[sha:728b8a1198425ddff44978035a4d196fad628355]{
+-- Page 24, Offset 21622.
+-- That's merely how it appears before it activates. Sweets Hearts becomes a doppelganger of the person who eats it."
+Essa é meramente sua aparência antes de se ativar. Sweets Hearts se torna num doppelganger da pessoa que o comer."
+}
+[sha:fc6f6c3936e1d9cf671e91d4ee77d35166412ed5]{
+-- Page 25, Offset 21623.
+-- "To be precise, whoever eats Sweets Hearts is imprisoned inside the egg; outside, the doppelganger appears.
+"Para ser precisa, quem come o Sweets Hearts é preso dentro do ovo; do lado de fora, o doppelganger aparece.
+}
+[sha:7f29399de5a2879677265803ffb18d0c0a729937]{
+-- Page 25, Offset 21624.
+-- So once Sweets Hearts is activated, it'll be in human form."
+Então assim que Sweets Hearts é ativado, estará em forma humana."
+}
+[sha:78eb0c4de41b128f626093353ebf9bbfd9da5de3]{
+-- Page 26, Offset 21625.
+-- "So, basically you're saying a person gets swapped with an imposter, right?"
+"Então, basicamente você está dizendo que a pessoa é trocado por um impostor, certo?"
+}
+[sha:0e0d3561898d74061258f5ec7cc0cb8618458564]{
+-- Page 26, Offset 21626.
+-- "Let me correct myself. Only Tobimaru isn't a complete idiot.
+"Deixe-me corrigir-me. Apenas o Tobimaru não é um completo idiota.
+}
+[sha:4097a2c7748e99974ef75291600f2c1c7dd1b29e]{
+-- Page 26, Offset 21627.
+-- That's right. Sweets Hearts is a Ploy that transforms into its user. A perfect replica- so perfect, it doesn't realize what it is."
+Está certo. Sweets Hearts é um Ploy que se transforma em seu usuário. Uma réplica perfeita- tão perfeita, que sequer sabe o que é."
+}
+[sha:5f0b9b7a692829c3a53a4face5aec18048ba1506]{
+-- Page 27, Offset 21628.
+-- "Too perfect, you could say.
+"Dá pra dizer que é perfeito até demais.
+}
+[sha:16d8bf4a17e26d184c925212b994976eac2f6534]{
+-- Page 27, Offset 21629.
+-- No matter how much you question or torture the suspect, without objective, absolute proof, they won't be exposed.
+Não importa o quanto você questione ou torture o suspeito, sem uma prova objetiva e absoluta, ele não será exposto.
+}
+[sha:cf5df4c6120e2273b25e6da5e1785b6cab5f707d]{
+-- Page 27, Offset 21630.
+-- Once evidence is presented to them, they finally realize that they are Sweetheart."
+Assim que evidência é apresentada à ele, ele finalmente percebe que ele é o Sweetheart."
+}
+[sha:4269aa14e0c94f8b624fae88553df087cf8816d9]{
+-- Page 28, Offset 21631.
+-- "Oh my god! It's a classic logic puzzle!
+"Meu Deus! É uma charada clássica!
+}
+[sha:67932d7823df8531b53e6edfdbbe4d96b2c0ddf5]{
+-- Page 28, Offset 21632.
+-- I can't take it anymore! This is so awesome!"
+Eu não aguento mais! Isso é tão incrível!"
+}
+[sha:86feb12039c6521a691eff3b3a8cf91538e3ebdd]{
+-- Page 28, Offset 21633.
+-- "It's said the best spies learn to convince themselves they're not spies, but this... is troublesome."
+"Dizem que os melhores espiões aprendem a se convencer de que não são espiões, mas isso é... problemático."
+}
+[sha:f62438e6bbd3819a12542115971f7f5cb53bc913]{
+-- Page 28, Offset 21634.
+-- "That doesn't sound quite right. The culprit wants us to laugh, no? If they don't know who they are, what would be the point?"
+"Isso não me parece certo. O culpado quer que a gente ria, não? Se ele não sabe quem ele é, então qual o ponto?"
+}
+[sha:586752af9765b9d8ce28ac38415ed393e9cbaa94]{
+-- Page 29, Offset 21635.
+-- "Sweetheart and its proxy human can switch on and off.
+"Sweetheart e seu humano representado podem ativar e desativar.
+}
+[sha:220b5af7089f551d762baf7ac830e02b783c9bb6]{
+-- Page 29, Offset 21636.
+-- Though normally a perfect doppelganger, Sweets Hearts's own personality can emerge when certain conditions are met.
+Embora normalmente um doppelganger perfeito, a personalidade de Sweets Hearts pode emergir quando certas condições são satisfeitas.
+}
+[sha:f5ecea8d31603e50b4b7853dd3f2ccd5912de25c]{
+-- Page 29, Offset 21637.
+-- Of course, when it has the personality of its proxy human, it has no memory of being activated."
+Claro, quando ele tem a personalidade de seu humano representado, ele não tem memórias de ser ativado."
+}
+[sha:05141d69f40a977527a7b8f2893962247c61f8f1]{
+-- Page 30, Offset 21638.
+-- What kind of setup was this?
+Que tipo de armação era essa?
+}
+[sha:cde8ee15444547c93230acacd26d91f82ebd15a2]{
+-- Page 30, Offset 21639.
+-- So, we were dealing with a formless butcher. A murderer with no ill intent.
+Então, estamos lidando com um carniceiro sem forma. Um assassino sem má-intenção.
+}
+[sha:26d78e65c69525c33b6e6792e0bf1eb9ce2932a4]{
+-- Page 30, Offset 21640.
+-- That meant the murderer could be anyone... even me!
+Isso significava que o assassino poderia ser qualquer um... até eu!
+}
+[sha:c4da47f2070733841a42569525f5cc4b3c5670c9]{
+-- Page 30, Offset 21641.
+-- Any one of us could be Sweets Hearts!
+Qualquer um de nós poderia ser Sweets Hearts!
+}
+[sha:a8c189e19ba3753039a55b60ccf833efe8f6a9a4]{
+-- Page 31, Offset 21642.
+-- "Everyone, relax. Just keep calm.
+"Galera, relaxa. Apenas fiquem calmos.
+}
+[sha:8d4141169b6da17a77632f8791c39e6735e5e73b]{
+-- Page 31, Offset 21643.
+-- If we start having too much fun, or start fighting, or get tired of this and try to go home, we're as good as dead."
+Se começarmos a nos divertir demais, ou começarmos a brigar, ou nos cansarmos disso e tentarmos ir para casa, estaremos mortos."
+}
+[sha:77cb0728a03d0f48142256cf69c890cf86b5db40]{
+-- Page 31, Offset 21644.
+-- "If anyone needs to calm down, it's you."
+"Se alguém precisa se acalmar, é você."
+}
+[sha:37fc77a78c73c18045ac1543e4bc3ec1d381745f]{
+-- Page 32, Offset 21645.
+-- "But how can I be calm in a situation like this?!
+"Mas como eu vou me acalmar numa situação dessas?!
+}
+[sha:162c47218093e9201d45e0bf08cf0d122c4d8400]{
+-- Page 32, Offset 21646. Mods: @k, @e.
+-- @o  If this is a dream, I don't want to wake up! At least half the group needs to ^die to really spice things up! And then, once I'm the last one left alive...
+@o  Se isso for um sonho, eu não quero acordar! Pelo menos metade do grupo precisa ^morrer pra realmente ficar interessante! E então, quando eu for a última viva...
+}
+[sha:a2d0d17dfcc15dc37b4add9b7676ef95d780a223]{
+-- Page 32, Offset 21647. Glued. Mods: @x.
+-- Ack!"
+Ack!"
+}
+[sha:862938e776a6b39b3c549dca819aa4731660bca1]{
+-- Page 33, Offset 21648.
+-- "Wow. Talk about a crazy Ploy.
+"Uau. Que Ploy insano.
+}
+[sha:9f507daf9c499868689f8a374d6be659cdad9d1b]{
+-- Page 33, Offset 21649.
+-- I guess all we can do at this point is check everyone's alibis."
+Eu acho que tudo que podemos fazer agora é checar os álibis."
+}
+[sha:06ba949b9358f16cb8b262514d9522ad5446f5fb]{
+-- Page 33, Offset 21650.
+-- "Right. We might not be able to pin Sweets Hearts, but we might be able figure out who committed the murders."
+"Certo. Mesmo que não possamos identificar o Sweets Hearts, ainda podemos descobrir quem cometeu os assassinatos."
+}
+[sha:18430a4fedba9597ba75abe6436487d92a809332]{
+-- Page 34, Offset 21651.
+-- "Let's testify one by one. We should go over everything we did today. If anything seems inconsistent, don't hold back.
+"Vamos testificar um por um. Devemos rever tudo o que fizemos hoje. Se algo parecer inconsistente, não se segure.
+}
+[sha:e55298021abd8776356a4647d57b8735e1ec419c]{
+-- Page 34, Offset 21652.
+-- I guess I'll start, then."
+Vou começar, então."
+}
+[sha:9c1ff0025a3234936200b022e5b3e50cd7fc5834]{
+-- Page 35, Offset 21653.
+-- No one objected to Tsukiji's initiative.
+Ninguém se opôs à iniciativa do Tsukiji.
+}
+[sha:795aa378c1ee2d1b86856b5a66fdbfb41b685a2c]{
+-- Page 35, Offset 21654.
+-- If he didn't want to go first, he'd look suspicious.
+Se ele não fosse primeiro, ele pareceria suspeito.
+}
+[sha:041591d795cbe6b7725003313f783db3062c88fe]{
+-- Page 36, Offset 21655.
+-- "Beo, Kinomi, Yurihiko, and I all came here at ten this morning.
+"Beo, Kinomi, Yurihiko e eu todos viemos para cá as dez da manhã.
+}
+[sha:5a9d1ec42b970f76f7e300b2308bcdc56a2586f3]{
+-- Page 36, Offset 21656.
+-- After saying hi to Kuonji, we each went to our rooms to rest, then met again at 11 o'clock in the drawing room and had lunch.
+Depois de dizer oi pra Kuonji, nós fomos para os nossos quartos para descansar, então nos vimos novamente as 11:00 na sala de estar e almoçamos.
+}
+[sha:6ba2c65403d47ca8f4d94fbf5badcdb505482f5b]{
+-- Page 36, Offset 21657.
+-- Oh, yeah. Around that time, Yurihiko went missing."
+Ah, é. Por volta dessa hora, o Yurihiko desapareceu."
+}
+[sha:07b7239c28558cb34dcd25e761521e66071e69ba]{
+-- Page 37, Offset 21658.
+-- "Aozaki, Mr. Yamasiro, and Kumari arrived in the afternoon.
+"Aozaki, Sr. Yamasiro e Kumari chegaram de tarde.
+}
+[sha:880c1fbfb85b0330ab0123c3151fdd3b44538230]{
+-- Page 37, Offset 21659.
+-- Then, in the evening, Riddell barged in uninvited.
+Então, durante a noite, Riddell invadiu sem ser chamada.
+}
+[sha:e8263c1ec2659e29c19d0244b82d3d18715256fa]{
+-- Page 37, Offset 21660.
+-- I went to the bathroom a few times, but besides that I was here in the drawing room and the sunroom.
+Eu fui para o banheiro algumas vezes, mas além disso eu estava aqui na sala de estar e no solário.
+}
+[sha:f123bc569e74d4c0ee736b2a55eb15fda67eef18]{
+-- Page 37, Offset 21661.
+-- During that period, the only person who never left the parlor was Kuonji."
+Durante esse periodo, a única pessoa que nunca saiu do salão foi a Kuonji."
+}
+[sha:b18824bdb8590beed64b4c3131e3a48320786e00]{
+-- Page 38, Offset 21662.
+-- "This morning, I went shopping in town, then met Kumari straight away in the afternoon. For some reason, Mr. Yamasiro was also there.
+"Esta manhã, fui fazer compras na cidade, então logo depois me encontrei com a Kumari à tarde. Por alguma razão, o Sr. Yamasiro também estava lá.
+}
+[sha:ce5922183b04ac235319c89073793e8cebcfb0c7]{
+-- Page 38, Offset 21663.
+-- The three of us arrived at the mansion sometime after two.
+Nós três chegamos na mansão pouco depois das duas.
+}
+[sha:c8840ac31f9dfcd1efc19e2cf21d4616c49b1a03]{
+-- Page 38, Offset 21664.
+-- After saying hello to Tobimaru in the drawing room, I spent the rest of the time between there and the sunroom.
+-- Depois de dizer olá pro Tobimaru na sala de estar, eu passei o resto do tempo entre aqui e o solário.
+}
+[sha:3b86f1485eb78c2bb3e9c928b4c9f1b9c921c3a6]{
+-- Page 38, Offset 21665.
+-- I left a few times for the restroom, but I didn't see Tokie once."
+Eu sai algumas vezes pro banheiro, mas não vi o Tokie uma vez sequer."
+}
+[sha:4acd1f7baa4e064c41da14076cc4801ebfdd7f27]{
+-- Page 39, Offset 21666.
+-- "Huh? Do I have to go too? Whatever, but my story's the same as everyone else's.
+"Huh? Eu tenho que falar também? Tanto faz, mas a minha história é a mesma de todo mundo.
+}
+[sha:d2d47277059588e897428410c9aaa7c3bcf130e4]{
+-- Page 39, Offset 21667.
+-- Y'know, it's a long weekend, so I hit Toby up and spent the night at his house yesterday. Housuke was there, too, so it was wild.
+Sabe, é um final de semana longo, então eu chamei o Toby e passei a noite na casa dele ontem. O Housuke tava lá também, foi salvagem.
+}
+[sha:75f3c400573c6e4d4cafe18f353b05345f3e75c5]{
+-- Page 39, Offset 21668.
+-- In the morning, we all went to the park together to meet up with the old guy, before coming here in a sweet Rolls-Royce.
+De manhã, a gente foi pro parque junto pra se encontrar com o velho, antes de vir pra cá numa Rolls-Royce maneira.
+}
+[sha:711ba39065e36288ecaa0253bfca4e7e7ddfaaa2]{
+-- Page 39, Offset 21669.
+-- At ten, I said what's up to Alice. Since then, I've just been here chilling the whole time!"
+As dez, eu disse e aí pra Alice. Desde então, eu só fiquei aqui relaxando o tempo todo!
+}
+[sha:340ce52bcca83e15b28e3f0d3186f369fc671444]{
+-- Page 40, Offset 21670.
+-- I...
+Eu...
+}
