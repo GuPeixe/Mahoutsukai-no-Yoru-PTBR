@@ -14,6 +14,7 @@ Arquivos da tradução de Mahoyo. Repositório criado para maior facilidade na o
 - Capítulo 5-II: Em progresso
 - Cápitulo 6: Em progresso
 - Cápitulo 7: Em progresso
+- Cápitulo 8: Em progresso
 - Cápitulo 8.5: Em progresso
 - Cápitulo 9: Em progresso
 - Cápitulo 10: Em progresso
