@@ -1,0 +1,5 @@
+[sha:f450348bd7a699a3460f42724288cbf5c0b959ad]{
+-- Page 0, Offset 21776.
+-- I'm sorry, Ritsuka, but it looks like the rain might turn to hail.
+Me desculpe, Ritsuka, mas parece que a chuva pode virar granizo.
+}

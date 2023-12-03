@@ -1,0 +1,275 @@
+[sha:7539b31bb6a438f6095ae24504a47148f7b3664c]{
+-- Page 0, Offset 21777.
+-- Maybe I should just go home.
+Talvez eu devesse voltar para casa.
+}
+[sha:6c19b3bb6ebdfb49506e60376b440fbe5706b383]{
+-- Page 1, Offset 21778.
+-- "The weather forecast said it'd be sunny...
+"A previsão do tempo disse que seria ensolarado...
+}
+[sha:b0d86fe7a6590109ea3cd7d9cf4ad54fb21d8c19]{
+-- Page 1, Offset 21779.
+-- Hmm. If this gets any worse, it might be hard to get home. Most taxis are only willing to drive halfway up the mountain."
+Hmm. Se ficar pior, talvez eu não consiga voltar para casa. A maioria dos táxis só estão dispostos a subir até a metade da montanha."
+}
+[sha:372c77d0090a9ca1a1d037d6ebc22e8ff2308c94]{
+-- Page 2, Offset 21780.
+-- Ritsuka was right.
+Ritsuka estava certa.
+}
+[sha:e045a373ddf250a3a054bcb1cbbcc9429d034309]{
+-- Page 2, Offset 21781.
+-- If you really wanted to go home, you'd have to be ready to be soaked to the bone.
+Se você quisesse mesmo voltar para casa, você teria que estar pronto para ficar encharcado até os ossos.
+}
+[sha:34e009a0a95502c606f0c812f0077334f249e5a0]{
+-- Page 2, Offset 21782.
+-- Thinking about it, I couldn't believe Aozaki stuck out the commute to and from school for over two years. I was impressed.
+Parando para pensar, Eu não podia acreditar que Aozaki aguentou esse trajeto para a escola por mais de dois anos. Eu estava impressionada.
+}
+[sha:28b49f78448cf9a1024b0273a21c12e45856b474]{
+-- Page 3, Offset 21783.
+-- "Huh? What's up, Kojika?
+"Huh? O que foi, Kojika?
+}
+[sha:b8b5879d685563a219adcede597d2b1b2a7cbdd6]{
+-- Page 3, Offset 21784.
+-- Isn't everyone in the drawing room?"
+Não está todo mundo na sala de estar?"
+}
+[sha:a32f223db4d4700a5fd68370a52f0dd1c9933a7c]{
+-- Page 3, Offset 21785.
+-- "I just forgot something in my room.
+"Eu esqueci algo no meu quarto.
+}
+[sha:8c4c8d1ebc54efe212cea48416b2c73e1970533a]{
+-- Page 3, Offset 21786.
+-- You guys can go on ahead."
+Vocês podem ir na frente."
+}
+[sha:d218695de73046d68c5053d28f5e0f43b25be0cf]{
+-- Page 4, Offset 21787.
+-- I retrieved my overnight bag from the guest room and returned to the foyer.
+Eu peguei minha bolsa no quarto de hóspedes e retornei ao vestíbulo.
+}
+[sha:d8fd50bd3b2b8a630e59c10238d2dc201415be72]{
+-- Page 4, Offset 21788.
+-- I could hear Ritsuka and the others laughing in the drawing room.
+Eu podia ouvir Ritsuka e os outros rindo na sala de estar.
+}
+[sha:e44d47a79454508f7068c53b0f25cdfd700ca931]{
+-- Page 4, Offset 21789.
+-- Reluctantly, I left the Kuonji Estate.
+Relutantemente, eu sai da propriedade Kuonji.
+}
+[sha:4dc847609bfc6da8e92ba0d8d6e185064d2cc8c3]{
+-- Page 5, Offset 21790.
+-- I'm not exactly sure why I wanted to go home.
+Não sei bem por que queria voltar para casa.
+}
+[sha:2fe90d50d8b26a3d8c4b54bf83d3cb4b8c427913]{
+-- Page 5, Offset 21791.
+-- Maybe I felt overwhelmed by the mansion.
+Talvez eu me sentisse pressionada pela a mansão.
+}
+[sha:7365cecaf9db8e27bf6a5d90e71b1d04aee34ceb]{
+-- Page 5, Offset 21792.
+-- Maybe it just wasn't my scene.
+Talvez apenas não fosse meu tipo de coisa.
+}
+[sha:6cf418f00089856cb038b4d8bc81980a288e57c5]{
+-- Page 5, Offset 21793.
+-- Or maybe... it was because Tsukiji was there. It was probably a combination of all three.
+Ou talvez... fosse porque o Tsukiji estava lá. Provavelmente era uma combinação de todos os três.
+}
+[sha:bad62cefd68cbeb71f03486214edcf3d7fcc67d6]{
+-- Page 6, Offset 21794.
+-- The sun was nearly below the horizon.
+O sol estava quase abaixo do horizonte.
+}
+[sha:fac554a0570929d8889d992aa31f4471e38e1a7b]{
+-- Page 6, Offset 21795.
+-- If I could just get home before dark, I could end the day without incident.
+Se eu pudesse chegar em casa antes de escurecer, eu poderia terminar o dia sem incidentes.
+}
+[sha:a38185c9fe52597c2c3387a42e738249d7680247]{
+-- Page 6, Offset 21796.
+-- I wasn't ready to face Tsukiji, with entrance exams around the corner.
+Eu não estava pronta para encarar o Tsukiji, com exames de admissão chegando.
+}
+[sha:49d77539f1b2ad6207c2dc207806a3c087e315a6]{
+-- Page 6, Offset 21797.
+-- Walking down Shiroinuzuka, I told myself this was for the best.
+Descendo Shiroinuzuka, eu disse a mim mesma que isso era para o melhor.
+}
+[sha:6e217a97cdc9f0939184133b11789a88320dd951]{
+-- Page 7, Offset 21798.
+-- But then...
+Mas então...
+}
+[sha:d6261e93e9e6dcecb9346072054ad58cf8766970]{
+-- Page 7, Offset 21799.
+-- ...I suddenly recalled another urban legend.
+...eu me lembrei de outra lenda urbana.
+}
+[sha:f7ad5be8b2204ab87172f2ec26e0edce151b8146]{
+-- Page 8, Offset 21800.
+-- "Descend the mountain alone in the witching hour
+"Desça a montanha sozinho na hora das bruxas
+}
+[sha:a313918341564725051e861763de3cca000b8bf1]{
+-- Page 8, Offset 21801.
+-- and a cannibal will be waiting for you at the bottom."
+e um canibal estará esperando por você no fim."
+}
+[sha:35d2a5cc060fc883f24a9903763dfdc011bdbb0d]{
+-- Page 9, Offset 21802.
+-- Long before the Kuonji Estate was built, this mountain was home to a monster who attacked and killed anyone foolish enough to stray too far from their group.
+Muito antes da propriedade Kuonji ser construida, essa montanha era o lar de um monstro que atacava e matava qualquer um tolo o bastante para se separar de seu grupo.
+}
+[sha:b159d30f7f3664f7a45d49b23c3f42aeba429321]{
+-- Page 9, Offset 21803.
+-- The words "attacked and killed" make it sound more humane than "ate."
+As palavras "atacava e matava" fazem com que essa coisa se pareça mais humano do que "comeu".
+}
+[sha:e9611a3c54c5c5e88ff047ba874b2b2ae4153b76]{
+-- Page 9, Offset 21804.
+-- It was probably someone who was cast out of their village.
+Era provavelmente alguém que foi expulso de sua vila.
+}
+[sha:c3c833e161f1b09c4a320c3398f8dbafde5b5938]{
+-- Page 9, Offset 21805.
+-- Wow, these are some dark thoughts I'm h-
+Wow, que pensamentos sombrios são esses que eu tô ten-
+}
+[sha:7f90bbcdd81725f82c7ccf12d1658f37f26a55ec]{
+-- Page 10, Offset 21806.
+-- "Huh?"
+"Huh?"
+}
+[sha:abcc400148107c396a04df174acd859bf1cfd06a]{
+-- Page 10, Offset 21807.
+-- I must have taken a wrong turn.
+Eu devo ter feito uma curva errada.
+}
+[sha:83850b8d77c3d1ed99b77de6066d3a9074b803bf]{
+-- Page 10, Offset 21808.
+-- I was back behind the Kuonji Estate.
+Eu havia voltado para os fundos da propriedade Kuonji.
+}
+[sha:4089233b162c3731701043f4588e5f0faeadd1ce]{
+-- Page 11, Offset 21809.
+-- "That's weird... I'm sure I was heading down the hill."
+"Que estranho... Eu tenho certeza de que eu estava descendo o morro."
+}
+[sha:2367694ca665c4ec3329ca2ecd43854524d85657]{
+-- Page 11, Offset 21810.
+-- I thought out loud to try and ease my tension.
+Eu pensei em voz alta para tentar aliviar minha tensão.
+}
+[sha:e0df9a80f7ff986251f1021940e90ab4bda4f597]{
+-- Page 12, Offset 21811.
+-- Wait, what was that?
+Espera, o que foi aquilo?
+}
+[sha:830fdf1741a75e6455ed801e7d0c74c5a25d8076]{
+-- Page 12, Offset 21812.
+-- A shadow in the shade of the trees. It looked human.
+Um vulto na sombra das árvores. Parecia humano.
+}
+[sha:eddd4f25a8dd02eafbb9583f82404b6262f649c6]{
+-- Page 13, Offset 21813.
+-- "Is someone there?"
+"Tem alguém aí?"
+}
+[sha:d9c0f6645caa564349412d60ea7257779f0a6a11]{
+-- Page 13, Offset 21814.
+-- My voice rang out.
+Minha voz ecoou.
+}
+[sha:13dcad67ac7379048230612fa5a11a0f7c363e5a]{
+-- Page 13, Offset 21815. Glued. Mods: @x.
+-- No response.
+Sem resposta.
+}
+[sha:7a49a6d06f0f28601e611676fe77a1756711f9da]{
+-- Page 13, Offset 21816. Glued. Mods: @x.
+-- It was getting dark out.
+Estava ficando escuro.
+}
+[sha:b35fa1e2c391abe76b0f740f549b4a53e049a67e]{
+-- Page 13, Offset 21817. Glued. Mods: @x.
+-- There wasn't even a breeze.
+Não havia sequer uma brisa.
+}
+[sha:61dd90a75804852cc06362164e77c35dff12f9ed]{
+-- Page 13, Offset 21818.
+-- Now I remembered why I wanted to go home.
+Agora me lembrei porque queria voltar para casa.
+}
+[sha:d6f398989905e656aff252a19910dd92af4f3882]{
+-- Page 13, Offset 21819.
+-- Yeah.
+Sim.
+}
+[sha:1bc67021708e730b53bd71b8c0be1d7302c900b3]{
+-- Page 13, Offset 21820.
+-- I had a feeling that something bad would happening if I stayed-
+Eu sentia que algo ruim iria acontecer se eu ficasse-
+}
+[sha:c2b3a038b8572ffddcb09a99b0ac66eaf41967ae]{
+-- Page 14, Offset 21821.
+-- "Ah..."
+"Ah..."
+}
+[sha:548c97bce3e5dbb6af8a5e1661b2acd1f40a2372]{
+-- Page 14, Offset 21822.
+-- Something... impossible unfolded before my eyes.
+Algo... impossível aconteceu diante meus olhos.
+}
+[sha:be9c213aedda66fc90127bd4eac532fd35a86f43]{
+-- Page 14, Offset 21823.
+-- I felt a sudden shock in my stomach.
+Eu senti um choque repentino em meu estômago.
+}
+[sha:eaf9dd0c09db6dfa2be6d8b86953b048fb2e59d2]{
+-- Page 14, Offset 21824.
+-- Reflexively, I brought my hand to my mouth. Too late.
+Reflexivamente, levei minha mão à minha boca. Tarde demais.
+}
+[sha:cfa92b00e970965620c101cff6f4288847dd9c2a]{
+-- Page 15, Offset 21825.
+-- I fell to the ground.
+Eu caí no chão.
+}
+[sha:5123770855185a668830dbc266d38d2e6309b52a]{
+-- Page 15, Offset 21826.
+-- Warm blood flowed out of me, along with my strength.
+Sangue quente fluiu para fora de mim, junto com minha força.
+}
+[sha:05ffd3267b55c8d580c74e46d754ce561151a21d]{
+-- Page 15, Offset 21827.
+-- My hands helplessly reached to the sky for help.
+Minhas mãos se ergueram impotentes para o céu em busca de ajuda.
+}
+[sha:55f9b52014edca007dd1a311a3db27e9079ebff1]{
+-- Page 15, Offset 21828.
+-- It took the last of my strength, but I managed to catch sight of the shadow.
+Aquilo tomou o resto de minha força, mas eu consegui avistar o vulto. 
+}
+[sha:0da82a2e47a74d4ea2a6f3e280019db6181460a9]{
+-- Page 16, Offset 21829. Mods: @c.
+-- "NOw, tHat WoN't dO. DoN'T fiNiSh ThIs BEfoRE WE'Ve EVen STARteD."
+"aSSiM, NãO vAI dAr. NãO tErMinE As CoISAs ANteS mEsMo De CoMEçARmoS."
+}
+[sha:cbae4b7ce2d916a6ed44a81d00864bd4a4966043]{
+-- Page 17, Offset 21830.
+-- Something axe-shaped came swinging down.
+Algo em forma de machado desceu sobre mim.
+}
+[sha:726a780fb10861aafe33d993920b2bc4b28a2775]{
+-- Page 17, Offset 21831.
+-- The last words I ever heard came from someone with the face of a monster.
+As últimas palavras que eu ouvi vieram de alguém com a face de um monstro.
+}
