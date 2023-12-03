@@ -1,0 +1,135 @@
+[sha:c29f3f99e63c364827e64a10d82f92823d883be3]{
+-- Page 0, Offset 21447.
+-- ...Time to find out who that was.
+...Hora de descobrir quem era.
+}
+[sha:5a87882d0731b40e2c87e814f9f0dbfcfe421d1f]{
+-- Page 0, Offset 21448.
+-- It went against my better judgment, but I decided to track down whoever had been watching me.
+Ia contra meu bom senso, mas eu decidi procurar por quem estava me observando.
+}
+[sha:a65180d8afe5bb2237943ebe49daee3f221c80be]{
+-- Page 0, Offset 21449.
+-- I headed around to the rear of the mansion, where there was a small thicket.
+Eu me dirigi em volta da mansão aos fundos, onde havia um pequeno matagal.
+}
+[sha:62b8918933255243a1d17d1576762feabc2fe8da]{
+-- Page 0, Offset 21450.
+-- It looked only slightly better kept than the woods surrounding the estate.
+Parecia apenas ligeiramente melhor cuidado do que os bosques ao redor da propriedade.
+}
+[sha:be918a0261f37700add45277f426f57aa25122f7]{
+-- Page 0, Offset 21451.
+-- There,
+Alí,
+}
+[sha:f50d78463b418f9dd991cd1a1bb2d940be3cde69]{
+-- Page 0, Offset 21452.
+-- I saw a woman. She looked terribly out of place.
+Eu vi uma mulher. Ela parecia terrívelmente deslocada.
+}
+[sha:fb19f5e20d5e9f536fcbb705a3cc322d8333cec7]{
+-- Page 1, Offset 21453.
+-- "Hello, there. Are you one of today's guests?"
+"Olá. Você é um dos convidados de hoje?"
+}
+[sha:1d58759b1e3b6bd194f025b129939c2eff4646ad]{
+-- Page 1, Offset 21454.
+-- Instinctively, I backed away.
+Instintivamente, eu recuei.
+}
+[sha:5e8a4c082bfe6218b67e7af5badf0c812309d758]{
+-- Page 1, Offset 21455.
+-- That was how overwhelming her presence was.
+Tamanha era o peso de sua presença.
+}
+[sha:64ff9c7731e71b04c1aa810bd52026aa4f95cec0]{
+-- Page 1, Offset 21456.
+-- The leaves crinkled and crunched as my heels trampled them
+As folhas dobravam e quebravam enquanto meus calcanhares as pisavam
+}
+[sha:01a0505a06e0eca4cbdb9dfe2f643495a696a56c]{
+-- Page 1, Offset 21457.
+-- during my hasty retreat.
+durante minha fuga apressada.
+}
+[sha:c476c054dd76c102f16cfe2d19b2b1c51e869620]{
+-- Page 1, Offset 21458.
+-- The woman watched me with amusement, as if observing a small animal.
+A mulher me assistia com deleite, como se observasse um animal pequeno.
+}
+[sha:96234d1da938c0a90a63572999d3c1eaeec46ebc]{
+-- Page 2, Offset 21459.
+-- "I didn't expect much from their guests, but how mistaken I was! Here you are, feast for my eyes!
+"Eu não esperava muito de seus convidados, mas quão errada eu estava! Aqui está você, um banquete para meus olhos!
+}
+[sha:ce2e463c2d7ac582cd4b8f28b3f97f3b1ddbabe6]{
+-- Page 2, Offset 21460.
+-- I have to say, Aoko might actually have some taste after all. This will make things much more interesting."
+Eu devo dizer, talvez a Aoko tenha um bom gosto. Isso tornará as coisas muito mais interessantes."
+}
+[sha:0dfe79378f8d1114d2b4456be2de03058fc0552d]{
+-- Page 2, Offset 21461.
+-- The way she looked at me was a little- no, *incredibly* off-putting.
+A maneira que ela me olhava era um pouco-não, *incrívelmente* desconcertante.
+}
+[sha:ca7629d675c8a283822f627a2de083d64df73d02]{
+-- Page 2, Offset 21462.
+-- Where are the police when you need them?
+Onde está a polícia quando se precisa deles?
+}
+[sha:5dc0ddae1c9c58a309f7fbb2115e819538922dd1]{
+-- Page 3, Offset 21463.
+-- "No need to be alarmed. I'm a guest just like you. Let's be friends.
+"Não precisa ficar assustada. Assim como você, eu sou uma convidada. Vamos ser amigas.
+}
+[sha:d3415f581f5479d942cd21f2b7833762efb8aa37]{
+-- Page 3, Offset 21464.
+-- To be frank, I didn't expect anyone else to be checking out the lay of the land, before things *go down*.
+Para ser franca, eu não esperava que mais alguém verificasse o terreno, antes que as coisas *aconteçam*.
+}
+[sha:b6c769d47d2d105ed8544fa47c44e6431748715e]{
+-- Page 3, Offset 21465.
+-- Oh, I like you. I like you, and you're cute... so here's a freebie.
+Oh, eu gosto de você. Eu gosto de você, e você é fofa... então toma um brinde.
+}
+[sha:7d6a54ba725ed09b03cf75ab365fe388d61618ca]{
+-- Page 3, Offset 21466.
+-- I normally can't see very well. I'm in Aozaki's room. And, I'm not the culprit."
+Eu normalmente não enxergo bem. Eu estou no quarto da Aozaki. E, eu não sou a culpada."
+}
+[sha:7f90bbcdd81725f82c7ccf12d1658f37f26a55ec]{
+-- Page 3, Offset 21467.
+-- "Huh?"
+"Huh?"
+}
+[sha:5e5e31a8d80ebfef4bc1a5a5928d22476a4aaacf]{
+-- Page 4, Offset 21468.
+-- "Trust me, it'll come in handy. Just keep a lid on it, okay?"
+"Confie em mim, isso será útil. Apenas guarde para você, ok?"
+}
+[sha:8d56d893a7d0ecb03bca2676367566f4bbbe7614]{
+-- Page 4, Offset 21469.
+-- And with those strange words, the woman walked off in the direction of the mansion.
+E com essas estranhas palavras, a mulher saiu andando em à direção da mansão.
+}
+[sha:b7a2758f724efb925023b6e94afe96029d0da852]{
+-- Page 4, Offset 21470.
+-- I didn't feel like following her, so I reentered the house from the front door.
+Eu não quis segui-la, então eu reentrei a casa pela porta da frente.
+}
+[sha:2770a27fbc9864296031ed090c7b612681e89467]{
+-- Page 5, Offset 21471.
+-- Once in the foyer, I could hear laughter coming from the east wing drawing room, to my right.
+Já no vestíbulo, eu conseguia ouvir risos vindo da sala de estar na ala leste, para minha direita.
+}
+[sha:43ee1f412e77b6725e97e13fb24c8a3ac5e99baa]{
+-- Page 5, Offset 21472.
+-- I'd kept Aozaki waiting long enough.
+Eu deixei a Aozaki esperando o suficiente.
+}
+[sha:9ddfdb38cd08ae3bd71f5408340bf6cbbef7bc92]{
+-- Page 5, Offset 21473.
+-- Picking up my luggage, I made my way over.
+Pegando minha bagagem, eu segui o meu caminho.
+}

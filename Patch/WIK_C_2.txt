@@ -1,0 +1,20 @@
+[sha:22003ee0f58723c60dcaf76a525f29a259c04d36]{
+-- Page 75, Offset 21474.
+-- ...Something clearly wasn't right.
+...Algo claramente não estava certo.
+}
+[sha:1d4c8fc262b54ba3fa9890c292a42257fee98aae]{
+-- Page 75, Offset 21475.
+-- I recalled this place's reputation as a haunted mansion, but firmly resolved to put that out of mind. Still, if I was going to explore, it was best not to go alone.
+Eu me lembrei da reputação desse lugar como uma mansão mal-assombrada, mas firmemente resolvi tirar isso da cabeça. Ainda assim, se eu fosse explorar, era melhor não ir sozinha.
+}
+[sha:424255b43bbcc9fa700d73c5d0238175752d04bd]{
+-- Page 75, Offset 21476.
+-- Returning to the foyer, I could hear laughter coming from the east wing drawing room, to my right.
+Retornando ao vestíbulo, eu conseguia ouvir risos vindo da sala de estar na ala leste, para minha direita.
+}
+[sha:10cc0505f1176dea9b4d400e6a707bb4f9c14c72]{
+-- Page 75, Offset 21477.
+-- I picked up my luggage and made my way over.
+Eu peguei minha bagagem e segui o meu caminho.
+}
